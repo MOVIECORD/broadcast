@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Aug 2021 20:07:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 20:32:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,6 +374,78 @@
             <pubDate>Sat, 28 Aug 2021 20:01:20 GMT</pubDate>
             <content:encoded><![CDATA[2021-08-08]]></content:encoded>
             <enclosure url="http://img.imbc.com/adams/Content/20218/132731345295313031.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[존박의 플레이리스트] 쿨 러닝 / [소문의 시작] 코다 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021142915-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021142915-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 28 Aug 2021 20:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/08/25/61261acc6b74f42e85297618/thumbnail/61261acc6b74f42e85297618_edit_1_1629887850348.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[존박의 플레이리스트] 그 해 여름 / [도도한 영화] 습도 다소 높음 / [신들의 전쟁]  ‘덩치 큰’ 녀석들이 온다! - 3색 재난 영화 / [1+1] 블랙 위도우 + 용의자 / [덕력충전소] 판데믹 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021117055-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021117055-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 28 Aug 2021 20:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[7일 전 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/08/21/612063dd6b74f42e852889a0/thumbnail/612063dd6b74f42e852889a0_edit_1_1629515654543.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1+1] 47미터 vs 김씨 표류기 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021131264-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021131264-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 28 Aug 2021 20:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[92회]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/08/18/611cde69a46aec3dd0bc84aa/thumbnail/611cde69a46aec3dd0bc84aa_edit_1_1629282468164.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[요주의 픽] 제천국제음악영화제 / [존박의 플레이리스트] 스물 / [소문의 시작] 인질 / [1+1] 미드나이트 + 콰이어트 플레이스2 / [덕력충전소] 위 아 레이디 파트 / [영화 보고서 TOP5] 잊지 말자! 영화보다 영화 같은 독립 운동들 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021117054-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021117054-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 28 Aug 2021 20:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[762회]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/08/14/611728dba46aec3dd0bbb239/thumbnail/611728dba46aec3dd0bbb239_edit_1_1628909027581.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[존박의 플레이리스트] 인턴 / [소문의 시작] 싱크홀 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021131263-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021131263-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 28 Aug 2021 20:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[91회]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/08/11/61139cdea46aec3dd0bb1bec/thumbnail/61139cdea46aec3dd0bb1bec_edit_1_1628675803436.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[올림픽 특집 - 신들의 전쟁] 가족과 함께 보기 좋은 스포츠 영화 / [소문의 시작] 코다 / [존박의 플레이리스트 - 올림픽 스페셜] 쿨 러닝 / [나는 영화인이다] '황정민'이라는 고유명사 : 초심으로 돌아간 배우 황정민 / [1+1] 발신제한 + 더 테러 라이브 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021096024-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021096024-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 28 Aug 2021 20:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[761회]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/07/24/60fb5d332f29ea6d6ba5a9ee/thumbnail/60fb5d332f29ea6d6ba5a9ee_edit_1_1627087182871.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[소문의 시작] 아이스로드 / [존박의 플레이리스트] 8월의 크리스마스 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021114479-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021114479-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 28 Aug 2021 20:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[90회]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/07/21/60f7f2e1c0b8554490b19636/thumbnail/60f7f2e1c0b8554490b19636_edit_1_1626862738369.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[요주의 픽] 프리가이 / [존박의 플레이리스트] 인턴 / [소문의 시작] 싱크홀 · 모가디슈 / [1+1] 방법: 재차의 + 콜로설 / [영화 보고서 TOP5] 떡잎부터 달랐다?! 의외의 아역 출신 스타들 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021096023-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021096023-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 28 Aug 2021 20:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[760회]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/07/17/60f2403c7437993c17760264/thumbnail/60f2403c7437993c17760264_edit_1_1626491697216.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[소문의 시작] 제 8일의 밤 / [존박의 플레이리스트] 위플래쉬 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021114478-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021114478-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 28 Aug 2021 20:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[89회]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/07/14/60eeb4407437993c177561b0/thumbnail/60eeb4407437993c177561b0_edit_1_1626257095396.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
