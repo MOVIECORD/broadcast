@@ -17,3 +17,13 @@ linkSelector = "a"
 imageSelector = "span.img.vod img"
 contentSelector = "span.cnt"
 waitUntil = "networkidle"
+
+[kbs_ilovemovie_replay]
+title = "영화가 좋다 ─ 다시보기"
+url = "https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/list.html?smenu=c2cc5a"
+entrySelector = "ul.comp01-list li"
+titleSelector = "span.des.ng-binding.ng-scope"
+linkSelector = "a.listFullVod"
+imageSelector = "img"
+contentSelector = "span.episode.ng-binding.ng-scope"
+waitUntil = "networkidle"
