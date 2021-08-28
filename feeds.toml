@@ -1,0 +1,9 @@
+[movieroom]
+title = "방구석1열"
+url = "https://program.naver.com/p/8121580/clip"
+entrySelector = "li.ClipCard_item__1ly4h"
+titleSelector = "strong.ClipCard_title__2I1pd"
+linkSelector = "a.ClipCard_link__2XpqM"
+imageSelector = "img.ClipCard_img__2XgXF"
+contentSelector = "span.ClipCard_time__128vc"
+waitUntil = "networkidle"
