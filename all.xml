@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Aug 2021 17:41:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 18:46:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,6 +246,134 @@
             <pubDate>Sat, 28 Aug 2021 14:38:55 GMT</pubDate>
             <content:encoded><![CDATA[02:32]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg=="/>
+        </item>
+        <item>
+            <title><![CDATA[블랙 위도우의 모든 비밀이 드디어 밝혀진다. 아무도 믿지 마세요, MBC 210822 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>https://MOVIECORD.github.io/broadcast/all.xml</link>
+            <guid>https://MOVIECORD.github.io/broadcast/all.xml</guid>
+            <pubDate>Sat, 28 Aug 2021 18:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021-08-22]]></content:encoded>
+            <enclosure url="http://img.imbc.com/adams/Content/20218/132743442119049462.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[흔적도 없이 사라진 마을! 사람들이 죽어간다...!, MBC 210822 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>https://MOVIECORD.github.io/broadcast/all.xml</link>
+            <guid>https://MOVIECORD.github.io/broadcast/all.xml</guid>
+            <pubDate>Sat, 28 Aug 2021 18:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021-08-22]]></content:encoded>
+            <enclosure url="http://img.imbc.com/adams/Content/20218/132743438915693993.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국형 히어로는 맨손이다! 손 안 대고 박살낸다, MBC 210822 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>https://MOVIECORD.github.io/broadcast/all.xml</link>
+            <guid>https://MOVIECORD.github.io/broadcast/all.xml</guid>
+            <pubDate>Sat, 28 Aug 2021 18:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021-08-22]]></content:encoded>
+            <enclosure url="http://img.imbc.com/adams/Content/20218/132743441702316267.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신입 직장인이라면 찐공감! 내 편은 어디에?, MBC 210822 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>https://MOVIECORD.github.io/broadcast/all.xml</link>
+            <guid>https://MOVIECORD.github.io/broadcast/all.xml</guid>
+            <pubDate>Sat, 28 Aug 2021 18:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021-08-22]]></content:encoded>
+            <enclosure url="http://img.imbc.com/adams/Content/20218/132743474363096501.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내가 사랑하는 여자 VS 나를 사랑하는 여자, 둘 다 포기 못 해!, MBC 210822 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>https://MOVIECORD.github.io/broadcast/all.xml</link>
+            <guid>https://MOVIECORD.github.io/broadcast/all.xml</guid>
+            <pubDate>Sat, 28 Aug 2021 18:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021-08-22]]></content:encoded>
+            <enclosure url="http://img.imbc.com/adams/Content/20218/132743474819978694.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘너는 꿈이 있니?’ 방황하는 청춘들을 위한 영화, MBC 210815 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>https://MOVIECORD.github.io/broadcast/all.xml</link>
+            <guid>https://MOVIECORD.github.io/broadcast/all.xml</guid>
+            <pubDate>Sat, 28 Aug 2021 18:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021-08-15]]></content:encoded>
+            <enclosure url="http://img.imbc.com/adams/Content/20218/132737279160471443.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[처음 본 남녀가 반복되는 하루 속에 갇히면 생기는 일, MBC 210815 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>https://MOVIECORD.github.io/broadcast/all.xml</link>
+            <guid>https://MOVIECORD.github.io/broadcast/all.xml</guid>
+            <pubDate>Sat, 28 Aug 2021 18:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021-08-15]]></content:encoded>
+            <enclosure url="http://img.imbc.com/adams/Content/20218/132737279439715535.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[늘 새로워... 짜릿해! 매일 다른 남자와 연애하는 여자, MBC 210815 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>https://MOVIECORD.github.io/broadcast/all.xml</link>
+            <guid>https://MOVIECORD.github.io/broadcast/all.xml</guid>
+            <pubDate>Sat, 28 Aug 2021 18:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021-08-15]]></content:encoded>
+            <enclosure url="http://img.imbc.com/adams/Content/20218/132737279673779514.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 너의, 너는 나의 삶을 바꾸는 두 여자의 이야기가 시작된다, MBC 210815 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>https://MOVIECORD.github.io/broadcast/all.xml</link>
+            <guid>https://MOVIECORD.github.io/broadcast/all.xml</guid>
+            <pubDate>Sat, 28 Aug 2021 18:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021-08-15]]></content:encoded>
+            <enclosure url="http://img.imbc.com/adams/Content/20218/132737279942062471.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전설적 영웅이자 세상이 버린 위대한 범죄자, ‘네드 켈리’의 진짜 이야기, MBC 210815 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>https://MOVIECORD.github.io/broadcast/all.xml</link>
+            <guid>https://MOVIECORD.github.io/broadcast/all.xml</guid>
+            <pubDate>Sat, 28 Aug 2021 18:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021-08-15]]></content:encoded>
+            <enclosure url="http://img.imbc.com/adams/Content/20218/132737280760233688.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영원한 캡틴! 배우 로빈 윌리엄스의 마지막까지 하고 싶었던 말은?, MBC 210808 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>https://MOVIECORD.github.io/broadcast/all.xml</link>
+            <guid>https://MOVIECORD.github.io/broadcast/all.xml</guid>
+            <pubDate>Sat, 28 Aug 2021 18:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021-08-08]]></content:encoded>
+            <enclosure url="http://img.imbc.com/adams/Content/20218/132731343743860613.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 황정민, 인질이 되다! 살아 남아야만 한다, MBC 210808 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>https://MOVIECORD.github.io/broadcast/all.xml</link>
+            <guid>https://MOVIECORD.github.io/broadcast/all.xml</guid>
+            <pubDate>Sat, 28 Aug 2021 18:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021-08-08]]></content:encoded>
+            <enclosure url="http://img.imbc.com/adams/Content/20218/132731344217316193.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이토록 귀염뽀짝한 괴물이라니~ 웃기다가 펑펑 울리는 디즈니 신작, MBC 210808 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>https://MOVIECORD.github.io/broadcast/all.xml</link>
+            <guid>https://MOVIECORD.github.io/broadcast/all.xml</guid>
+            <pubDate>Sat, 28 Aug 2021 18:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021-08-08]]></content:encoded>
+            <enclosure url="http://img.imbc.com/adams/Content/20218/132731344718269142.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[30분마다 4년이 늙는 기괴스러운 해변, M. 나이트 샤말란 감독이 돌아왔다, MBC 210808 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>https://MOVIECORD.github.io/broadcast/all.xml</link>
+            <guid>https://MOVIECORD.github.io/broadcast/all.xml</guid>
+            <pubDate>Sat, 28 Aug 2021 18:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021-08-08]]></content:encoded>
+            <enclosure url="http://img.imbc.com/adams/Content/20218/132731344915929489.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 볼 수 없는 장국영의 명작, MBC 210808 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>https://MOVIECORD.github.io/broadcast/all.xml</link>
+            <guid>https://MOVIECORD.github.io/broadcast/all.xml</guid>
+            <pubDate>Sat, 28 Aug 2021 18:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021-08-08]]></content:encoded>
+            <enclosure url="http://img.imbc.com/adams/Content/20218/132731345125305816.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금까지 이렇게 숨 막힌 영화는 없었다! 코시국 찐공감코미디, MBC 210808 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>https://MOVIECORD.github.io/broadcast/all.xml</link>
+            <guid>https://MOVIECORD.github.io/broadcast/all.xml</guid>
+            <pubDate>Sat, 28 Aug 2021 18:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021-08-08]]></content:encoded>
+            <enclosure url="http://img.imbc.com/adams/Content/20218/132731345295313031.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
