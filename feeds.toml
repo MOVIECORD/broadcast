@@ -11,7 +11,7 @@ waitUntil = "networkidle"
 [mbc_video_clip]
 title = "출발! 비디오 여행 ─ 스페셜 영상"
 url = "http://playvod.imbc.com/Templete/SketchList?bid=1000827100000100000&type=3"
-entrySelector = "li.thumb"
+entrySelector = "ul li.thumb"
 titleSelector = "p.txt.ellipsis-multi"
 linkSelector = "li[class='thumb'] a"
 imageSelector = "span.img.vod img"
