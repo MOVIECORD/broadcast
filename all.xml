@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Aug 2021 17:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 05:37:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,38 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg=="/>
         </item>
         <item>
+            <title><![CDATA[영남회장님이 영화소개를 한다고? 열정 열정 열정!, MBC 210829 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100526100000&amp;type=3</link>
+            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100526100000&amp;type=3</guid>
+            <pubDate>Mon, 30 Aug 2021 05:37:29 GMT</pubDate>
+            <content:encoded><![CDATA[2021-08-29]]></content:encoded>
+            <enclosure url="http://img.imbc.com/adams/Content/20218/132747621471917558.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이동진 평론가의 별다섯★★★★★ 호평 받은 갓띵작, MBC 210829 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100525100000&amp;type=3</link>
+            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100525100000&amp;type=3</guid>
+            <pubDate>Mon, 30 Aug 2021 05:37:29 GMT</pubDate>
+            <content:encoded><![CDATA[2021-08-29]]></content:encoded>
+            <enclosure url="http://img.imbc.com/adams/Content/20218/132747627815465957.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[완벽했던 결혼기념일, 남편의 숨이 멎어버렸다...!, MBC 210829 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100524100000&amp;type=3</link>
+            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100524100000&amp;type=3</guid>
+            <pubDate>Mon, 30 Aug 2021 05:37:29 GMT</pubDate>
+            <content:encoded><![CDATA[2021-08-29]]></content:encoded>
+            <enclosure url="http://img.imbc.com/adams/Content/20218/132747627977507710.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마블의 세계관을 넓힐 뉴 히어로의 두두등장! #떡밥회수, MBC 210829 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100523100000&amp;type=3</link>
+            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100523100000&amp;type=3</guid>
+            <pubDate>Mon, 30 Aug 2021 05:37:29 GMT</pubDate>
+            <content:encoded><![CDATA[2021-08-29]]></content:encoded>
+            <enclosure url="http://img.imbc.com/adams/Content/20218/132747621046758608.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[블랙 위도우의 모든 비밀이 드디어 밝혀진다. 아무도 믿지 마세요, MBC 210822 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
             <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100521100000&amp;type=3</link>
             <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100521100000&amp;type=3</guid>
@@ -344,43 +376,19 @@
             <enclosure url="http://img.imbc.com/adams/Content/20218/132731344217316193.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이토록 귀염뽀짝한 괴물이라니~ 웃기다가 펑펑 울리는 디즈니 신작, MBC 210808 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
-            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100507100000&amp;type=3</link>
-            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100507100000&amp;type=3</guid>
-            <pubDate>Sat, 28 Aug 2021 20:01:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021-08-08]]></content:encoded>
-            <enclosure url="http://img.imbc.com/adams/Content/20218/132731344718269142.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[30분마다 4년이 늙는 기괴스러운 해변, M. 나이트 샤말란 감독이 돌아왔다, MBC 210808 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
-            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100506100000&amp;type=3</link>
-            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100506100000&amp;type=3</guid>
-            <pubDate>Sat, 28 Aug 2021 20:01:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021-08-08]]></content:encoded>
-            <enclosure url="http://img.imbc.com/adams/Content/20218/132731344915929489.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 볼 수 없는 장국영의 명작, MBC 210808 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
-            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100505100000&amp;type=3</link>
-            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100505100000&amp;type=3</guid>
-            <pubDate>Sat, 28 Aug 2021 20:01:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021-08-08]]></content:encoded>
-            <enclosure url="http://img.imbc.com/adams/Content/20218/132731345125305816.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금까지 이렇게 숨 막힌 영화는 없었다! 코시국 찐공감코미디, MBC 210808 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
-            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100504100000&amp;type=3</link>
-            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100504100000&amp;type=3</guid>
-            <pubDate>Sat, 28 Aug 2021 20:01:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021-08-08]]></content:encoded>
-            <enclosure url="http://img.imbc.com/adams/Content/20218/132731345295313031.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[요주의 픽] 샹치와 텐 링즈의 전설 · 이터널스 / [존박의 플레이리스트] 서복 / [도도한 영화] 건파우더: 밀크셰이크 / [소문의 시작] 쇼미더고스트 / [1+1] 팜스프링스 + 플랜맨 / [영화 보고서 TOP5] 원작의 무게를 견뎌라! 알고 보면 물 건너온 영화들 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021117057-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021117057-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Mon, 30 Aug 2021 05:37:40 GMT</pubDate>
+            <content:encoded><![CDATA[2일 전 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/08/30/612c20e3162c6a26701b5c06/thumbnail/612c20e3162c6a26701b5c06_edit_1_1630283156118.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[존박의 플레이리스트] 쿨 러닝 / [소문의 시작] 코다 (영화가 좋다 ─ 다시보기)]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021142915-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021142915-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
             <pubDate>Sat, 28 Aug 2021 20:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전 방송]]></content:encoded>
+            <content:encoded><![CDATA[5일 전 방송]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/08/25/61261acc6b74f42e85297618/thumbnail/61261acc6b74f42e85297618_edit_1_1629887850348.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -438,14 +446,6 @@
             <pubDate>Sat, 28 Aug 2021 20:32:36 GMT</pubDate>
             <content:encoded><![CDATA[760회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/07/17/60f2403c7437993c17760264/thumbnail/60f2403c7437993c17760264_edit_1_1626491697216.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소문의 시작] 제 8일의 밤 / [존박의 플레이리스트] 위플래쉬 (영화가 좋다 ─ 다시보기)]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021114478-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021114478-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 28 Aug 2021 20:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[89회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/07/14/60eeb4407437993c177561b0/thumbnail/60eeb4407437993c177561b0_edit_1_1626257095396.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
