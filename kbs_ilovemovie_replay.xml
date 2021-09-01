@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Sep 2021 05:38:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 17:44:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소문의 시작] 인질 / [존박의 플레이리스트] 스물]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021142916-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021142916-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 01 Sep 2021 17:44:38 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/09/01/612f520f6b74f42e852b0c5d/thumbnail/612f520f6b74f42e852b0c5d_edit_1_1630491817485.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[요주의 픽] 샹치와 텐 링즈의 전설 · 이터널스 / [존박의 플레이리스트] 서복 / [도도한 영화] 건파우더: 밀크셰이크 / [소문의 시작] 쇼미더고스트 / [1+1] 팜스프링스 + 플랜맨 / [영화 보고서 TOP5] 원작의 무게를 견뎌라! 알고 보면 물 건너온 영화들]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021117057-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 28 Aug 2021 20:32:36 GMT</pubDate>
             <content:encoded><![CDATA[90회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/07/21/60f7f2e1c0b8554490b19636/thumbnail/60f7f2e1c0b8554490b19636_edit_1_1626862738369.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 프리가이 / [존박의 플레이리스트] 인턴 / [소문의 시작] 싱크홀 · 모가디슈 / [1+1] 방법: 재차의 + 콜로설 / [영화 보고서 TOP5] 떡잎부터 달랐다?! 의외의 아역 출신 스타들]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021096023-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021096023-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 28 Aug 2021 20:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[760회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/07/17/60f2403c7437993c17760264/thumbnail/60f2403c7437993c17760264_edit_1_1626491697216.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
