@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Sep 2021 05:38:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 17:44:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[도도한 영화] 습도 다소 높음 / [존박의 플레이리스트] 그 해 여름]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021153010-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021153010-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 08 Sep 2021 17:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/09/08/61388ccd6dcd2447342c18bb/thumbnail/61388ccd6dcd2447342c18bb_edit_1_1631096608479.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[존박의 플레이리스트] 트루먼 쇼 / [소문의 시작] 보이스 · 기적 / [신들의 전쟁] 영화에 이런 법이! - 법대로 따져보는 영화 속 그 장면 / [1+1] 아이스 로드 + 신과함께 - 죄와 벌]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021117058-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 28 Aug 2021 20:32:36 GMT</pubDate>
             <content:encoded><![CDATA[91회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/08/11/61139cdea46aec3dd0bb1bec/thumbnail/61139cdea46aec3dd0bb1bec_edit_1_1628675803436.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[올림픽 특집 - 신들의 전쟁] 가족과 함께 보기 좋은 스포츠 영화 / [소문의 시작] 코다 / [존박의 플레이리스트 - 올림픽 스페셜] 쿨 러닝 / [나는 영화인이다] '황정민'이라는 고유명사 : 초심으로 돌아간 배우 황정민 / [1+1] 발신제한 + 더 테러 라이브]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021096024-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021096024-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 28 Aug 2021 20:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[761회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/07/24/60fb5d332f29ea6d6ba5a9ee/thumbnail/60fb5d332f29ea6d6ba5a9ee_edit_1_1627087182871.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
