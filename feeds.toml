@@ -1,4 +1,13 @@
-[movieroom]
+
+[navertv_now]
+title = "네이버TV ─ 네이버 나우"
+url = "https://tv.naver.com/nowkr/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
+waitUntil = "networkidle"[movieroom]
 title = "방구석1열"
 url = "https://program.naver.com/p/8121580/clip"
 entrySelector = "li.ClipCard_item__1ly4h"
@@ -26,4 +35,14 @@ titleSelector = "span.des.ng-binding.ng-scope"
 linkSelector = "a.listFullVod"
 imageSelector = "img"
 contentSelector = "span.episode.ng-binding.ng-scope"
+waitUntil = "networkidle"
+
+[navertv_indiecinema]
+title = "네이버TV ─ 네이버 인디극장"
+url = "https://tv.naver.com/indiecinema/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
 waitUntil = "networkidle"
