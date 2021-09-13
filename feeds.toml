@@ -7,7 +7,9 @@ titleSelector = "dt.title"
 linkSelector = "dt.title a"
 imageSelector = "div.cds_type a img"
 contentSelector = "span.tm_b"
-waitUntil = "networkidle"[movieroom]
+waitUntil = "networkidle"
+
+[movieroom]
 title = "방구석1열"
 url = "https://program.naver.com/p/8121580/clip"
 entrySelector = "li.ClipCard_item__1ly4h"
