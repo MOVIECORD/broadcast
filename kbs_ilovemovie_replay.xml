@@ -4,15 +4,23 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Sep 2021 17:43:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 05:38:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀잼영화가 좋다 - [존박의 플레이리스트] 트루먼쇼 / [소문의 시작] 보이스 · 기적]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021162059-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021162059-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Thu, 23 Sep 2021 05:38:26 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/09/23/614be075fb2f1a69d8f9f147/thumbnail/614be075fb2f1a69d8f9f147_edit_1_1632363282874.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[존박의 플레이리스트] 고령화 가족 / [도도한 영화] 미씽: 사라진 딸 / [신들의 전쟁 ] 온 가족 취향 저격! - 장르별 추석 영화 선물세트 / [1+1] 싱크홀 + 미이라 / [덕력 충천소] 컨스피러시 365]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021134627-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021134627-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
             <pubDate>Sat, 18 Sep 2021 05:38:28 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전 방송]]></content:encoded>
+            <content:encoded><![CDATA[5일 전 방송]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/09/18/614553736dcd2447342ff73b/thumbnail/614553736dcd2447342ff73b_edit_1_1631934869142.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021153011-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021153011-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
             <pubDate>Wed, 15 Sep 2021 17:42:30 GMT</pubDate>
-            <content:encoded><![CDATA[7일 전 방송]]></content:encoded>
+            <content:encoded><![CDATA[96회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/09/15/6141c8e2fb2f1a69d8f73b07/thumbnail/6141c8e2fb2f1a69d8f73b07_edit_1_1631701619625.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 28 Aug 2021 20:32:36 GMT</pubDate>
             <content:encoded><![CDATA[93회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/08/25/61261acc6b74f42e85297618/thumbnail/61261acc6b74f42e85297618_edit_1_1629887850348.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[존박의 플레이리스트] 그 해 여름 / [도도한 영화] 습도 다소 높음 / [신들의 전쟁]  ‘덩치 큰’ 녀석들이 온다! - 3색 재난 영화 / [1+1] 블랙 위도우 + 용의자 / [덕력충전소] 판데믹]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021117055-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021117055-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 28 Aug 2021 20:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[763회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/08/21/612063dd6b74f42e852889a0/thumbnail/612063dd6b74f42e852889a0_edit_1_1629515654543.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
