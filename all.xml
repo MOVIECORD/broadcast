@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Sep 2021 17:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Sep 2021 05:38:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,54 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg=="/>
         </item>
         <item>
+            <title><![CDATA[이 누님이 곧 반백살이라고? 케이트 베킨세일의 하드캐리 문제작, MBC 210926 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100551100000&amp;type=3</link>
+            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100551100000&amp;type=3</guid>
+            <pubDate>Mon, 27 Sep 2021 05:37:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021-09-26]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20219/132771834775796238.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헤어진 전남친이 내 고객이 되어 슈퍼갑질을 시전한다...!, MBC 210926 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100550100000&amp;type=3</link>
+            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100550100000&amp;type=3</guid>
+            <pubDate>Mon, 27 Sep 2021 05:37:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021-09-26]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20219/132771831909984319.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬배우 최정원! 그녀가 춤으로 통하였노라 고백한 영화는?, MBC 210926 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100549100000&amp;type=3</link>
+            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100549100000&amp;type=3</guid>
+            <pubDate>Mon, 27 Sep 2021 05:37:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021-09-26]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20219/132771829011196478.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자식을 위해 300km를 횡단한 나의 슈퍼맨, 나의 아버지, MBC 210926 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100548100000&amp;type=3</link>
+            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100548100000&amp;type=3</guid>
+            <pubDate>Mon, 27 Sep 2021 05:37:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021-09-26]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20219/132771828152590656.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜시간을 달리는 소녀＞ 감독이 만든 역대급 스케일의 가상세계, MBC 210926 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100547100000&amp;type=3</link>
+            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100547100000&amp;type=3</guid>
+            <pubDate>Mon, 27 Sep 2021 05:37:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021-09-26]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20219/132771826875383221.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[학교에서 이래도 돼? 극한의 공포로 정줄 놓은 십대들, MBC 210926 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100546100000&amp;type=3</link>
+            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100546100000&amp;type=3</guid>
+            <pubDate>Mon, 27 Sep 2021 05:37:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021-09-26]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20219/132771820372299733.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영화VS영화 김경식도 깜짝 놀란 역대급 게스트의 정체는!?, MBC 210919 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
             <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100544100000&amp;type=3</link>
             <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100544100000&amp;type=3</guid>
@@ -328,59 +376,11 @@
             <enclosure url="https://img.imbc.com/adams/Content/20219/132761527352907462.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[담담히 죽음을 기다리던 시한부의 삶에 그녀가 스며들었다, MBC 210905 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
-            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100532100000&amp;type=3</link>
-            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100532100000&amp;type=3</guid>
-            <pubDate>Mon, 06 Sep 2021 05:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[2021-09-05]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20219/132755379991626713.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 사랑에 빠질 단 하나의 음악 영화, 눈물 주의!, MBC 210905 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
-            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100531100000&amp;type=3</link>
-            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100531100000&amp;type=3</guid>
-            <pubDate>Mon, 06 Sep 2021 05:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[2021-09-05]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20219/132755380231159483.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘복학생 찐따남’이 인싸 여친을 만들 수 있던 이유!, MBC 210905 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
-            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100530100000&amp;type=3</link>
-            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100530100000&amp;type=3</guid>
-            <pubDate>Mon, 06 Sep 2021 05:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[2021-09-05]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20219/132755380460379688.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑할 수도 미워할 수도 없는 너, 2300만 중국 관객이 인정한 작품은?, MBC 210905 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
-            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100529100000&amp;type=3</link>
-            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100529100000&amp;type=3</guid>
-            <pubDate>Mon, 06 Sep 2021 05:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[2021-09-05]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20219/132755380692881168.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤아와 박정민이 세우고자 했던 ‘양원역 건설’ 실화 영화!, MBC 210905 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
-            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100528100000&amp;type=3</link>
-            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100528100000&amp;type=3</guid>
-            <pubDate>Mon, 06 Sep 2021 05:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[2021-09-05]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20219/132755380929757669.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영남회장님이 영화소개를 한다고? 열정 열정 열정!, MBC 210829 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
-            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100526100000&amp;type=3</link>
-            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100526100000&amp;type=3</guid>
-            <pubDate>Mon, 30 Aug 2021 05:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021-08-29]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20218/132747621471917558.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[요주의 픽] 매트릭스: 리저렉션 / [도도한 영화] 맨 인 더 다크2 / [존박의 플레이리스트] 인질 / [소문의 시작] 졸트 / [1+1] 쇼미더고스트 · 비바리움 / [영화 보고서 TOP5] 관객들이 의외로 잘못 알고 있는 영화 상식 (영화가 좋다 ─ 다시보기)]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021134628-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021134628-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
             <pubDate>Sat, 25 Sep 2021 05:37:51 GMT</pubDate>
-            <content:encoded><![CDATA[어제 방송]]></content:encoded>
+            <content:encoded><![CDATA[2일 전 방송]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/09/25/614ea6bf6dcd244734327883/thumbnail/614ea6bf6dcd244734327883_edit_1_1632545523938.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -388,7 +388,7 @@
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021162059-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021162059-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
             <pubDate>Thu, 23 Sep 2021 05:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전 방송]]></content:encoded>
+            <content:encoded><![CDATA[4일 전 방송]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/09/23/614be075fb2f1a69d8f9f147/thumbnail/614be075fb2f1a69d8f9f147_edit_1_1632363282874.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
