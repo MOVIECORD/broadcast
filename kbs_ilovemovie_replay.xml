@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 05:38:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 17:43:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀잼 영화가 좋다 - [존박의 플레이리스트] 와이키키 브라더스 / [대세의 시작] 들개]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021170714-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021170714-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 13 Oct 2021 17:43:09 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/10/13/6166af75b678a62d3b021f4e/thumbnail/6166af75b678a62d3b021f4e_edit_1_1634119959730.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[요주의 픽] 베놈 2: 렛 데어 비 카니지 / [도도한 영화] 색다른 그녀 / [존박의 플레이리스트] 말모이 / [소문의 시작] F20 / [1+1] 컴백트레일 & 해치지않아 / [영화 보고서 TOP7] 웰컴 투 지옥! 세계는 오징어게임 신드롬]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021147622-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 15 Sep 2021 17:42:30 GMT</pubDate>
             <content:encoded><![CDATA[96회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/09/15/6141c8e2fb2f1a69d8f73b07/thumbnail/6141c8e2fb2f1a69d8f73b07_edit_1_1631701619625.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 스파이더맨: 노 웨이 홈 / [존박의 플레이리스트] 자산어보 / [소문의 시작] 수색자 / [1+1] 분노의 질주: 더 얼티메이트 + 해적: 바다로 간 산적 / [덕력충전소] 빙 에리카 시즌1 / [영화 보고서 TOP5] 이게 진짜라고? 영화 속 ‘초’ 현실주의]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021134626-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021134626-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sun, 12 Sep 2021 05:38:08 GMT</pubDate>
-            <content:encoded><![CDATA[766회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/09/12/613c18346dcd2447342d3ef8/thumbnail/613c18346dcd2447342d3ef8_edit_1_1631405235581.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
