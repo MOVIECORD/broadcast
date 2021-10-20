@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 05:38:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 17:44:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀잼 영화가 좋다 - [도도한 영화] 색다른 그녀 / [소문의 시작] F20]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021170715-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021170715-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 20 Oct 2021 17:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/10/20/616fe8dcb678a62d3b04d7d6/thumbnail/616fe8dcb678a62d3b04d7d6_edit_1_1634725166573.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[요주의 픽] 라스트 듀얼: 최후의 결투 / [무예 액션 영화제 미리 보기] 액션 신들의 전쟁 / [존박의 플레이리스트] 마더 / [아찔한 인터뷰] 장르만 로맨스 / [1+1] 모가디슈 + 정글 크루즈 / [덕력 충전소] 희수]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021161043-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 23 Sep 2021 05:38:26 GMT</pubDate>
             <content:encoded><![CDATA[97회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/09/23/614be075fb2f1a69d8f9f147/thumbnail/614be075fb2f1a69d8f9f147_edit_1_1632363282874.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[존박의 플레이리스트] 고령화 가족 / [도도한 영화] 미씽: 사라진 딸 / [신들의 전쟁 ] 온 가족 취향 저격! - 장르별 추석 영화 선물세트 / [1+1] 싱크홀 + 미이라 / [덕력 충천소] 컨스피러시 365]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021134627-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021134627-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 18 Sep 2021 05:38:28 GMT</pubDate>
-            <content:encoded><![CDATA[767회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/09/18/614553736dcd2447342ff73b/thumbnail/614553736dcd2447342ff73b_edit_1_1631934869142.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
