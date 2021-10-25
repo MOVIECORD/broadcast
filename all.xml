@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 17:42:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 05:38:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,46 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg=="/>
         </item>
         <item>
+            <title><![CDATA[변요한의 능글맞은 작업멘트를 들은 한효주의 반응은?, MBC 211024 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100576100000&amp;type=3</link>
+            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100576100000&amp;type=3</guid>
+            <pubDate>Mon, 25 Oct 2021 05:37:50 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-24]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202110/132795978507303989.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한소희씨, 왜 항상 똑같은 티만 입으시죠? 프리티..♡, MBC 211024 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100575100000&amp;type=3</link>
+            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100575100000&amp;type=3</guid>
+            <pubDate>Mon, 25 Oct 2021 05:37:50 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-24]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202110/132795970404790592.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사람들은 그를 ‘무쇠팔’이라 불렀다, 그날의 기적을 담은 영화, MBC 211024 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100574100000&amp;type=3</link>
+            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100574100000&amp;type=3</guid>
+            <pubDate>Mon, 25 Oct 2021 05:37:50 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-24]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202110/132795971518740288.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[친구를 구하기 위해 악마의 소굴로 되돌아간 소년, MBC 211024 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100573100000&amp;type=3</link>
+            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100573100000&amp;type=3</guid>
+            <pubDate>Mon, 25 Oct 2021 05:37:50 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-24]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202110/132795974732380993.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스트릿 댄서 제이블랙! 그가 꼽은 영화 속 최고의 댄서는?, MBC 211024 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
+            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100572100000&amp;type=3</link>
+            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100572100000&amp;type=3</guid>
+            <pubDate>Mon, 25 Oct 2021 05:37:50 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-24]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202110/132795969361645760.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나쁜남자를 사랑하면 겪게되는 일.mp4, MBC 211017 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
             <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100570100000&amp;type=3</link>
             <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100570100000&amp;type=3</guid>
@@ -336,51 +376,11 @@
             <enclosure url="https://img.imbc.com/adams/Content/202110/132785572175430278.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[선글라스 하나로 아싸 캐릭터가 순식간에 인싸가 되다?, MBC 211003 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
-            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100557100000&amp;type=3</link>
-            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100557100000&amp;type=3</guid>
-            <pubDate>Tue, 05 Oct 2021 05:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[2021-10-03]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202110/132779617712057890.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헬게이트 오픈! 마동석의 아내를 건드리면 생기는 일.mp4, MBC 211003 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
-            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100556100000&amp;type=3</link>
-            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100556100000&amp;type=3</guid>
-            <pubDate>Tue, 05 Oct 2021 05:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[2021-10-03]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202110/132779679368168144.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예상치 못한 임신으로 최악의 상황을 겪은 미래, MBC 211003 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
-            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100555100000&amp;type=3</link>
-            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100555100000&amp;type=3</guid>
-            <pubDate>Tue, 05 Oct 2021 05:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[2021-10-03]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202110/132779679094416406.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그저 가족들과 행복하고 싶었던 남자, 조국이라 생각했던 나라에서 버려졌다, MBC 211003 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
-            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100554100000&amp;type=3</link>
-            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100554100000&amp;type=3</guid>
-            <pubDate>Tue, 05 Oct 2021 05:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[2021-10-03]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202110/132779678853946134.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혹하는 거래엔 대가가 따른다... 고액 알바의 실체, MBC 211003 방송 (출발! 비디오 여행 ─ 스페셜 영상)]]></title>
-            <link>http://playvod.imbc.com/Templete/SketchView?bid=1000827100553100000&amp;type=3</link>
-            <guid>http://playvod.imbc.com/Templete/SketchView?bid=1000827100553100000&amp;type=3</guid>
-            <pubDate>Tue, 05 Oct 2021 05:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[2021-10-03]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202110/132779678515188224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[요주의 픽] 노회찬 6411 / [소문의 시작] 크라임 퍼즐 / [존박의 플레이리스트] 어디선가 누군가에 무슨 일이 생기면 틀림없이 나타난다 홍반장 / [1+1] 내일의 기억 · 미스터 라잇 / [아찔한 인터뷰] 강릉 / [영화 보고서 TOP5] 멘트가 참신한데? 식스센스급 반전 대답 (영화가 좋다 ─ 다시보기)]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021161068-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021161068-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
             <pubDate>Sat, 23 Oct 2021 05:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[어제 방송]]></content:encoded>
+            <content:encoded><![CDATA[2일 전 방송]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/10/23/61737459b678a62d3b05edf3/thumbnail/61737459b678a62d3b05edf3_edit_1_1634958578366.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -388,7 +388,7 @@
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021170715-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021170715-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
             <pubDate>Wed, 20 Oct 2021 17:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전 방송]]></content:encoded>
+            <content:encoded><![CDATA[5일 전 방송]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/10/20/616fe8dcb678a62d3b04d7d6/thumbnail/616fe8dcb678a62d3b04d7d6_edit_1_1634725166573.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
