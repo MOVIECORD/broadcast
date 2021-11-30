@@ -32,13 +32,3 @@ imageSelector = "img"
 contentSelector = "span.episode.ng-binding.ng-scope"
 waitUntil = "networkidle"
 onFail = "stale"
-
-[navertv_indiecinema]
-title = "네이버TV ─ 네이버 인디극장"
-url = "https://tv.naver.com/indiecinema/clips"
-entrySelector = "div[class^='cds _MM_CARD']"
-titleSelector = "dt.title"
-linkSelector = "dt.title a"
-imageSelector = "div.cds_type a img"
-contentSelector = "span.tm_b"
-waitUntil = "networkidle"
