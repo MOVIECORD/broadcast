@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 05:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 06:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -376,6 +376,14 @@
             <enclosure url="https://img.imbc.com/adams/Content/202110/132785572175430278.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[월드 프리미어] 매트릭스: 리저렉션 / [존 박의 플레이리스트] 장르만 로맨스 / [소문의 시작] 킹메이커 / [영화 보고서 TOP5] 한국영화 최고의 '등장' SCENE 탑5 / [도도한 영화] 해피뉴이어 / [1+1] 타이거 마스크 + 슈퍼 히어로 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021190517-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021190517-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 18 Dec 2021 06:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/12/18/61bd66eaa68b5e22e285aea3/thumbnail/61bd66eaa68b5e22e285aea3_edit_1_1639806121004.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[꿀잼영화가 좋다 - [존박의 플레이리스트] 엽기적인 그녀 / [도도한 영화] 스콰터스 (영화가 좋다 ─ 다시보기)]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021203965-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021203965-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
@@ -438,14 +446,6 @@
             <pubDate>Tue, 30 Nov 2021 21:01:09 GMT</pubDate>
             <content:encoded><![CDATA[776회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/11/20/61986bfab678a62d3b10086a/thumbnail/61986bfab678a62d3b10086a_edit_1_1637379895495.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[존박의 플레이리스트] 뷰티 인사이드 / [도도한 영화] 모추어리 컬렉션 (영화가 좋다 ─ 다시보기)]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021193842-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021193842-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Tue, 30 Nov 2021 21:01:09 GMT</pubDate>
-            <content:encoded><![CDATA[105회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/11/17/6194d5cf6c876e6d5a3afa3f/thumbnail/6194d5cf6c876e6d5a3afa3f_edit_1_1637145447908.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
