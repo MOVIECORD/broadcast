@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 10:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 11:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀잼영화가 좋다 - [1+1] 킬러의 보디가드2 + 조선명탐정: 사라진 놉의 딸]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021214803-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021214803-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 22 Dec 2021 11:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/12/22/61c2faf2a68b5e22e286b06e/thumbnail/61c2faf2a68b5e22e286b06e_edit_1_1640168642184.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[월드 프리미어] 매트릭스: 리저렉션 / [존 박의 플레이리스트] 장르만 로맨스 / [소문의 시작] 킹메이커 / [영화 보고서 TOP5] 한국영화 최고의 '등장' SCENE 탑5 / [도도한 영화] 해피뉴이어 / [1+1] 타이거 마스크 + 슈퍼 히어로]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021190517-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 15 Dec 2021 11:14:45 GMT</pubDate>
             <content:encoded><![CDATA[106회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/11/24/619e1103b678a62d3b1186d6/thumbnail/619e1103b678a62d3b1186d6_edit_1_1637749447917.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 디어 에반 핸슨 / [존박의 플레이리스트] 굿 윌 헌팅 / [소문의 시작] 이렇게 된 이상 청와대로 간다 / [도도한 영화] 간호중 / [1+1] 샹치와 텐 링즈의 전설 + 스파이 / [영화 보고서 TOP5] 목숨 걸고 열혈액션]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021161342-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021161342-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Wed, 15 Dec 2021 11:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[776회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/11/20/61986bfab678a62d3b10086a/thumbnail/61986bfab678a62d3b10086a_edit_1_1637379895495.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
