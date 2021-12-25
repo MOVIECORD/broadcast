@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 06:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 07:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -376,6 +376,14 @@
             <enclosure url="https://img.imbc.com/adams/Content/202110/132785572175430278.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[도도한 영화] 노엘의 선물 / [존 박의 플레이리스트] 러브 액츄얼리 / [신들의 전쟁]  굿바이 2021 - 한국 영화결산 / [소문의 시작] 경관의 피 / [1+1] 유체이탈자 + 사랑하기 때문에 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021190518-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021190518-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 25 Dec 2021 07:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/12/25/61c6a9bad876996611b3d9c1/thumbnail/61c6a9bad876996611b3d9c1_edit_1_1640415002102.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[꿀잼영화가 좋다 - [1+1] 킬러의 보디가드2 + 조선명탐정: 사라진 놉의 딸 (영화가 좋다 ─ 다시보기)]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021214803-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021214803-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
@@ -438,14 +446,6 @@
             <pubDate>Tue, 30 Nov 2021 21:01:09 GMT</pubDate>
             <content:encoded><![CDATA[777회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/11/27/61a1a37651c03c02d8601415/thumbnail/61a1a37651c03c02d8601415_edit_1_1637986516556.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿀잼 영화가 좋다 - [존박의 플레이리스트] 미쓰백 / [도도한 영화] 싸나희 순정 (영화가 좋다 ─ 다시보기)]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021193843-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021193843-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Tue, 30 Nov 2021 21:01:09 GMT</pubDate>
-            <content:encoded><![CDATA[106회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/11/24/619e1103b678a62d3b1186d6/thumbnail/619e1103b678a62d3b1186d6_edit_1_1637749447917.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
