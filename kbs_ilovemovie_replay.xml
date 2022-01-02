@@ -4,7 +4,7 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 23:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 00:59:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021190519-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021190519-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
             <pubDate>Sat, 01 Jan 2022 08:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <content:encoded><![CDATA[어제 방송]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/01/01/61cff7f0af4c6a37d785ea0b/thumbnail/61cff7f0af4c6a37d785ea0b_edit_1_1641022304257.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021214804-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2021214804-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
             <pubDate>Thu, 30 Dec 2021 00:56:20 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전 방송]]></content:encoded>
+            <content:encoded><![CDATA[4일 전 방송]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/12/30/61ccf92b653f3a3a0dc86519/thumbnail/61ccf92b653f3a3a0dc86519_edit_1_1640824129050.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021190518-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021190518-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
             <pubDate>Mon, 27 Dec 2021 02:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[7일 전 방송]]></content:encoded>
+            <content:encoded><![CDATA[781회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2021/12/25/61c6a9bad876996611b3d9c1/thumbnail/61c6a9bad876996611b3d9c1_edit_1_1640415002102.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
