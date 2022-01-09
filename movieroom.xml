@@ -4,7 +4,7 @@
         <title>방구석1열</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 07:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 08:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220109_147/02XfZ_1641708994450F1WdR_JPEG/20220109_150527_754_1.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[＜보디가드＞ 주제곡 'I Will Always Love You' ＂무반주인 줄 몰랐다＂ ㅋㅋ | JTBC 220109 방송]]></title>
-            <link>https://tv.naver.com/v/24510715</link>
-            <guid>https://tv.naver.com/v/24510715</guid>
-            <pubDate>Sun, 09 Jan 2022 06:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[03:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220109_266/yv8k0_16417089923524rrG3_JPEG/20220109_145945_236_1.jpg?type=f246_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[세상의 모~든 로맨스를 ＜클래식＞ 한 편에 담아놓은 느낌‥❣️ | JTBC 220109 방송]]></title>
             <link>https://tv.naver.com/v/24510684</link>
             <guid>https://tv.naver.com/v/24510684</guid>
             <pubDate>Sun, 09 Jan 2022 06:20:41 GMT</pubDate>
             <content:encoded><![CDATA[01:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220109_67/OcfyH_1641708691402CpAku_JPEG/20220109_150217_582_1.jpg?type=f246_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜보디가드＞ 주제곡 'I Will Always Love You' ＂무반주인 줄 몰랐다＂ ㅋㅋ | JTBC 220109 방송]]></title>
+            <link>https://tv.naver.com/v/24510715</link>
+            <guid>https://tv.naver.com/v/24510715</guid>
+            <pubDate>Sun, 09 Jan 2022 06:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[03:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220109_266/yv8k0_16417089923524rrG3_JPEG/20220109_145945_236_1.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[＜보디가드＞의 러브 테마송, 사실은 이별 노래였다?!😲 | JTBC 220109 방송]]></title>
