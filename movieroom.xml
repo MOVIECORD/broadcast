@@ -4,7 +4,7 @@
         <title>방구석1열</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 05:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 06:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220123_33/T8z27_1642917401341n3AS4_JPEG/20220123_144617_023_1.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사색에 잠기기 좋은 곳🌱 ＜안경＞의 촬영지 '요론섬' | JTBC 220123 방송]]></title>
-            <link>https://tv.naver.com/v/24751985</link>
-            <guid>https://tv.naver.com/v/24751985</guid>
-            <pubDate>Sun, 23 Jan 2022 06:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[02:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220123_88/NkQgS_1642917398545vzoHu_JPEG/20220123_144543_461_1.jpg?type=f246_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[독특한 체조(?)가 특징인 오기가미 나오코 감독의 영화🤣 | JTBC 220123 방송]]></title>
             <link>https://tv.naver.com/v/24751940</link>
             <guid>https://tv.naver.com/v/24751940</guid>
             <pubDate>Sun, 23 Jan 2022 06:18:59 GMT</pubDate>
             <content:encoded><![CDATA[01:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220123_128/PMUbI_16429173998945tcEd_JPEG/20220123_144601_803_1.jpg?type=f246_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사색에 잠기기 좋은 곳🌱 ＜안경＞의 촬영지 '요론섬' | JTBC 220123 방송]]></title>
+            <link>https://tv.naver.com/v/24751985</link>
+            <guid>https://tv.naver.com/v/24751985</guid>
+            <pubDate>Sun, 23 Jan 2022 06:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[02:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220123_88/NkQgS_1642917398545vzoHu_JPEG/20220123_144543_461_1.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나이가 들수록 ＂사랑은 변하는 것이 아니라 농익는 것이다＂...❣️ | JTBC 220123 방송]]></title>
