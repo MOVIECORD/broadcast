@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 02:04:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 03:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -376,6 +376,14 @@
             <enclosure url="https://img.imbc.com/adams/Content/202110/132785572175430278.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[요주의 픽] 나이트메어 앨리 ·  시라노 / [소문의 시작] 광대: 소리꾼 / [존박의 플레이리스트] 덕혜옹주 / [도도한 영화] 킹스맨:퍼스트 에이전트 / [영화보고서] 한국 영화 속, 감초 같은 노래방 신 베스트 TOP 5 / [1+1] 클리포드 더 빅 레드 독 + 미스터 주 사라진 VIP (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022011350-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022011350-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 19 Feb 2022 03:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/02/19/6210524eb0de3a4acc48b8f1/thumbnail/6210524eb0de3a4acc48b8f1_edit_1_1645238026813.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[꿀잼 영화가 좋다 -  [도도한 영화] 모럴센스 / [존 박의 플레이리스트] 바람 (영화가 좋다 ─ 다시보기)]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022015760-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022015760-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
@@ -438,14 +446,6 @@
             <pubDate>Wed, 19 Jan 2022 11:13:59 GMT</pubDate>
             <content:encoded><![CDATA[114회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/01/19/61e7e309123bc32849118666/thumbnail/61e7e309123bc32849118666_edit_1_1642587516885.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 웨스트 사이드 스토리 / [존 박의 플레이리스트] 이터널스 / [소문의 시작] 해적: 도깨비 깃발 / [도도한 영화] 인비저블 게스트 / [1+1] 건파우더 밀크셰이크 + 기방도령 / [영화보고서] 가장 보통의 연애 · 아부의 왕 · 연애의 온도 · 열정 같은 소리 하고 있네 · 반칙왕 (영화가 좋다 ─ 다시보기)]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021215896-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021215896-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 15 Jan 2022 05:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[784회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/01/15/61e24b96123bc328491086e4/thumbnail/61e24b96123bc328491086e4_edit_1_1642222060039.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
