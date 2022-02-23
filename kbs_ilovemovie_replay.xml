@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 10:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 11:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[존박의 플레이리스트] 덕혜옹주 / [도도한 영화] 킹스맨:퍼스트 에이전트]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022021051-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022021051-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 23 Feb 2022 11:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/02/23/62160fb8f8d1ac2b147200b5/thumbnail/62160fb8f8d1ac2b147200b5_edit_1_1645613715472.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[존 박의 플레이리스트] 이터널스 / [소문의 시작] 안테벨룸 / [1+1] 성난 변호사 + 오! 문희]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022028123-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 26 Jan 2022 11:14:24 GMT</pubDate>
             <content:encoded><![CDATA[115회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/01/26/61f1286b123bc3284913220d/thumbnail/61f1286b123bc3284913220d_edit_1_1643194931971.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 로스트 시티 · 리코리쉬 피자 / [존 박의 플레이리스트] 말아톤 / [신들의 시작] 영화 속 먹방: 신년계획이 다이어트라면 시청 주의! / [소문의 시작] 355 / [1+1] 성난 변호사 + 오! 문희 / [도도한 영화] 호텔 뭄바이]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021215897-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2021215897-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 22 Jan 2022 09:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[785회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/01/22/61ebb2b3653f3a3a0dcdeed5/thumbnail/61ebb2b3653f3a3a0dcdeed5_edit_1_1642842395652.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
