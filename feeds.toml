@@ -11,7 +11,7 @@ onFail = "stale"
 
 [mbc_video_clip]
 title = "출발! 비디오 여행 ─ 스페셜 영상"
-url = "http://playvod.imbc.com/Templete/SketchList?bid=1000827100000100000&type=3"
+url = "https://playvod.imbc.com/Templete/SketchList?bid=1000827100000100000&type=3"
 entrySelector = "div.sc_thumb.wrap_sketch div.thumb_list ul li.thumb"
 titleSelector = "div.wrap_txt p.txt.ellipsis-multi"
 linkSelector = "a"
