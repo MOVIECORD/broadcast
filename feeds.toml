@@ -9,16 +9,6 @@ contentSelector = "span.ClipCard_time__128vc"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[mbc_video_clip]
-title = "출발! 비디오 여행 ─ 스페셜 영상"
-url = "https://playvod.imbc.com/Templete/SketchList?bid=1000827100000100000&type=3"
-entrySelector = "div.sc_thumb.wrap_sketch div.thumb_list ul li.thumb"
-titleSelector = "div.wrap_txt p.txt.ellipsis-multi"
-linkSelector = "a"
-imageSelector = "span.img.vod img"
-contentSelector = "span.time"
-waitForSelector = "div.thumb_list ul li.thumb"
-
 [m_mbc_video_clip]
 title = "출발! 비디오 여행 모바일 ─ 스페셜영상"
 url = "https://m.imbc.com/VOD/SketchList/1000827100000100000?type=3"
