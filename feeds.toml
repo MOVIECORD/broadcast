@@ -17,7 +17,7 @@ titleSelector = "div.wrap_txt p.txt.ellipsis-multi"
 linkSelector = "a"
 imageSelector = "span.img.vod img"
 contentSelector = "span.time"
-waitUntil = "networkidle"
+waitForSelector = "div.thumb_list ul li.thumb"
 
 [m_mbc_video_clip]
 title = "출발! 비디오 여행 모바일 ─ 스페셜영상"
