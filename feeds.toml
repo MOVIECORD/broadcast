@@ -17,10 +17,17 @@ titleSelector = "div.wrap_txt p.txt.ellipsis-multi"
 linkSelector = "a"
 imageSelector = "span.img.vod img"
 contentSelector = "span.time"
-dateSelector = "span.cnt"
-dateFormat = "yyyy-MM-dd"
-waitForSelector = "div.sc_thumb.wrap_sketch div.thumb_list ul li.thumb"
-onFail = "stale"
+waitUntil = "networkidle"
+
+[m_mbc_video_clip]
+title = "출발! 비디오 여행 모바일 ─ 스페셜영상"
+url = "https://m.imbc.com/VOD/SketchList/1000827100000100000?type=3"
+entrySelector = "div.documentation ul.wrap-item li.item"
+titleSelector = "div.title span.tit"
+linkSelector = "a"
+contentSelector = "div.meta span.date"
+imageSelector = "div.w_photo img"
+waitUntil = "networkidle"
 
 [kbs_ilovemovie_replay]
 title = "영화가 좋다 ─ 다시보기"
