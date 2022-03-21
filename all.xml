@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 01:08:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 02:50:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,54 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg=="/>
         </item>
         <item>
+            <title><![CDATA[이 유명 배우의 전직이 진짜 마술사였다고?, MBC 220320 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100701100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100701100000</guid>
+            <pubDate>Mon, 21 Mar 2022 02:50:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-20]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20223/132922989102684965.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캠퍼스에서 나체로 깨어난 새내기의 황당 사연, MBC 220320 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100700100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100700100000</guid>
+            <pubDate>Mon, 21 Mar 2022 02:50:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-20]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20223/132922987873133385.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베니 오빠와 고양이가 사랑에 빠졌어요, MBC 220320 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100699100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100699100000</guid>
+            <pubDate>Mon, 21 Mar 2022 02:50:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-20]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20223/132922986439520707.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘SKY캐슬’의 우리 예서가 달라졌어요, MBC 220320 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100698100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100698100000</guid>
+            <pubDate>Mon, 21 Mar 2022 02:50:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-20]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20223/132922985565604413.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한류스타 죽일 뻔했다가 주워버린 사연, MBC 220320 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100697100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100697100000</guid>
+            <pubDate>Mon, 21 Mar 2022 02:50:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-20]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20223/132922984260901036.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폭력 멈춰! ‘부산행’ 연상호 감독의 잔혹 스릴러, MBC 220320 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100696100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100696100000</guid>
+            <pubDate>Mon, 21 Mar 2022 02:50:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-20]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20223/132922983191196313.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[그러니까 우리 가족은 건들지 말았어야지 | 도어맨, MBC 220313 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827100694100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827100694100000</guid>
@@ -270,54 +318,6 @@
             <pubDate>Wed, 16 Mar 2022 12:28:43 GMT</pubDate>
             <content:encoded><![CDATA[2022-03-13]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/20223/132918018702966746.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전설적인 테니스 스타의 기적같은 실화이야기 | 킹 리차드, MBC 220313 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827100691100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827100691100000</guid>
-            <pubDate>Wed, 16 Mar 2022 12:28:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022-03-13]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20223/132918018206709334.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[복수할거야!! 손도 안 대고 참교육 시전 | 복수노트 시즌1, MBC 220313 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827100690100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827100690100000</guid>
-            <pubDate>Wed, 16 Mar 2022 12:28:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022-03-13]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20223/132918017700143616.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산 남자 정우, 구암은 내가 차지한다 | 뜨거운 피, MBC 220313 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827100689100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827100689100000</guid>
-            <pubDate>Wed, 16 Mar 2022 12:28:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022-03-13]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20223/132918017033718958.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샘킴이 셰프들에게 강력 추천한 이 영화 속 명장면 | 아메리칸 셰프, MBC 220306 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827100687100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827100687100000</guid>
-            <pubDate>Wed, 16 Mar 2022 12:28:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022-03-06]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20223/132912028317290950.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잊지 마라 일본군, 여기는 봉오동이다 | 봉오동 전투, MBC 220306 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827100686100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827100686100000</guid>
-            <pubDate>Wed, 16 Mar 2022 12:28:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022-03-06]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20223/132912027788842967.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달이 지구를 만났을 때, 종말은 시작되었다 | 문폴, MBC 220306 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827100685100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827100685100000</guid>
-            <pubDate>Wed, 16 Mar 2022 12:28:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022-03-06]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20223/132912027482747281.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[요주의 픽] 벨파스트 / [소문의 시작] 돼지의 왕 / [존박의 플레이리스트] 코다 / [도도한 영화] 불도저에 탄 소녀 / [영화보고서] 어쩌다 달인, 대역 없는 연기 베스트 TOP 5! / [1+1] 장르만 로맨스 + 싸나희 순정 (영화가 좋다 ─ 다시보기)]]></title>
