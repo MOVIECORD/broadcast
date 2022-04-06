@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 10:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 11:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀잼 영화가 좋다 - [존 박의 플레이리스트] 사운드트랙 #1 / [도도한 영화] 말임씨를 부탁해]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022045220-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022045220-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 06 Apr 2022 11:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/04/06/624d6b395feff7378da710d6/thumbnail/624d6b395feff7378da710d6_edit_0_1649241597234.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[요주의 픽] 앰뷸런스 / [존 박의 플레이리스트] 영웅본색 / [소문의 시작] 공기살인 / [아찔한 인터뷰] 앵커 / [영화보고서] 영화 속 재활용 열전 베스트 TOP 5! / [1+1] 연애빠진 로맨스 + 새콤달콤]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022042735-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 07 Mar 2022 02:38:50 GMT</pubDate>
             <content:encoded><![CDATA[122회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/03/07/622562523d7e3410c72f1a78/thumbnail/622562523d7e3410c72f1a78_edit_1_1646618220545.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 메리 미 · 아이돌 레시피 / [소문의 시작] 문폴 / [존박의 플레이리스트] 내가, 월드 스타가 될 상인가? SAG 어워드 남우주연상 ‘배우 이정재’ / [도도한 영화] 그리드 / [영화보고서] 깜짝 놀랄 ‘뻔한’ 영화계 진실과 거짓 베스트 TOP5 / [1+1] 아직 최선을 다하지 않았을 뿐 + 히트맨]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022025590-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022025590-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 05 Mar 2022 08:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[790회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/03/05/6223097a8f1fa55522ff8993/thumbnail/6223097a8f1fa55522ff8993_edit_1_1646465560922.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
