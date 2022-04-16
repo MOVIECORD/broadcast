@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 01:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 02:52:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[요주의 픽] 로스트 시티 / [존박의 플레이리스트] 나이트메어 앨리 / [소문의 시작] 앵커 / [도도한 영화] 봄날 / [영화보고서] 뭘 또 이렇게까지... 비하인드 베스트 5! / [1+1] 문폴 + 싱크홀]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022042737-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022042737-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 16 Apr 2022 02:52:57 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/04/16/625a273e23c55bd6c5b6a468/thumbnail/625a273e23c55bd6c5b6a468_edit_0_1650076584971.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꿀잼 영화가 좋다 - [1+1] 연애빠진 로맨스 + 새콤달콤]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022055566-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 19 Mar 2022 03:17:46 GMT</pubDate>
             <content:encoded><![CDATA[792회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/03/19/62353db31e45f059608f6c14/thumbnail/62353db31e45f059608f6c14_edit_0_1647657398859.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿀잼 영화가 좋다 - [도도한 영화] 그리드 / [소문의 시작] 문폴]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022031552-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022031552-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Wed, 16 Mar 2022 11:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[123회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/03/16/6231b9406fb7cfe668c2e631/thumbnail/6231b9406fb7cfe668c2e631_edit_0_1647426514491.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
