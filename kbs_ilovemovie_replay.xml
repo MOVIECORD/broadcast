@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 10:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 11:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀잼 영화가 좋다 - [존 박의 플레이리스트] 봄날은 간다 / [도도한 영화] 쿠폰의 여왕]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022055567-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022055567-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 20 Apr 2022 11:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/04/20/625fe041f0a303a1b103ee9c/thumbnail/625fe041f0a303a1b103ee9c_edit_0_1650451159732.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[요주의 픽] 로스트 시티 / [존박의 플레이리스트] 나이트메어 앨리 / [소문의 시작] 앵커 / [도도한 영화] 봄날 / [영화보고서] 뭘 또 이렇게까지... 비하인드 베스트 5! / [1+1] 문폴 + 싱크홀]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022042737-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 23 Mar 2022 11:13:54 GMT</pubDate>
             <content:encoded><![CDATA[124회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/03/23/623af4eb7a488f91d5bff6a2/thumbnail/623af4eb7a488f91d5bff6a2_edit_0_1648031749791.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 벨파스트 / [소문의 시작] 돼지의 왕 / [존박의 플레이리스트] 코다 / [도도한 영화] 불도저에 탄 소녀 / [영화보고서] 어쩌다 달인, 대역 없는 연기 베스트 TOP 5! / [1+1] 장르만 로맨스 + 싸나희 순정]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022025592-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022025592-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 19 Mar 2022 03:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[792회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/03/19/62353db31e45f059608f6c14/thumbnail/62353db31e45f059608f6c14_edit_0_1647657398859.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
