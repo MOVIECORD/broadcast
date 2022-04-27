@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 06:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 07:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,47 +248,47 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg=="/>
         </item>
         <item>
-            <title><![CDATA[저세상 미모 박해진, 근데 귀신이랑 뭘 한다고?, MBC 220424 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <title><![CDATA[저세상 미모 박해진이 직접 소개하는 지금부터 쇼타임! | 지금부터, 쇼타임!, MBC 220424 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827100737100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827100737100000</guid>
             <pubDate>Mon, 25 Apr 2022 04:26:43 GMT</pubDate>
             <content:encoded><![CDATA[2022-04-24]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20224/132953234901013983.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.imbc.com/adams/Content/20224/132955167433166922.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우리남편 장기출장 갔다... 쏴리질러 쿠폰질러~!!, MBC 220424 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <title><![CDATA[마트 쿠폰을 이렇게 활용한다고? | 쿠폰의 여왕, MBC 220424 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827100736100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827100736100000</guid>
             <pubDate>Mon, 25 Apr 2022 04:26:43 GMT</pubDate>
             <content:encoded><![CDATA[2022-04-24]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20224/132953234002096324.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.imbc.com/adams/Content/20224/132955167125508713.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이 영상을 본 당신은 치킨을 시키게 됩니다, MBC 220424 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <title><![CDATA[곽도원 vs 윤두준, 악연에서 동거인으로? | 구필수는 없다, MBC 220424 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827100735100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827100735100000</guid>
             <pubDate>Mon, 25 Apr 2022 04:26:43 GMT</pubDate>
             <content:encoded><![CDATA[2022-04-24]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20224/132953233132386315.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.imbc.com/adams/Content/20224/132955166673005846.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[내 새끼는 아무 잘못 없다는 뻔뻔함의 극치, MBC 220424 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <title><![CDATA[내 새끼는 아무 잘못 없다는 뻔뻔함의 극치 | 니 부모 얼굴이 보고 싶다, MBC 220424 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827100734100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827100734100000</guid>
             <pubDate>Mon, 25 Apr 2022 04:26:43 GMT</pubDate>
             <content:encoded><![CDATA[2022-04-24]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20224/132953232140478133.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.imbc.com/adams/Content/20224/132955165576436393.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스타트업? 그거 아무나 하는 거 아니다..., MBC 220424 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <title><![CDATA[공유오피스 위워크가 1년 만에 몰락한 이유는? | 우린폭망했다, MBC 220424 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827100733100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827100733100000</guid>
             <pubDate>Mon, 25 Apr 2022 04:26:43 GMT</pubDate>
             <content:encoded><![CDATA[2022-04-24]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20224/132953231313880712.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.imbc.com/adams/Content/20224/132955164672524400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[퇴사 마려운 거 꾹 참았더니 ‘칸’을 다 가보네, MBC 220424 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <title><![CDATA[퇴사 마려운 거 꾹 참았더니 ‘칸’을 다 가보네 | 좋좋소 시즌5, MBC 220424 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827100732100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827100732100000</guid>
             <pubDate>Mon, 25 Apr 2022 04:26:43 GMT</pubDate>
@@ -296,12 +296,12 @@
             <enclosure url="https://img.imbc.com/adams/Content/20224/132953229808535472.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘K-좀비 아버지’ 연상호의 미스터리 스릴러, MBC 220424 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <title><![CDATA[‘K-좀비 아버지’ 연상호의 미스터리 스릴러 | 괴이, MBC 220424 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827100731100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827100731100000</guid>
             <pubDate>Mon, 25 Apr 2022 04:26:43 GMT</pubDate>
             <content:encoded><![CDATA[2022-04-24]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20224/132953228926330523.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.imbc.com/adams/Content/20224/132955163845644159.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장례식장에서 진지하게...사업아이템 구상중... | 봄날, MBC 220417 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
