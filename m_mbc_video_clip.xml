@@ -1,8 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://m.imbc.com/VOD/SketchList/1000827100000100000?type=3</id>
-    <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
-    <updated>2022-05-01T20:19:38.771Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://m.imbc.com/VOD/SketchList/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 01 May 2022 21:18:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저세상 미모 박해진이 직접 소개하는 지금부터 쇼타임! | 지금부터, 쇼타임!, MBC 220424 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100737100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100737100000</guid>
+            <pubDate>Sun, 01 May 2022 21:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022-04-24]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20224/132955167433166922.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마트 쿠폰을 이렇게 활용한다고? | 쿠폰의 여왕, MBC 220424 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100736100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100736100000</guid>
+            <pubDate>Sun, 01 May 2022 21:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022-04-24]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20224/132955167125508713.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[곽도원 vs 윤두준, 악연에서 동거인으로? | 구필수는 없다, MBC 220424 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100735100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100735100000</guid>
+            <pubDate>Sun, 01 May 2022 21:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022-04-24]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20224/132955166673005846.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내 새끼는 아무 잘못 없다는 뻔뻔함의 극치 | 니 부모 얼굴이 보고 싶다, MBC 220424 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100734100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100734100000</guid>
+            <pubDate>Sun, 01 May 2022 21:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022-04-24]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20224/132955165576436393.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공유오피스 위워크가 1년 만에 몰락한 이유는? | 우린폭망했다, MBC 220424 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100733100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100733100000</guid>
+            <pubDate>Sun, 01 May 2022 21:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022-04-24]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20224/132955164672524400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퇴사 마려운 거 꾹 참았더니 ‘칸’을 다 가보네 | 좋좋소 시즌5, MBC 220424 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100732100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100732100000</guid>
+            <pubDate>Sun, 01 May 2022 21:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022-04-24]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20224/132953229808535472.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘K-좀비 아버지’ 연상호의 미스터리 스릴러 | 괴이, MBC 220424 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100731100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100731100000</guid>
+            <pubDate>Sun, 01 May 2022 21:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022-04-24]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20224/132955163845644159.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장례식장에서 진지하게...사업아이템 구상중... | 봄날, MBC 220417 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100729100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100729100000</guid>
+            <pubDate>Sun, 01 May 2022 21:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022-04-17]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20224/132949079834109002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너무 미운 남편에게 수줍게 내민 그 것.. | 플라이 미 투 더 문, MBC 220417 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100728100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100728100000</guid>
+            <pubDate>Sun, 01 May 2022 21:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022-04-17]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20224/132949079524575793.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
