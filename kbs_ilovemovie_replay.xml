@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 09:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 10:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀잼 영화가 좋다 - [1+1] 구필수는 없다 + 풀스피드]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022074028-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022074028-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 11 May 2022 10:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/05/11/627b8c0cd409699e37558290/thumbnail/627b8c0cd409699e37558290_edit_0_1652264391369.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[존 박의 플레이리스트] 월요일이 사라졌다 / [요주의 픽] 파이어스타터 / [소문의 시작] 안녕하세요 / [1+1] 장미맨션 + 목격자 / [신들의 전쟁] 금쪽같은 내 자식! 자식 사랑 갑 부모 연기의 신들 / [도도한 영화] 래디우스]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022059057-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 13 Apr 2022 11:15:31 GMT</pubDate>
             <content:encoded><![CDATA[127회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/04/13/6256a2d02742ea7ec1d52691/thumbnail/6256a2d02742ea7ec1d52691_edit_0_1649845603121.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소문의 시작] 더 컨트랙터 / [도도한 영화] 쿠폰의 여왕 / [아찔한 인터뷰] 야차 / [1+1] 스텔라 + 좋은 놈, 나쁜 놈, 이상한 놈 / [존 박의 플레이리스트] 봄날은 간다]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022042736-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022042736-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 09 Apr 2022 03:26:26 GMT</pubDate>
-            <content:encoded><![CDATA[795회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/04/09/6250ef2ba1fd90996a552b86/thumbnail/6250ef2ba1fd90996a552b86_edit_0_1649472442606.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
