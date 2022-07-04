@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 06:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 07:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[톰형의 스파르타식 구애작전, 빡세다 빡세┃나잇 & 데이, MBC 220703 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100810100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100810100000</guid>
+            <pubDate>Mon, 04 Jul 2022 07:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022-07-03]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20227/133013840904222368.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피고인의 무죄를 선고합니다! 이상하지만 특별한 변호사 박은빈┃이상한 변호사 우영우, MBC 220703 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827100809100000</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 01 Jul 2022 08:23:53 GMT</pubDate>
             <content:encoded><![CDATA[2022-06-26]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/20227/133011154827465710.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[걷고 걷고 또 걷다 인생에 경보등 켜진 소녀의 사연┃걷기왕, MBC 220626 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827100795100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827100795100000</guid>
-            <pubDate>Tue, 28 Jun 2022 21:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022-06-26]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20226/133007680424300418.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[존 박의 플레이리스트] 안나 / [아찔한 인터뷰] 외계+인 / [소문의 시작] 더 킬러: 죽어도 되는 아이 / [1+1] 비와 당신의 이야기 + 지금 만나러 갑니다 / [도도한 영화] 아이를 위한 아이 (영화가 좋다 ─ 다시보기)]]></title>
