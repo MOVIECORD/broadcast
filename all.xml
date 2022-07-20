@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 09:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 10:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://img.imbc.com/adams/Content/20227/133019878276559937.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[꿀잼 영화가 좋다 - [도도한 영화] Re-BORN / [소문의 시작] 외계+인 1부 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022120967-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022120967-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 20 Jul 2022 10:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/07/20/62d7d48eb18f9e9a1864e831/thumbnail/62d7d48eb18f9e9a1864e831_edit_0_1658312383692.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[도도한 영화] 보통의 용기 / [요주의 픽] 불릿 트레인 · 신병 / [아찔한 인터뷰] 헌트 / [1+1] 마녀(魔女) Part2. The Other One + 루시 / [요주의 픽] 리미트 / [존 박의 플레이리스트] 미성년 (영화가 좋다 ─ 다시보기)]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022103493-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022103493-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 22 Jun 2022 11:15:05 GMT</pubDate>
             <content:encoded><![CDATA[137회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/06/22/62b2ef504fa5544f3cfff4c7/thumbnail/62b2ef504fa5544f3cfff4c7_edit_0_1655894311582.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 종이의 집: 공동경제구역 · 최종병기 앨리스 / [존 박의 플레이리스트] 나를 찾아줘 / [도도한 영화] 시시콜콜한 이야기 / [1+1] 닥터 스트레인지: 대혼돈의 멀티버스 + 전우치 / [신들의 전쟁] 추앙과 추방 사이?! - 선과 악이 공존하는 배우들 (영화가 좋다 ─ 다시보기)]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022086518-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022086518-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 18 Jun 2022 03:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[805회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/06/18/62ad3bc14fa5544f3cff9995/thumbnail/62ad3bc14fa5544f3cff9995_edit_0_1655521404529.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
