@@ -1,8 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://m.imbc.com/VOD/SketchList/1000827100000100000?type=3</id>
-    <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
-    <updated>2022-07-21T04:44:24.497Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://m.imbc.com/VOD/SketchList/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 21 Jul 2022 05:28:57 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탕웨이의 리즈시절, 놓치지 않을 거예요┃색, 계, MBC 220717 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100824100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100824100000</guid>
+            <pubDate>Thu, 21 Jul 2022 05:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022-07-17]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20227/133025854567127751.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사고 한번 났을 뿐인데, 내가 이렇게 잘생겨졌다고?┃핸썸, MBC 220717 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100823100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100823100000</guid>
+            <pubDate>Thu, 21 Jul 2022 05:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022-07-17]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20227/133025853346803700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창고에 다녀온 후 엄마가 이상해졌어요..┃뒤틀린 집, MBC 220717 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100822100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100822100000</guid>
+            <pubDate>Thu, 21 Jul 2022 05:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022-07-17]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20227/133025852418800726.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[※혈압주의※ 재활용도 안 되는 인간쓰레기 ┃임파서블 러브, MBC 220717 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100821100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100821100000</guid>
+            <pubDate>Thu, 21 Jul 2022 05:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022-07-17]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20227/133025851733796379.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임시완의 표정에 대박을 감지했다┃비상선언, MBC 220717 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100820100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100820100000</guid>
+            <pubDate>Thu, 21 Jul 2022 05:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022-07-17]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20227/133025850826259024.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남의 아내를 건드린 브루스 윌리스의 최후┃데이 투 다이, MBC 220717 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100819100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100819100000</guid>
+            <pubDate>Thu, 21 Jul 2022 05:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022-07-17]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20227/133025849687172757.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<명량> 김한민 감독, 출비 단독 인터뷰 공개!┃한산: 용의 출현, MBC 220710 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100816100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100816100000</guid>
+            <pubDate>Thu, 21 Jul 2022 05:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022-07-10]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20227/133019880328608202.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 강력한 귀여움으로 귀요미니언들이 돌아왔다!┃미니언즈2, MBC 220710 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100815100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100815100000</guid>
+            <pubDate>Thu, 21 Jul 2022 05:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022-07-10]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20227/133019879381413201.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 부대에 별똥별 떨어졌다? 사단장 아들 신병으로 받은 썰┃신병, MBC 220710 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100814100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100814100000</guid>
+            <pubDate>Thu, 21 Jul 2022 05:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022-07-10]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20227/133019878276559937.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
