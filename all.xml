@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 01:47:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 03:36:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://img.imbc.com/adams/Content/20227/133019878276559937.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[요주의 픽] 카터 / [존박의 플레이리스트] 레인 맨 / [소문의 시작] 비상선언 / [도도한 영화] 앰뷸런스 / [영화보고서] 환불 안되는 배우들의 입금 ‘고생’담 BEST 5 / [1+1] 범죄도시2 + 국제수사 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022103494-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022103494-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 23 Jul 2022 03:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/07/23/62db60ac345051f1a12121a5/thumbnail/62db60ac345051f1a12121a5_edit_0_1658545374813.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[꿀잼 영화가 좋다 - [도도한 영화] Re-BORN / [소문의 시작] 외계+인 1부 (영화가 좋다 ─ 다시보기)]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022120967-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022120967-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
@@ -142,14 +150,6 @@
             <pubDate>Sat, 25 Jun 2022 03:36:02 GMT</pubDate>
             <content:encoded><![CDATA[806회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/06/25/62b676366838ba84fa8cdcee/thumbnail/62b676366838ba84fa8cdcee_edit_0_1656126029149.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿀잼 영화가 좋다 - [1+1] 미친 능력 + 여배우는 오늘도 (영화가 좋다 ─ 다시보기)]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022102113-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022102113-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Wed, 22 Jun 2022 11:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[137회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/06/22/62b2ef504fa5544f3cfff4c7/thumbnail/62b2ef504fa5544f3cfff4c7_edit_0_1655894311582.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
