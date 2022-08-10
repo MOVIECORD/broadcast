@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 10:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 11:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀잼 영화가 좋다 - [소문의 시작] 헌트 / [도도한 영화] 카터]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022130303-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022130303-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 10 Aug 2022 11:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/08/10/62f38dbeb020b2fae595d84c/thumbnail/62f38dbeb020b2fae595d84c_edit_0_1660129195988.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[요주의 픽] 제천국제음악영화제 · 놉 / [존박의 플레이리스트] 해적: 도깨비 깃발 / [소문의 시작] 리미트 / [도도한 영화] 락다운 213주 / [아찔한 인터뷰] 육사오 / [1+1] 개미가 타고 있어요 + 쿠폰의 여왕]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022125755-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 13 Jul 2022 11:16:15 GMT</pubDate>
             <content:encoded><![CDATA[140회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/07/13/62ce9f592f9e6dcaabd4c805/thumbnail/62ce9f592f9e6dcaabd4c805_edit_0_1657709023975.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 미니언즈2 / [존박의 플레이리스트] 멘 / [소문의 시작] 외계+인 1부 / [도도한 영화] Re-BORN / [영화보고서] 스타들이 처음 빛났던 순간, 그때 그 시절 베스트 5 / [1+1] 전국노래자랑 + 헬머니]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022103491-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022103491-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 09 Jul 2022 04:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[808회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/07/09/62c8f4d8a732184bd0a3796d/thumbnail/62c8f4d8a732184bd0a3796d_edit_0_1657337781517.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
