@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 09:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 10:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://img.imbc.com/adams/Content/20228/133062102467210535.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[꿀잼영화가 좋다 - [존 박의 플레이리스트] 공작 / [도도한 영화] 뷰티 인 더 글라스 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022148950-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022148950-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 07 Sep 2022 10:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/09/07/63186dda8968699130bd321e/thumbnail/63186dda8968699130bd321e_edit_0_1662545816909.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[요주의 픽] 컴백홈 / [존박의 플레이리스트] 모가디슈 / [아찔한 인터뷰] 정직한 후보2 / [소문의 시작] 유니콘 / [1+1] 슈퍼 후? + 럭키 / [도도한 영화] 호라이즌 라인 (영화가 좋다 ─ 다시보기)]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022146727-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022146727-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 24 Aug 2022 09:18:50 GMT</pubDate>
             <content:encoded><![CDATA[144회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/08/10/62f38dbeb020b2fae595d84c/thumbnail/62f38dbeb020b2fae595d84c_edit_0_1660129195988.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 제천국제음악영화제 · 놉 / [존박의 플레이리스트] 해적: 도깨비 깃발 / [소문의 시작] 리미트 / [도도한 영화] 락다운 213주 / [아찔한 인터뷰] 육사오 / [1+1] 개미가 타고 있어요 + 쿠폰의 여왕 (영화가 좋다 ─ 다시보기)]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022125755-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022125755-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Wed, 24 Aug 2022 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[812회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/08/06/62edcf9d51d48afc04f37344/thumbnail/62edcf9d51d48afc04f37344_edit_0_1659753302723.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
