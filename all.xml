@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 09:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 10:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://img.imbc.com/adams/Content/20229/133068267211670619.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[꿀잼 영화가 좋다 - [1+1] 슈퍼 후? + 럭키 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022162912-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022162912-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 14 Sep 2022 10:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/09/14/6321a70365495848f6ab8d57/thumbnail/6321a70365495848f6ab8d57_edit_0_1663150257024.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[신들의 전쟁] 추석 영화 추천 - 추석에 뭐 보지? / [소문의 시작] 늑대사냥 / [도도한 영화] 노후자금이 없어! / [요주의 픽] 블랙폰 / [1+1] 토르: 러브 앤 썬더 + 스파이 / [존 박의 플레이리스트] 싱 스트리트 · 고고70 · 인셉션 · 라 비 앙 로즈 · 인생은 아름다워 (영화가 좋다 ─ 다시보기)]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022146722-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022146722-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 24 Aug 2022 09:18:50 GMT</pubDate>
             <content:encoded><![CDATA[145회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/08/17/62fcbc97d2661ec21729e949/thumbnail/62fcbc97d2661ec21729e949_edit_0_1660731037081.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 코코순이 / [도도한 영화] 나인스 라이프 / [존 박의 플레이리스트] 헤어질 결심 / [소문의 시작] 서울대작전 / [1+1] 암살 + 밀정 / [신들의 전쟁] “네가 왜 여기서 나와?” 특별한 출연의 속사정 (영화가 좋다 ─ 다시보기)]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022132432-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022132432-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Wed, 24 Aug 2022 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[813회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/08/13/62f70a14d2661ec21728f5b8/thumbnail/62f70a14d2661ec21728f5b8_edit_0_1660357989788.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
