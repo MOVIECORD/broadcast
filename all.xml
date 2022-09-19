@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 02:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 04:53:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슛~ 볼은 나의 친구! 국민학교 선수 출신 아재들의 풋볼 리그 도전기┃선데이리그, MBC 220918 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100883100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100883100000</guid>
+            <pubDate>Mon, 19 Sep 2022 04:53:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022-09-18]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20229/133080251931410799.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아무도 놓치기 싫어서 싹 다 모셨어요~ 눈 호강 하고 가세요^^┃수리남, MBC 220911 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827100879100000</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 17 Sep 2022 17:24:26 GMT</pubDate>
             <content:encoded><![CDATA[2022-09-04]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/20229/133068268089498145.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유괴된 아이에게 죽은 이로부터 전화가 걸려왔다?┃블랙폰, MBC 220904 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827100870100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827100870100000</guid>
-            <pubDate>Sat, 17 Sep 2022 17:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022-09-04]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20229/133068267211670619.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[요주의 픽] 리멤버 / [존박의 플레이리스트] 비상선언 / [소문의 시작] 정직한 후보2 · 인생은 아름다워 / [영화보고서] 영화 속 맛집 베스트 5 / [1+1] 컴백홈 + 피터 래빗 (영화가 좋다 ─ 다시보기)]]></title>
