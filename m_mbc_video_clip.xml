@@ -1,8 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://m.imbc.com/VOD/SketchList/1000827100000100000?type=3</id>
-    <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
-    <updated>2022-11-16T16:39:37.892Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://m.imbc.com/VOD/SketchList/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:18:38 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[분명히 봤는데... 맹인이라 안 믿어줄 거잖아...┃올빼미, MBC 221113 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100938100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100938100000</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-13]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202211/133128653262364105.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 맡은 이종석의 악역! 다음 폭탄은 여기야, 빨리 가야 할걸?┃데시벨, MBC 221113 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100937100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100937100000</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-13]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202211/133128652536870452.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모르는 사람한테 문 열어주면 안 되는 이유.. 밤이 되면 그들을 조심해라!┃프롬, MBC 221113 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100936100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100936100000</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-13]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202211/133128651571213867.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헐! X세대와 MZ세대가 랜선 친구가 된다고?! ┃동감, MBC 221113 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100935100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100935100000</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-13]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202211/133128650680568982.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전교1등의 싸움 비결은? 약(not medicine)한 영웅을 열받게 하지 마! l 약한 영웅 Class 1, MBC 221113 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100934100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100934100000</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-13]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202211/133128649443678973.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공유와 좋아요로 사람을 죽인다고? SNS 마녀사냥 l 존 덴버 죽이기, MBC 221113 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100933100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100933100000</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-13]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202211/133128632362665363.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이것은 뭐랄까... 백마탄 입덕 영상이랄까? ┃가우스전자, MBC 221106 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100931100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100931100000</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-06]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202211/133122777963336806.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어느 날, 아이가 물었다. "엄마, 기린이 뭐야?" ┃에브리띵 윌 체인지, MBC 221106 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100930100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100930100000</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-06]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202211/133122776383636072.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김래원의 인생작 갱신! 해바라기 말고 이 영화? ┃데시벨, MBC 221106 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100929100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100929100000</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-06]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202211/133123393128458526.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
