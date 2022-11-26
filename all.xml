@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 01:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 05:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,6 +320,14 @@
             <enclosure url="https://img.imbc.com/adams/Content/202211/133128650680568982.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[요주의 픽] 스트레인지 월드 · 마법에 걸린 사랑2 / [존박의 플레이리스트] 탄생 / [소문의 시작] 커넥트 / [아찔한 인터뷰] 영웅 / [1+1] 선데이리그 + 족구왕 / [도도한 영화] 세이레 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022202424-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022202424-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 26 Nov 2022 05:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/11/26/63817a1aa068ed2ccfa1e565/thumbnail/63817a1aa068ed2ccfa1e565_edit_0_1669430818228.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[꿀잼 영화가 좋다 - [존박의 플레이리스트] 인생은 아름다워 / [소문의 시작] 올빼미 (영화가 좋다 ─ 다시보기)]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022205021-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022205021-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 16 Nov 2022 17:18:37 GMT</pubDate>
             <content:encoded><![CDATA[156회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/11/03/636242b80348ac98d7740f1e/thumbnail/636242b80348ac98d7740f1e_upload_1667440641000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 동감 / [존박의 플레이리스트] 블랙 팬서 / [소문의 시작] 자백 / [아찔한 인터뷰] 데시벨 / [도도한 영화] 폴: 600미터 / [1+1] 정직한 후보2 + 난 지구 반대편 나라로 가버릴테야 (영화가 좋다 ─ 다시보기)]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022190827-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022190827-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Wed, 16 Nov 2022 17:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[824회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/10/29/635c8daa05cde6b6dcbf6b64/thumbnail/635c8daa05cde6b6dcbf6b64_edit_0_1667010884510.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
