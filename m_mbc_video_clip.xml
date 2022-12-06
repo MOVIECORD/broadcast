@@ -1,8 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://m.imbc.com/VOD/SketchList/1000827100000100000?type=3</id>
-    <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
-    <updated>2022-12-06T04:20:59.538Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://m.imbc.com/VOD/SketchList/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 06 Dec 2022 05:15:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첫 주연에 여전사 캐릭터 씹어 먹은 이 언니 ┃안나 MBC 221127 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100959100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100959100000</guid>
+            <pubDate>Tue, 06 Dec 2022 05:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022-12-04]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202212/133146969554974935.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[거 휴대폰 속에 갇혀 있기 딱 좋은 날씨네 ┃사장님을 잠금해제 221204 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100958100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100958100000</guid>
+            <pubDate>Tue, 06 Dec 2022 05:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022-12-04]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202212/133146968205747622.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[집을 우주선으로 셀프 리모델링한 천재 소년 ┃가가린 221204 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100957100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100957100000</guid>
+            <pubDate>Tue, 06 Dec 2022 05:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022-12-04]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202212/133146966349636666.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[또 사고 친 티모시 샬라메! 너 정말♡ (feat. 덕통사고) ┃본즈 앤 올 221204 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100956100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100956100000</guid>
+            <pubDate>Tue, 06 Dec 2022 05:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022-12-04]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202212/133146965163535390.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변 누다가 선 넘은 한국명작 클래식 전당 ┃공동경비구역 JSA MBC 221204 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100955100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100955100000</guid>
+            <pubDate>Tue, 06 Dec 2022 05:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022-12-04]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202212/133146963834300642.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제목만 보고 로맨틱 코미디인 줄 알았다... | 크리스마스 캐럴 MBC 221204 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100954100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100954100000</guid>
+            <pubDate>Tue, 06 Dec 2022 05:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022-12-04]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202212/133146962769756427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내 첫사랑을 찾아주세요! 남의 편인 남편아 | 인생은 아름다워 MBC 221127 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100952100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100952100000</guid>
+            <pubDate>Tue, 06 Dec 2022 05:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-27]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202211/133140739274892135.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경거망동의 아이콘 조정석! 내가 팽당할 상인가? | 관상 MBC 221127 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100951100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100951100000</guid>
+            <pubDate>Tue, 06 Dec 2022 05:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-27]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202211/133140737907353267.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진짜 죽지않는 사람이 있다고? 그게 바로 정해인?!! | 커넥트 MBC 221127 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100950100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100950100000</guid>
+            <pubDate>Tue, 06 Dec 2022 05:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-27]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202211/133140737089971340.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
