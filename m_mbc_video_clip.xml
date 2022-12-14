@@ -1,8 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://m.imbc.com/VOD/SketchList/1000827100000100000?type=3</id>
-    <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
-    <updated>2022-12-14T15:17:28.495Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://m.imbc.com/VOD/SketchList/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 14 Dec 2022 16:24:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금주선언? 술꾼 들이 산으로간 까닭은?┃술꾼도시여자들2 MBC 221211 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100965100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100965100000</guid>
+            <pubDate>Wed, 14 Dec 2022 16:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022-12-11]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202212/133152823751020348.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손석구 X 최민식! <범죄도시> 군단이 일냈네!┃카지노 MBC 221211 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100964100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100964100000</guid>
+            <pubDate>Wed, 14 Dec 2022 16:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022-12-11]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202212/133152821712693132.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[머니백? 아윌비백! 허당 킬러 또경영┃머니백 MBC 221211 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100963100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100963100000</guid>
+            <pubDate>Wed, 14 Dec 2022 16:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022-12-11]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202212/133152820700336305.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동그라미만 그려도 월 600주는 회사가 있다? ┃사막의 왕 MBC 221211 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100962100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100962100000</guid>
+            <pubDate>Wed, 14 Dec 2022 16:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022-12-11]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202212/133152819877349575.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빼앗긴 눈에서 무언가 보인다? 저희도 보고싶어서 모셨습니다♥  l 커넥트 MBC 221211 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100961100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100961100000</guid>
+            <pubDate>Wed, 14 Dec 2022 16:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022-12-11]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202212/133152818215288334.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[첫 주연에 여전사 캐릭터 씹어 먹은 이 언니 ┃안나 MBC 221127 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100959100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100959100000</guid>
+            <pubDate>Wed, 14 Dec 2022 16:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022-12-04]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202212/133146969554974935.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[거 휴대폰 속에 갇혀 있기 딱 좋은 날씨네 ┃사장님을 잠금해제 MBC 221204 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100958100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100958100000</guid>
+            <pubDate>Wed, 14 Dec 2022 16:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[2022-12-04]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202212/133146968205747622.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[집을 우주선으로 셀프 리모델링한 천재 소년 ┃가가린 MBC 221204 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100957100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100957100000</guid>
+            <pubDate>Wed, 14 Dec 2022 16:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[2022-12-04]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202212/133146966349636666.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[또 사고 친 티모시 샬라메! 너 정말♡ (feat. 덕통사고) ┃본즈 앤 올 MBC 221204 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100956100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100956100000</guid>
+            <pubDate>Wed, 14 Dec 2022 16:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[2022-12-04]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202212/133146965163535390.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
