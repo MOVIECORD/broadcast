@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 09:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 10:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀잼 영화가 좋다 - [존박의 플레이리스트] 만추 / [도도한 영화] 거래완료]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022211857-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022211857-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 14 Dec 2022 10:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/12/14/63999ceec0c963e64977a376/thumbnail/63999ceec0c963e64977a376_edit_0_1671012015834.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[월드 프리미어] 아바타:물의 길 / [도도한 영화] 자백 / [소문의 시작] 카지노 · 영웅 / [아찔한 인터뷰] 젠틀맨 / [1+1] 술꾼도시여자들2 + 아더 우먼]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022211935-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:18:37 GMT</pubDate>
             <content:encoded><![CDATA[159회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/11/16/6374b7dc33cda46d05d4884e/thumbnail/6374b7dc33cda46d05d4884e_edit_0_1668594051809.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 압꾸정 / [존박의 플레이리스트] 인생은 아름다워 / [소문의 시작] 올빼미 · 데시벨 / [도도한 영화] 대무가 / [1+1] 동감 + 어쩌다 룸메이트]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022190829-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022190829-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Wed, 16 Nov 2022 17:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[826회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/11/12/636f13c833cda46d05d41e4f/thumbnail/636f13c833cda46d05d41e4f_edit_0_1668224839884.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
