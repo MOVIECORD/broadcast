@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 05:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 06:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,38 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg=="/>
         </item>
         <item>
+            <title><![CDATA[뉴턴이 우리 애한테 무슨 짓을 한 거니 ┃약한영웅 Class 1 MBC 221218 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100970100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100970100000</guid>
+            <pubDate>Mon, 19 Dec 2022 06:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022-12-18]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202212/133158973165761440.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[괴짜 감독과 ‘자강두천’이 만나면 벌어지는 일 ┃크레이지 컴페티션 MBC 221218 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100969100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100969100000</guid>
+            <pubDate>Mon, 19 Dec 2022 06:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022-12-18]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202212/133158972051838541.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이번엔 랜선이 아닌 찐으로 만났습니다..! 아바타의 주연들♥ ┃아바타: 물의 길 MBC 221218 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100968100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100968100000</guid>
+            <pubDate>Mon, 19 Dec 2022 06:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022-12-18]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202212/133158970969312280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조폐국을 털러간 천재 강도단... 알고보니 또 다른 사연이? ┃종이의 집: 공동경제구역 파트2 MBC 221218 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100967100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100967100000</guid>
+            <pubDate>Mon, 19 Dec 2022 06:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022-12-18]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202212/133158914003817665.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[금주선언? 술꾼 들이 산으로간 까닭은?┃술꾼도시여자들2 MBC 221211 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827100965100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827100965100000</guid>
@@ -286,38 +318,6 @@
             <pubDate>Fri, 16 Dec 2022 20:16:05 GMT</pubDate>
             <content:encoded><![CDATA[2022-12-11]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/202212/133152818215288334.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫 주연에 여전사 캐릭터 씹어 먹은 이 언니 ┃안나 MBC 221127 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827100959100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827100959100000</guid>
-            <pubDate>Fri, 16 Dec 2022 20:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022-12-04]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202212/133146969554974935.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거 휴대폰 속에 갇혀 있기 딱 좋은 날씨네 ┃사장님을 잠금해제 MBC 221204 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827100958100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827100958100000</guid>
-            <pubDate>Fri, 16 Dec 2022 20:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022-12-04]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202212/133146968205747622.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집을 우주선으로 셀프 리모델링한 천재 소년 ┃가가린 MBC 221204 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827100957100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827100957100000</guid>
-            <pubDate>Fri, 16 Dec 2022 20:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022-12-04]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202212/133146966349636666.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또 사고 친 티모시 샬라메! 너 정말♡ (feat. 덕통사고) ┃본즈 앤 올 MBC 221204 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827100956100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827100956100000</guid>
-            <pubDate>Fri, 16 Dec 2022 20:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022-12-04]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202212/133146965163535390.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[요주의 픽] 바빌론 / [소문의 시작] 프레이 포 더 데블 / [존 박의 플레이리스트] 동감 / [신들의 전쟁] 이거 실화냐? 한 줄에서 시작된 상상력, 팩션 영화 / [도도한 영화] 더 플랫 폼 / [1+1] 데시벨 + 발신제한 (영화가 좋다 ─ 다시보기)]]></title>
