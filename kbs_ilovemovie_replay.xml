@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 09:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 10:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀잼 영화가 좋다 - [소문의 시작] 카지노 · 영웅]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022225424-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022225424-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 21 Dec 2022 10:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/12/21/63a2d95863714b9795d6049e/thumbnail/63a2d95863714b9795d6049e_edit_0_1671617377620.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[요주의 픽] 바빌론 / [소문의 시작] 프레이 포 더 데블 / [존 박의 플레이리스트] 동감 / [신들의 전쟁] 이거 실화냐? 한 줄에서 시작된 상상력, 팩션 영화 / [도도한 영화] 더 플랫 폼 / [1+1] 데시벨 + 발신제한]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022211936-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 23 Nov 2022 11:14:34 GMT</pubDate>
             <content:encoded><![CDATA[160회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/11/23/637dee8733cda46d05d56212/thumbnail/637dee8733cda46d05d56212_edit_0_1669197924967.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 머슴 바울 / [도도한 영화] 오늘 밤, 세계에서 이 사랑이 사라진다 해도 / [영화가 좋다 스페셜] 유포자들 / [소문의 시작] 압꾸정 / [1+1] 헤어질 결심 + 무뢰한 / [존 박의 플레이리스트] 아무것도 하고 싶지 않아]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022197878-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2022197878-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 19 Nov 2022 04:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[827회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2022/11/19/63783faa33cda46d05d4d337/thumbnail/63783faa33cda46d05d4d337_edit_0_1668825903387.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
