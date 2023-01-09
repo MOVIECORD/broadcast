@@ -4,9 +4,17 @@
         <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 08:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 11:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인간의 기억을 가지고 A..I.로 되살아난 엄마가 전투로봇? l 정이 MBC 230108 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100988100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100988100000</guid>
+            <pubDate>Mon, 09 Jan 2023 11:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[2023-01-08]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20231/133177198658155961.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보안관? 그기 돈이 되나? 안 됩니다 회장님┃보안관 MBC 230101 방송]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827100985100000</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 29 Dec 2022 18:18:50 GMT</pubDate>
             <content:encoded><![CDATA[2022-12-25]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/202212/133165119651427744.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권상우와 오정세가 서프라이즈 재연배우로 도전장 내민 사연은?┃스위치 MBC 221225 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827100976100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827100976100000</guid>
-            <pubDate>Thu, 29 Dec 2022 18:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[2022-12-25]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202212/133165118750475840.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
