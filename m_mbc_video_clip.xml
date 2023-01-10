@@ -4,9 +4,33 @@
         <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 05:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 06:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김태리도 듣다가 침고일 리틀 포레스트 귀로 먹는 나레이션┃리틀 포레스트 230108 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100991100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100991100000</guid>
+            <pubDate>Tue, 10 Jan 2023 06:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[2023-01-08]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20231/133177202329652633.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[황정민과 현빈의 공조, 24시간이 모자라...┃교섭 MBC 230108 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100990100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100990100000</guid>
+            <pubDate>Tue, 10 Jan 2023 06:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[2023-01-08]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20231/133177201145682780.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제 여친은 매일 저를 잊어버립니다...┃오늘 밤, 세계에서 이 사랑이 사라진다 해도 MBC 230108 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100989100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100989100000</guid>
+            <pubDate>Tue, 10 Jan 2023 06:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[2023-01-08]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20231/133178029631580980.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인간의 기억을 가지고 A..I.로 되살아난 엄마가 전투로봇? l 정이 MBC 230108 방송]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827100988100000</link>
@@ -54,30 +78,6 @@
             <pubDate>Mon, 02 Jan 2023 07:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2023-01-01]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/20231/133170962468049834.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TV에 나올 때마다 보게 되는 마성의 띵작 ┃범죄와의 전쟁: 나쁜놈들 전성시대 MBC 230101 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827100980100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827100980100000</guid>
-            <pubDate>Mon, 02 Jan 2023 07:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2023-01-01]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20231/133170961708813982.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만화 찢고 나온 비주얼 천재들의 구마 판타지┃아일랜드 MBC 230101 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827100979100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827100979100000</guid>
-            <pubDate>Mon, 02 Jan 2023 07:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2023-01-01]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20231/133170958518431579.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼바이러스 퇴치엔 비타민C가 특효약? 파리지엥 산타의 요정 구출기┃산타 앤 컴퍼니 MBC 221225 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827100977100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827100977100000</guid>
-            <pubDate>Thu, 29 Dec 2022 18:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[2022-12-25]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202212/133165119651427744.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
