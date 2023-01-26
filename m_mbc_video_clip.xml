@@ -1,8 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://m.imbc.com/VOD/SketchList/1000827100000100000?type=3</id>
-    <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
-    <updated>2023-01-26T19:13:16.762Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://m.imbc.com/VOD/SketchList/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 26 Jan 2023 20:16:09 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핵사이다! 며느리에게 백기 든 시월드┃가문의 위기 – 가문의 영광2 MBC 230122 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101004100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101004100000</guid>
+            <pubDate>Thu, 26 Jan 2023 20:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023-01-22]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20231/133190803235459081.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멋있으니까 꼭 봐! 김남길 차은우 이다희가 악을 때려 잡는 이야기┃아일랜드 MBC 230122 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101003100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101003100000</guid>
+            <pubDate>Thu, 26 Jan 2023 20:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023-01-22]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20231/133190802352468212.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은숙 작가가 작정하고 만든 전세계를 강타한 송혜교의 복수극┃더 글로리 MBC 230122 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101002100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101002100000</guid>
+            <pubDate>Thu, 26 Jan 2023 20:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023-01-22]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20231/133190801514792477.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[타입 슬립 카세트 ON! 사랑도 PLAY! ┃상견니 MBC 230122 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101001100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101001100000</guid>
+            <pubDate>Thu, 26 Jan 2023 20:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023-01-22]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20231/133190800696793028.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헤어진 애인 연락처는 언제 지워야 할까?┃어쩌면 우린 헤어졌는지 모른다 MBC 230122 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101000100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101000100000</guid>
+            <pubDate>Thu, 26 Jan 2023 20:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023-01-22]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20231/133190799788499419.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CG가 필요없는 견자단 무술 끝판왕 무협 액션 활극 l 천룡팔부: 교봉전 MBC 230122 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100999100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100999100000</guid>
+            <pubDate>Thu, 26 Jan 2023 20:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023-01-22]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20231/133190798540481701.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[얼음정수기 없던 그 시절, 조선판 케이퍼무비┃바람과 함께 사라지다 MBC 230115 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100997100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100997100000</guid>
+            <pubDate>Thu, 26 Jan 2023 20:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023-01-15]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20231/133183083291574637.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전남편이 나에게 깜짝 소개팅을 주선했다... ┃남이 될 수 있을까 MBC 230115 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100996100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100996100000</guid>
+            <pubDate>Thu, 26 Jan 2023 20:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023-01-15]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20231/133183082290294684.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[줄리아 로버츠의 스물넷 꽃띠 시절 감상하실 분 ┃귀여운 여인 MBC 230115 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827100995100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827100995100000</guid>
+            <pubDate>Thu, 26 Jan 2023 20:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023-01-15]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20231/133183081249341062.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
