@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Feb 2023 02:43:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 03:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,6 +320,14 @@
             <enclosure url="https://img.imbc.com/adams/Content/20231/133195158417364563.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[요주의 픽] 던전 앤 드래곤: 도적들의 명예 / [지선의 플레이리스트] 스위치 / [아찔한 인터뷰] 대외비 / [소문의 시작] 스마트폰을 떨어뜨렸을 뿐인데 / [1+1] 카지노 + 마약왕 / [도도한 영화] 내겐 너무 소중한 너 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023013397-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023013397-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 11 Feb 2023 03:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/02/11/63e6fd8d9e0e931c864ae553/thumbnail/63e6fd8d9e0e931c864ae553_0_1676083329983.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[꿀잼 영화가 좋다 - [소문의 시작] 미끼 / [존 박의 플레이리스트] 더 메뉴 (영화가 좋다 ─ 다시보기)]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023012602-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023012602-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
@@ -382,14 +390,6 @@
             <pubDate>Sat, 14 Jan 2023 04:20:15 GMT</pubDate>
             <content:encoded><![CDATA[835회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/01/14/63c214a8fb679de9c1a210f3/thumbnail/63c214a8fb679de9c1a210f3_0_1673664840449.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿀잼 영화가 좋다 - [1+1] 스위치 + 베일리 어게인 (영화가 좋다 ─ 다시보기)]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022232022-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2022232022-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Wed, 11 Jan 2023 11:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[167회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/01/11/63be8cd7fb679de9c1a1cc06/thumbnail/63be8cd7fb679de9c1a1cc06_0_1673432756716.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
