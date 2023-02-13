@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 05:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 06:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,54 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg=="/>
         </item>
         <item>
+            <title><![CDATA[학교생활이 미션보다 빡셀 줄 몰랐어요┃킬러 인 하이스쿨, MBC 230212 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101025100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101025100000</guid>
+            <pubDate>Mon, 13 Feb 2023 06:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023-02-12]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20232/133207252702255723.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기봉이는 잊어라... 웃음기 싹 빼고 왔으니까┃살수, MBC 230212 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101024100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101024100000</guid>
+            <pubDate>Mon, 13 Feb 2023 06:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023-02-12]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20232/133207249314262435.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현빈 씨는 몇 살 때부터 그렇게 멋있었나 ┃백만장자의 첫사랑, MBC 230212 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101023100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101023100000</guid>
+            <pubDate>Mon, 13 Feb 2023 06:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023-02-12]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20232/133207248395506604.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이걸 추앙 안 하고 배겨? 본격 카지노 영업재개┃카지노 시즌2, MBC 230212 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101022100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101022100000</guid>
+            <pubDate>Mon, 13 Feb 2023 06:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023-02-12]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20232/133207247458156907.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[초원이 덕분에 방귀 예절을 배웠습니다┃말아톤, MBC 230212 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101021100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101021100000</guid>
+            <pubDate>Mon, 13 Feb 2023 06:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023-02-12]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20232/133207246575176285.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도대체 내 폰에 무슨 짓을 한 거야┃스마트폰을 떨어뜨렸을 뿐인데, MBC 230212 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101020100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101020100000</guid>
+            <pubDate>Mon, 13 Feb 2023 06:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023-02-12]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20232/133207245054533440.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[그린란드에 가서 상어 때려잡은 샐러리맨이 있다?┃월터의 상상은 현실이 된다, MBC 230205 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827101018100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827101018100000</guid>
@@ -270,54 +318,6 @@
             <pubDate>Mon, 06 Feb 2023 06:23:57 GMT</pubDate>
             <content:encoded><![CDATA[2023-02-05]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/20232/133201212713400364.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘아싸’가 된 조폭두목 김상중! 그런데 말입니다.┃투사부일체, MBC 230205 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101015100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101015100000</guid>
-            <pubDate>Mon, 06 Feb 2023 06:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[2023-02-05]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20232/133201212001364595.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허광한에게 사랑이란? 상친자들♥ <상견니> 3인방 인터뷰┃상견니, MBC 230205 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101014100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101014100000</guid>
-            <pubDate>Mon, 06 Feb 2023 06:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[2023-02-05]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20232/133201211619487174.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌아온 작지만 강한 영웅 '앤트맨'과 우주 최강 빌런 '캉' l 앤트맨과 와스프: 퀸텀매니아, MBC 230205 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101013100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101013100000</guid>
-            <pubDate>Mon, 06 Feb 2023 06:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[2023-02-05]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20232/133201210983065899.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손예진남편과 거미남편이 칼 들고 싸운 이유는? ┃역린 MBC 230129 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101011100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101011100000</guid>
-            <pubDate>Mon, 30 Jan 2023 07:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[2023-01-29]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20231/133195161024606893.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[길에서 장근석을 만나도, 사진은 찍지 말 것┃미끼 MBC 230129 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101010100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101010100000</guid>
-            <pubDate>Mon, 30 Jan 2023 07:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[2023-01-29]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20231/133195159843792618.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[※혈압주의※ 순교자의 땅에서 벌어진 최악의 연쇄살인 ┃성스러운 거미 MBC 230129 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101009100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101009100000</guid>
-            <pubDate>Mon, 30 Jan 2023 07:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[2023-01-29]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20231/133195158417364563.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[요주의 픽] 던전 앤 드래곤: 도적들의 명예 / [지선의 플레이리스트] 스위치 / [아찔한 인터뷰] 대외비 / [소문의 시작] 스마트폰을 떨어뜨렸을 뿐인데 / [1+1] 카지노 + 마약왕 / [도도한 영화] 내겐 너무 소중한 너 (영화가 좋다 ─ 다시보기)]]></title>
