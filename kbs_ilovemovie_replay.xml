@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 01:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 02:37:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[요주의 픽] 보스턴 교살자 / [도도한 영화] 샷건 웨딩 / [소문의 시작] 길복순 / [1+1] 웅남이 + 나는 왕이로소이다 / [아찔한 인터뷰] 리바운드 / [존박의 플레이리스트] 더 웨일]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023040504-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023040504-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 18 Mar 2023 02:37:45 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/03/18/64151ed124bd6d209aef67c3/thumbnail/64151ed124bd6d209aef67c3_0_1679106775870.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꿀잼 영화가 좋다 - [도도한 영화] 플레인 / [소문의 시작] 스즈메의 문단속]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023041227-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 18 Feb 2023 05:15:47 GMT</pubDate>
             <content:encoded><![CDATA[840회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/02/18/63f0411a0a66e6bc548261f8/thumbnail/63f0411a0a66e6bc548261f8_0_1676690479664.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿀잼 영화가 좋다 - [소문의 시작] 다음 소희 / [도도한 영화] 우리 사랑이 향기로 남을 때]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023025802-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023025802-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Wed, 15 Feb 2023 10:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[172회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/02/15/63ecabe9ec51de699c5036a8/thumbnail/63ecabe9ec51de699c5036a8_0_1676455452199.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
