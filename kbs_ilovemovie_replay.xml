@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 09:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 10:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀잼 영화가 좋다 - [소문의 시작] 모나리자와 블러드 문 / [존 박의 플레이리스트] 타이타닉]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023041228-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023041228-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 22 Mar 2023 10:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/03/22/641ad28024bd6d209aefe438/thumbnail/641ad28024bd6d209aefe438_0_1679479812648.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[요주의 픽] 보스턴 교살자 / [도도한 영화] 샷건 웨딩 / [소문의 시작] 길복순 / [1+1] 웅남이 + 나는 왕이로소이다 / [아찔한 인터뷰] 리바운드 / [존박의 플레이리스트] 더 웨일]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023040504-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 22 Feb 2023 10:23:41 GMT</pubDate>
             <content:encoded><![CDATA[173회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/02/22/63f5eaa0f8d75f22bd10cf33/thumbnail/63f5eaa0f8d75f22bd10cf33_0_1677061144383.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 앤트맨과 와스프: 퀀텀매니아 · 플레인 / [존박의 플레이리스트] 멍뭉이 / [소문의 시작] 대외비 / [아찔한 인터뷰] 웅남이 / [1+1] 카운트 + 딜리버리맨 / [도도한 영화] 콜 제인]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023022440-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023022440-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 18 Feb 2023 05:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[840회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/02/18/63f0411a0a66e6bc548261f8/thumbnail/63f0411a0a66e6bc548261f8_0_1676690479664.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
