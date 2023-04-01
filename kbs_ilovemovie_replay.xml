@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 02:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 03:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[요주의 픽] 존 윅 4 / [아찔한 인터뷰] 길복순 / [존박의 플레이리스트] 아바타: 물의 길 / [소문의 시작] 리바운드 · 방과 후 전쟁활동 / [1+1] 킬링 로맨스 + 보라! 데보라]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023050276-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023050276-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 01 Apr 2023 03:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/04/01/642794aa9c9671c925c858fc/thumbnail/642794aa9c9671c925c858fc_0_1680316710320.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꿀잼 영화가 좋다 - [도도한 영화] 샷건 웨딩 / [소문의 시작] 길복순]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023049156-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 06 Mar 2023 02:52:19 GMT</pubDate>
             <content:encoded><![CDATA[174회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/03/06/64053f3dc25ba8ce7f98b4dc/thumbnail/64053f3dc25ba8ce7f98b4dc_0_1678067168006.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 샤잠! 신들의 분노 / [도도한 영화] 플레인 / [존 박의 플레이리스트] 니 부모 얼굴이 보고싶다 / [소문의 시작] 스즈메의 문단속 / [1+1] 연애대전 + 어쩌다 결혼 / [영화 보고서 TOP5] 아카데미 시상식의 모든 것]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023031787-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023031787-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 04 Mar 2023 02:46:50 GMT</pubDate>
-            <content:encoded><![CDATA[842회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/03/07/6402acb3c25ba8ce7f988fb0/thumbnail/6402acb3c25ba8ce7f988fb0_upload_1678163414377.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
