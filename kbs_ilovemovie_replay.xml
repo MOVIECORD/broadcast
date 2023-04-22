@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 01:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 02:33:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[요주의 픽] 렌필드 / [존 박의 플레이리스트] 인셉션 / [소문의 시작] 드림 / [1+1] 퀸메이커 + 검사외전 / [도도한 영화] 플레이 데드 / [신들의 전쟁] 무한 경쟁의 시대에서 살아남은 배우들>]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023058561-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023058561-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 22 Apr 2023 02:33:54 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/04/22/644343a283e63dd468e0711f/thumbnail/644343a283e63dd468e0711f_0_1682130578637.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꿀잼 영화가 좋다 - [도도한 영화] 옥수역 귀신 / [소문의 시작] 종이달]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023060493-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 22 Mar 2023 10:16:28 GMT</pubDate>
             <content:encoded><![CDATA[177회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/03/22/641ad28024bd6d209aefe438/thumbnail/641ad28024bd6d209aefe438_0_1679479812648.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 보스턴 교살자 / [도도한 영화] 샷건 웨딩 / [소문의 시작] 길복순 / [1+1] 웅남이 + 나는 왕이로소이다 / [아찔한 인터뷰] 리바운드 / [존박의 플레이리스트] 더 웨일]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023040504-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023040504-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 18 Mar 2023 02:37:45 GMT</pubDate>
-            <content:encoded><![CDATA[844회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/03/18/64151ed124bd6d209aef67c3/thumbnail/64151ed124bd6d209aef67c3_0_1679106775870.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
