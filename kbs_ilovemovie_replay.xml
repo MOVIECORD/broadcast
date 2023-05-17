@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 09:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 10:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀잼 영화가 좋다 - [1+1] 우리 사랑이 향기로 남을때 + 위시업]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023085472-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023085472-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 17 May 2023 10:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/05/17/6464a6b4ea4c153674d08683/thumbnail/6464a6b4ea4c153674d08683_0_1684318306941.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[요주의 픽] 분노의 질주: 라이드 오어 다이 / [존박의 플레이리스트] 소울메이트 / [아찔한 인터뷰] 범죄도시 3 / [소문의 시작] 라이드 온 / [도도한 영화] 던전 앤 드래곤: 도적들의 명예 / [1+1] 리바운드 + 튼튼이의 모험]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023072463-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 19 Apr 2023 10:16:27 GMT</pubDate>
             <content:encoded><![CDATA[181회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/04/19/643fbad419171cc0037018fe/thumbnail/643fbad419171cc0037018fe_0_1681898627974.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 슈퍼마리오 브라더스 / [아찔한 인터뷰] 킬링 로맨스 / [도도한 영화] 침입자 / [소문의 시작] 피기 / [1+1] 대외비 + 아부의 왕 / [존박의 플레이리스트] 오늘 밤, 세계에서 이 사랑이 사라진다 해도]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023058560-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023058560-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 15 Apr 2023 03:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[848회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/04/15/643a0a93b677aa44e25eee31/thumbnail/643a0a93b677aa44e25eee31_0_1681526821637.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
