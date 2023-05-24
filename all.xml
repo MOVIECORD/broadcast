@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 09:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 10:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,6 +320,14 @@
             <enclosure url="https://img.imbc.com/adams/Content/20235/133285876606657466.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[꿀잼 영화가 좋다 - [존 박의 플레이리스트] 캐치 미 이프 유 캔 / [소문의 시작] 슬픔의 삼각형 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023085473-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023085473-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 24 May 2023 10:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/05/24/646ddf7855670e925beeb3a7/thumbnail/646ddf7855670e925beeb3a7_0_1684922691965.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[요주의 픽] 택배기사 / [존 박의 플레이리스트] 킬링 로맨스 / [소문의 시작] 아메리칸 카니지 / [1+1] 올빼미 + 청년경찰 / [도도한 영화] #아이엠히어 / [신들의 전쟁] '한국인의 소울푸드' 바야흐로 치킨값 3만원 시대! 영화 속, 한국인의 영혼을 달래주는 가성비 갑 소울 푸드 1위는 무엇? (영화가 좋다 ─ 다시보기)]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023084018-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023084018-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 26 Apr 2023 10:16:11 GMT</pubDate>
             <content:encoded><![CDATA[182회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/04/26/6448f4f4990e39722b0609ec/thumbnail/6448f4f4990e39722b0609ec_0_1682503380460.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 렌필드 / [존 박의 플레이리스트] 인셉션 / [소문의 시작] 드림 / [1+1] 퀸메이커 + 검사외전 / [도도한 영화] 플레이 데드 / [신들의 전쟁] 무한 경쟁의 시대에서 살아남은 배우들> (영화가 좋다 ─ 다시보기)]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023058561-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023058561-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 22 Apr 2023 02:33:54 GMT</pubDate>
-            <content:encoded><![CDATA[849회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/04/22/644343a283e63dd468e0711f/thumbnail/644343a283e63dd468e0711f_0_1682130578637.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
