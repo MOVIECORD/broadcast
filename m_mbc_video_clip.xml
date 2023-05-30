@@ -4,9 +4,33 @@
         <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 01:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 02:39:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전쟁 장면에서 배꼽 스틸해가는 그 영화 ┃평양성, MBC 230528 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101109100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101109100000</guid>
+            <pubDate>Tue, 30 May 2023 02:39:37 GMT</pubDate>
+            <content:encoded><![CDATA[2023-05-28]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20235/133298810235404696.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[흙수저 벗어나기 위해 전학왔는데... 살인사건의 목격자가 되었다┃청담국제고등학교, MBC 230528 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101108100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101108100000</guid>
+            <pubDate>Tue, 30 May 2023 02:39:37 GMT</pubDate>
+            <content:encoded><![CDATA[2023-05-28]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20235/133298809381493030.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[9년 만에 복귀하는 배우 이나영의 최신작!┃박하경 여행기, MBC 230528 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101107100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101107100000</guid>
+            <pubDate>Tue, 30 May 2023 02:39:37 GMT</pubDate>
+            <content:encoded><![CDATA[2023-05-28]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20235/133298808410236861.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손 하나 까딱 안하고 남의 돈 가로채기? 전종서는 쌉가능! ┃모나리자와 블러드 문, MBC 230521 방송]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827101106100000</link>
@@ -54,30 +78,6 @@
             <pubDate>Mon, 15 May 2023 06:20:18 GMT</pubDate>
             <content:encoded><![CDATA[2023-05-14]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/20235/133285879685270752.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사골같은 성룡 액션이라고? 근데 아는 맛이 더 무서운 거 알지?┃라이드 온, MBC 230514 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101098100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101098100000</guid>
-            <pubDate>Mon, 15 May 2023 06:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[2023-05-14]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20235/133285878824015286.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인생의 터닝포인트에서 다른 선택을 한다면┃줄리아의 인생극장, MBC 230514 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101097100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101097100000</guid>
-            <pubDate>Mon, 15 May 2023 06:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[2023-05-14]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20235/133285877546663431.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달리거나 죽거나! 도심 속 분노의 드라이브!┃분노의 질주: 라이드 오어 다이, MBC 230514 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101096100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101096100000</guid>
-            <pubDate>Mon, 15 May 2023 06:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[2023-05-14]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20235/133285876606657466.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
