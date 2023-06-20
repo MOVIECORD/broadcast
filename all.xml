@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 23:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 01:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,14 +280,6 @@
             <enclosure url="https://img.imbc.com/adams/Content/20236/133316113311133363.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[눈 떠보니 내가 연쇄 살인마? | 악마들, MBC 230618 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101124100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101124100000</guid>
-            <pubDate>Mon, 19 Jun 2023 07:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[2023-06-18]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20236/133316112298158193.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[방송국놈들이 이제서야 명장면이 넘치는 이 영화를 소개하네... | 내부자들, MBC 230611 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827101122100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827101122100000</guid>
@@ -320,11 +312,19 @@
             <enclosure url="https://img.imbc.com/adams/Content/20236/133310070985620023.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[DC유니버스의 신작! 빛보다 빠른 슈퍼 히어로의 등장! | 플래시, MBC 230611 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101118100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101118100000</guid>
+            <pubDate>Tue, 20 Jun 2023 01:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[2023-06-11]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20236/133310070019051386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[요주의 픽] 인드림 / [신들의 전쟁] 우리가 사랑했던 그 시절 - 레오나르도 디카프리오 / [도도한 영화] 빈틈없는 사이 / [존 박의 플레이리스트] 마당이 있는 집 / [소문의 시작] 악마들 / [1+1] 드림 + 퍼펙트 게임 (영화가 좋다 ─ 다시보기)]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023100085-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023100085-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
             <pubDate>Sat, 17 Jun 2023 02:36:13 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전 방송]]></content:encoded>
+            <content:encoded><![CDATA[3일 전 방송]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/06/17/648d16d6c28078762e702f89/thumbnail/648d16d6c28078762e702f89_0_1686968806301.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -332,7 +332,7 @@
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023100812-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023100812-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
             <pubDate>Wed, 14 Jun 2023 10:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전 방송]]></content:encoded>
+            <content:encoded><![CDATA[6일 전 방송]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/06/14/64898ed36592ed883a313c1f/thumbnail/64898ed36592ed883a313c1f_0_1686737136920.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
