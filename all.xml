@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 08:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 10:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,6 +320,14 @@
             <enclosure url="https://img.imbc.com/adams/Content/20236/133316114719579802.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[꿀잼 영화가 좋다 - [존박의 플레이리스트] 마당이 있는 집 / [1+1] 존 윅 4 + 극장판 극주부도 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023110566-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023110566-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 28 Jun 2023 10:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/06/28/649c0500c0c54fd23ded58ba/thumbnail/649c0500c0c54fd23ded58ba_0_1687947235266.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[요주의 픽] 시크릿 인베이젼 / [도도한 영화] 플래닛 / [소문의 시작] 형사록 2 / [기획] 라방 / [1+1] 사냥개들 + 21 점프 스트리트 / [존박의 플레이리스트] 판소리 복서 (영화가 좋다 ─ 다시보기)]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023100087-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023100087-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
@@ -382,14 +390,6 @@
             <pubDate>Sat, 27 May 2023 03:16:58 GMT</pubDate>
             <content:encoded><![CDATA[854회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/05/27/64716a7a990e39722b091dcf/thumbnail/64716a7a990e39722b091dcf_0_1685155392927.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿀잼 영화가 좋다 - [존 박의 플레이리스트] 캐치 미 이프 유 캔 / [소문의 시작] 슬픔의 삼각형 (영화가 좋다 ─ 다시보기)]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023085473-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023085473-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Wed, 24 May 2023 10:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[186회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/05/24/646ddf7855670e925beeb3a7/thumbnail/646ddf7855670e925beeb3a7_0_1684922691965.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
