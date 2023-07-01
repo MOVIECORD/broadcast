@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 01:44:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 03:07:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[요주의 픽] 밀수 / [소문의 시작] 인드림 / [도도한 영화] 비밀의 언덕 / [존 박의 플레이리스트] 괴물 / [1+1] 좋댓구 + 정직한 후보2 / [아찔한 인터뷰] 콘크리트 유토피아]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023109046-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023109046-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 01 Jul 2023 03:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/07/01/649f8baa39c3379d0dda210b/thumbnail/649f8baa39c3379d0dda210b_0_1688178512156.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꿀잼 영화가 좋다 - [존박의 플레이리스트] 마당이 있는 집 / [1+1] 존 윅 4 + 극장판 극주부도]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023110566-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 04 Jun 2023 06:20:09 GMT</pubDate>
             <content:encoded><![CDATA[855회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/06/03/647aac76f61fe5424e736775/thumbnail/647aac76f61fe5424e736775_0_1685761978588.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 인어공주 / [존박의 플레이리스트] 박하경 여행기 / [소문의 시작] 범죄도시 3 / [아찔한 인터뷰] 귀공자 / [1+1] 렌필드 + 익스트림 페스티벌 / [기획] 환경영화제]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023084019-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023084019-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sun, 04 Jun 2023 06:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[854회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/05/27/64716a7a990e39722b091dcf/thumbnail/64716a7a990e39722b091dcf_0_1685155392927.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
