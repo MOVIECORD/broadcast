@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 10:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 11:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀잼 영화가 좋다 - [존박의 플레이리스트] 판소리 복서 / [1+1] 사냥개들 + 21 점프 스트리트]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023118644-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023118644-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 12 Jul 2023 11:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/07/12/64ae7bb6cc8b63f60bffd540/thumbnail/64ae7bb6cc8b63f60bffd540_0_1689157082406.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[요주의 픽] 인시디어스: 빨간 문 / [존박의 플레이리스트] 상의원 / [소문의 시작] 셀러브리티 / [아찔한 인터뷰] 미션 임파서블: 데드 레코닝 PART ONE / [1+1] 팜 스프링스 + 수상한 그녀 / [한국인이 사랑한 우리 영화 50선] 국제시장]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023109047-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 14 Jun 2023 10:15:53 GMT</pubDate>
             <content:encoded><![CDATA[189회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/06/14/64898ed36592ed883a313c1f/thumbnail/64898ed36592ed883a313c1f_0_1686737136920.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 엘리멘탈 / [도도한 영화] 라방 / [소문의 시작] 귀공자 / [아찔한 인터뷰] 사냥개들 / [1+1] 존 윅 4 + 극장판 극주부도 / [존박의 플레이리스트] 예스터데이]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023099720-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023099720-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 10 Jun 2023 03:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[856회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/06/10/6483e29036728b288924c950/thumbnail/6483e29036728b288924c950_0_1686365751102.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
