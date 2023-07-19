@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 10:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 11:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀잼 영화가 좋다 - [존박의 플레이리스트] 상의원 / [도도한 영화] #아이엠히어 / [소문의 시작] 라이스보이 슬립스]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023123043-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023123043-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 19 Jul 2023 11:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/07/19/64b7b4db0c6bc26c733bbee7/thumbnail/64b7b4db0c6bc26c733bbee7_0_1689761521570.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[요주의 픽] 무빙 / [소문의 시작] 밀수 / [도도한 영화] 비닐하우스 / [존 박의 플레이리스트] 500일의 썸머 / [1+1] 남남 + 부라더 / [한국인이 사랑한 우리 영화 50선] 부산행]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023120191-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 21 Jun 2023 10:17:13 GMT</pubDate>
             <content:encoded><![CDATA[190회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/06/21/6492c94767551031ecbebc77/thumbnail/6492c94767551031ecbebc77_0_1687341998089.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 인드림 / [신들의 전쟁] 우리가 사랑했던 그 시절 - 레오나르도 디카프리오 / [도도한 영화] 빈틈없는 사이 / [존 박의 플레이리스트] 마당이 있는 집 / [소문의 시작] 악마들 / [1+1] 드림 + 퍼펙트 게임]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023100085-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023100085-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 17 Jun 2023 02:36:13 GMT</pubDate>
-            <content:encoded><![CDATA[857회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/06/17/648d16d6c28078762e702f89/thumbnail/648d16d6c28078762e702f89_0_1686968806301.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
