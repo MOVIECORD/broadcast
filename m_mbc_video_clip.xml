@@ -1,8 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://m.imbc.com/VOD/SketchList/1000827100000100000?type=3</id>
-    <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
-    <updated>2023-08-10T22:15:53.933Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://m.imbc.com/VOD/SketchList/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 10 Aug 2023 23:15:04 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 송강호, 유해진의 끝판왕 연기로 천만 관객을 잡은 작품! | 택시운전사, MBC 230806 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101175100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101175100000</guid>
+            <pubDate>Thu, 10 Aug 2023 23:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2023-08-06]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20238/133358448161966536.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전 세계가 사랑한 에리얼의 아름다운 사랑 이야기 | 인어공주, MBC 230806 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101174100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101174100000</guid>
+            <pubDate>Thu, 10 Aug 2023 23:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2023-08-06]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20238/133358446712426092.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 유해진의 달짝지근한 첫 코믹로맨스! | 달짝지근해: 7510, MBC 230806 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101173100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101173100000</guid>
+            <pubDate>Thu, 10 Aug 2023 23:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2023-08-06]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20238/133358445726169848.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[격변하는 시대 속 엇갈리는 두 남녀의 사랑 이야기 | 연인, MBC 230806 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101172100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101172100000</guid>
+            <pubDate>Thu, 10 Aug 2023 23:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2023-08-06]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20238/133358444666788108.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 라인업 폼 미쳤다! 휴머니즘이 담긴 한국형 히어로물의 등장! | 무빙, MBC 230806 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101170100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101170100000</guid>
+            <pubDate>Thu, 10 Aug 2023 23:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2023-08-06]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20238/133358443152716000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나치에게 맞서는 천재 과학자들의 핵개발 프로젝트 | 오펜하이머, MBC 230806 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101169100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101169100000</guid>
+            <pubDate>Thu, 10 Aug 2023 23:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2023-08-06]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20238/133358442104115597.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[귀여운 소심좌! 오정세 사용 설명서 | 남자사용설명서, MBC 230730 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101167100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101167100000</guid>
+            <pubDate>Thu, 10 Aug 2023 23:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2023-07-30]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20237/133352427332214781.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지진이 휩쓸고 간 자리 홀로 남은 아파트! 이병헌이 꿈꾸는 유토피아는? | 콘크리트 유토피아, MBC 230730 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101166100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101166100000</guid>
+            <pubDate>Thu, 10 Aug 2023 23:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2023-07-30]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20237/133352412994122054.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홀리한 개띵작! 복수하러 갔더니 구원 타령?! | 지옥만세, MBC 230730 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101165100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101165100000</guid>
+            <pubDate>Thu, 10 Aug 2023 23:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2023-07-30]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20237/133352408890502258.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
