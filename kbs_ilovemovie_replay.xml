@@ -4,7 +4,7 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 23:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 01:00:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023147138-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023147138-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
             <pubDate>Sat, 02 Sep 2023 03:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[어제 방송]]></content:encoded>
+            <content:encoded><![CDATA[2일 전 방송]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/09/02/64f298a7012b3961a4511c03/thumbnail/64f298a7012b3961a4511c03_0_1693621124386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023146650-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023146650-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
             <pubDate>Wed, 30 Aug 2023 10:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전 방송]]></content:encoded>
+            <content:encoded><![CDATA[5일 전 방송]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/08/30/64ef1039012b3961a450dab3/thumbnail/64ef1039012b3961a450dab3_0_1693389407506.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
