@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 09:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 10:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀잼 영화가 좋다 - [소문의 시작] 치악산 / [1+1] 한강 + 인디아나 존스: 운명의 다이얼]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023161663-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023161663-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 13 Sep 2023 10:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/09/13/650185d9417e3c380057bdd0/thumbnail/650185d9417e3c380057bdd0_0_1694599023078.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[요주의 픽] 돈 룩 디퍼 / [소문의 시작] 힙노틱 · 최악의 악 / [1+1] 유괴의 날 + 보호자 / [아찔한 인터뷰] 30일 / [한국인이 사랑한 우리 영화 50선] 장화홍련]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023158383-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Aug 2023 11:11:50 GMT</pubDate>
             <content:encoded><![CDATA[198회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/08/16/64dc9bd1f8eba5e075fedd3b/thumbnail/64dc9bd1f8eba5e075fedd3b_0_1692179948550.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 타겟 / [존 박의 플레이리스트] 아이 캔 스피크 / [도도한 영화] 지옥만세 / [소문의 시작] 보호자 / [1+1] 잔혹한 인턴 + 비정규직 특수요원 / [한국인이 사랑한 우리 영화 50선] 써니]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023136652-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023136652-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 12 Aug 2023 03:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[865회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/08/12/64d6eb3e1533b90885ab4b1c/thumbnail/64d6eb3e1533b90885ab4b1c_0_1691807240795.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
