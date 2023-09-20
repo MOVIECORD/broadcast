@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 09:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 10:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀잼 영화가 좋다 - [소문의 시작] 힙노틱 / [1+1] 유괴의 날 + 보호자]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023161665-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023161665-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 20 Sep 2023 10:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/09/20/650ac1146ff83b677f2079db/thumbnail/650ac1146ff83b677f2079db_0_1695204141749.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[요주의 픽] 크리에이터 / [존박의 플레이리스트] 무빙 / [소문의 시작] 거미집 / [아찔한 인터뷰] 한강 / [1+1] 천박사 퇴마 연구소: 설경의 비밀 + 가문의 영광: 리턴즈 / [한국인이 사랑한 우리 영화 50선] 변호인]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023158384-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 23 Aug 2023 10:18:08 GMT</pubDate>
             <content:encoded><![CDATA[199회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/08/23/64e5d829012b3961a450351e/thumbnail/64e5d829012b3961a450351e_0_1692785123154.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 잠 / [존박의 플레이리스트] 달짝지근해: 7510 / [소문의 시작] 타겟 / [아찔한 인터뷰] 무빙 / [1+1] 마스크걸 + 엘리멘탈 / [한국인이 사랑한 우리 영화 50선] 웰컴 투 동막골]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023136653-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023136653-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 19 Aug 2023 03:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[866회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/08/19/64e0251249cb249ccf713ace/thumbnail/64e0251249cb249ccf713ace_0_1692411860559.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
