@@ -4,7 +4,7 @@
         <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 06:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 07:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="https://img.imbc.com/adams/Content/202310/133418955509870309.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[금토드라마 최강자! 더 애절하고 깊어진 사랑┃연인 파트2, MBC 231015 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101228100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101228100000</guid>
+            <pubDate>Mon, 16 Oct 2023 07:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[2023-10-15]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202310/133418954889386271.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[겁 없는 10대들의 위험한 장난이 시작됐다! 빙의되는 순간 90초 안에 깨어나야 한다고?! | 톡 투 미, MBC 231015 방송]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827101227100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827101227100000</guid>
@@ -70,14 +78,6 @@
             <pubDate>Tue, 10 Oct 2023 06:19:33 GMT</pubDate>
             <content:encoded><![CDATA[2023-10-08]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/202310/133413773375851831.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화사하게 600억 털어버리는 엄정화┃화사한 그녀, MBC 231008 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101222100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101222100000</guid>
-            <pubDate>Tue, 10 Oct 2023 06:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[2023-10-08]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202310/133413772693186028.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
