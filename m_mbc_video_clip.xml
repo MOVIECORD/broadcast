@@ -4,9 +4,25 @@
         <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 06:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 07:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상류층 대저택에 들어온 하녀가 지나치게 친절한 주인을 만났을 때... ㅣ 하녀, MBC 231029 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101246100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101246100000</guid>
+            <pubDate>Mon, 30 Oct 2023 07:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[2023-10-29]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202310/133431068375305395.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["평생 반성하면서 살았어야지" 범죄자들 응징하는 남주혁의 이중생활 ㅣ 비질란테, MBC 231029 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101245100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101245100000</guid>
+            <pubDate>Mon, 30 Oct 2023 07:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[2023-10-29]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202310/133431067426049079.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[출발! 비디오 여행 출연진이 모였다!🎊 30년 축하 메이킹 영상]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827101242100000</link>
@@ -62,22 +78,6 @@
             <pubDate>Mon, 23 Oct 2023 07:15:08 GMT</pubDate>
             <content:encoded><![CDATA[2023-10-22]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/202310/133424973764756396.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6년 만에 다시 만난 유오성 X 장혁 동해바다 배경의 거친 액션 누아르 | 강릉, MBC 231015 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101232100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101232100000</guid>
-            <pubDate>Mon, 16 Oct 2023 06:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023-10-15]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202310/133418957803491917.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭉치면 멋지고, 따로여도 전설이다 레전드 액션 시리즈의 귀환! | 익스펜더블 4, MBC 231015 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101231100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101231100000</guid>
-            <pubDate>Mon, 16 Oct 2023 06:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023-10-15]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202310/133418957101137086.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
