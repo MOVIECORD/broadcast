@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 02:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 03:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,6 +320,14 @@
             <enclosure url="https://img.imbc.com/adams/Content/202310/133424974770091795.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[요주의 픽] 헝거게임: 노래하는 새와 뱀의 발라드 / [조현아의 플레이리스트] 더 마블스 / [소문의 시작] 독전 2 / [도도한 영화] 거래 / [1+1] 이두나! + 이웃집에 신이 산다 / [한국인이 사랑한 우리 영화 50선] 불한당: 나쁜 놈들의 세상 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023189676-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023189676-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 04 Nov 2023 03:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/11/04/6545a912b0e4c3ee8064e4b7/thumbnail/6545a912b0e4c3ee8064e4b7_0_1699064741594.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[꿀잼 영화가 좋다 - [소문의 시작] 소년들 / [1+1] 용감한 시민 + 노바디 (영화가 좋다 ─ 다시보기)]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023190254-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023190254-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
@@ -382,14 +390,6 @@
             <pubDate>Sat, 07 Oct 2023 01:03:12 GMT</pubDate>
             <content:encoded><![CDATA[872회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/10/07/6520a546c3191ec679b33ade/thumbnail/6520a546c3191ec679b33ade_0_1696638973494.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 도적: 칼의 소리 / [소문의 시작] 발레리나 / [조현아의 플레이리스트] 말할 수 없는 비밀 / [1+1] 30일 + 화사한 그녀 / [도도한 영화] 화란 / [한국인이 사랑한 우리 영화 50선] 태극기 휘날리며 (영화가 좋다 ─ 다시보기)]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023166592-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023166592-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 23 Sep 2023 04:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[871회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/09/23/650e49b7edc9b073b13f1b5f/thumbnail/650e49b7edc9b073b13f1b5f_0_1695435987618.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
