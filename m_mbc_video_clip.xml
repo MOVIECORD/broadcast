@@ -1,8 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://m.imbc.com/VOD/SketchList/1000827100000100000?type=3</id>
-    <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
-    <updated>2023-11-09T01:04:09.369Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://m.imbc.com/VOD/SketchList/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 09 Nov 2023 02:23:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I am 존버 (ok 존중하며 버티기)에요. 존버 피플을 위한 생존 영화 | 메이즈 러너 & 마션, MBC 231105 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101253100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101253100000</guid>
+            <pubDate>Thu, 09 Nov 2023 02:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[2023-11-06]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202311/133437075178511275.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["아직 끝나려면 멀었어!" 다시 시작된 최종 보스 ‘이 선생’ 찾기 | 독전2, MBC 231105 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101252100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101252100000</guid>
+            <pubDate>Thu, 09 Nov 2023 02:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[2023-11-06]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202311/133437074275985184.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현실 세계를 접수한 바비와 마고 로비?! 과연 바비는 어떤 삶을 선택할까?! | 바비, MBC 231105 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101251100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101251100000</guid>
+            <pubDate>Thu, 09 Nov 2023 02:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[2023-11-06]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202311/133437072365907094.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["이 정도면 보통 인연이 아닌 것 같은데?" 6명의 사람들과 연결된 사건들의 정체는?! | 뉴 노멀, MBC 231105 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101250100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101250100000</guid>
+            <pubDate>Thu, 09 Nov 2023 02:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[2023-11-06]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202311/133437071562769348.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["무대에서 나를 조커로 소개해 줄래요?" 그가 미칠 수밖에 없었던 이유 | 조커, MBC 231105 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101249100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101249100000</guid>
+            <pubDate>Thu, 09 Nov 2023 02:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[2023-11-06]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202311/133437071012591552.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[명작의 귀환! 헝거게임의 최대 빌런 스노우가 흑화한 이유? | 헝거게임: 노래하는 새와 뱀의 발라드, MBC 231105 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101248100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101248100000</guid>
+            <pubDate>Thu, 09 Nov 2023 02:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[2023-11-06]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202311/133437069906630299.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["쿠키 먹고 학생 한 명이 죽었습니다" 위험한 쿠키가 만든 비극의 시작 ㅣ 하이쿠키, MBC 231029 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101247100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101247100000</guid>
+            <pubDate>Thu, 09 Nov 2023 02:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[2023-10-29]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202310/133431069112188226.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[상류층 대저택에 들어온 하녀가 지나치게 친절한 주인을 만났을 때... ㅣ 하녀, MBC 231029 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101246100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101246100000</guid>
+            <pubDate>Thu, 09 Nov 2023 02:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[2023-10-29]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202310/133431068375305395.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["평생 반성하면서 살았어야지" 범죄자들 응징하는 남주혁의 이중생활 ㅣ 비질란테, MBC 231029 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101245100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101245100000</guid>
+            <pubDate>Thu, 09 Nov 2023 02:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[2023-10-29]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202310/133431067426049079.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
