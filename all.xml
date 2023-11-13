@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 23:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 01:05:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -324,7 +324,7 @@
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023189677-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023189677-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
             <pubDate>Sat, 11 Nov 2023 02:28:44 GMT</pubDate>
-            <content:encoded><![CDATA[어제 방송]]></content:encoded>
+            <content:encoded><![CDATA[2일 전 방송]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/11/11/654ee390f49ed00f238c9e90/thumbnail/654ee390f49ed00f238c9e90_0_1699669588723.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -332,7 +332,7 @@
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023190256-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023190256-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
             <pubDate>Wed, 08 Nov 2023 10:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전 방송]]></content:encoded>
+            <content:encoded><![CDATA[5일 전 방송]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/11/08/654b5afeb0e4c3ee806542ae/thumbnail/654b5afeb0e4c3ee806542ae_0_1699437695787.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
