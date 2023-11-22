@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 09:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 10:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀잼 영화가 좋다 - [조현아의 플레이리스트] 뉴노멀 / [1+1] 거미집 + 천박사 퇴마 연구소: 설경의 비밀]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023202487-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023202487-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 22 Nov 2023 10:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/11/22/655dd02758f015299d72bb9e/thumbnail/655dd02758f015299d72bb9e_0_1700647373223.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[요주의 픽] 비밀 / [조현아의 플레이리스트] 아줌마 / [소문의 시작] 서울의 봄 / [도도한 영화] 정신병동에도 아침이 와요 / [1+1] 운수 오진 날 + 베케이션 / [한국인이 사랑한 우리 영화 50선] 엽기적인 그녀]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023200612-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 25 Oct 2023 10:18:18 GMT</pubDate>
             <content:encoded><![CDATA[206회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/10/25/6538e6a73b1d26a366631178/thumbnail/6538e6a73b1d26a366631178_0_1698228608153.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 괴담만찬 / [조현아의 플레이리스트] 헝거게임: 노래하는 새와 뱀의 발라드 / [소문의 시작] 소년들 / [도도한 영화] 시수 / [1+1] 용감한 시민 + 노바디 / [한국인이 사랑한 우리 영화 50선] 7번방의 선물]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023184928-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023184928-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 21 Oct 2023 03:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[874회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/10/21/65333313f7f5f3eeb211ca8e/thumbnail/65333313f7f5f3eeb211ca8e_0_1697854983826.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
