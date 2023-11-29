@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 10:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 11:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀잼 영화가 좋다 - [존 박의 플레이리스트] 봄날은 간다 / [1+1] 운수 오진 날 + 베케이션]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023212478-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023212478-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 29 Nov 2023 11:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/11/29/656710d883c5b4d5192d180a/thumbnail/656710d883c5b4d5192d180a_upload_1701254086407.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[요주의 픽] 어큐즈드: SNS 심판 / [소문의 시작] 싱글 인 서울 / [조현아의 플레이리스트] 3일의 휴가 / [1+1] 소년시대 + 방과후 옥상 / [도도한 영화] 사랑한다고 말해줘 / [한국인이 사랑한 우리 영화 50선] 해적: 바다로 간 산적]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023200613-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 01 Nov 2023 10:15:53 GMT</pubDate>
             <content:encoded><![CDATA[207회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/11/01/654221cb6b31298871025a32/thumbnail/654221cb6b31298871025a32_0_1698833263126.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 오픈 더 도어 / [소문의 시작] 비질란테 / [조현아의 플레이리스트] 내 남자친구의 결혼식 / [1+1] 하이쿠키 + 원라인 / [아찔한 인터뷰] 이두나! / [한국인이 사랑한 우리 영화 50선] 파이란]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023184930-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023184930-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 28 Oct 2023 03:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[875회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/10/28/653c707e3b1d26a366634d31/thumbnail/653c707e3b1d26a366634d31_0_1698460503919.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
