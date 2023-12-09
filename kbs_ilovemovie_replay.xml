@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Dec 2023 02:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 03:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[요주의 픽] 뉴클리어 나우 · 경성크리처 / [조현아의 플레이리스트] 화란 / [소문의 시작 스페셜] 비밀 / [나는 영화인이다] 국민 엄마, 배우 김해숙 / [1+1] 스위치 + 유체이탈자 / [한국인이 사랑한 우리 영화 50선] 집으로]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023212608-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023212608-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 09 Dec 2023 03:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/12/09/6573d1b01dd82c75c8389f89/thumbnail/6573d1b01dd82c75c8389f89_0_1702089919555.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꿀잼 영화가 좋다 - [소문의 시작] 모리타니안 / [1+1] 헤어질 결심 + 무뢰한]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023212480-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 11 Nov 2023 02:28:44 GMT</pubDate>
             <content:encoded><![CDATA[877회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/11/11/654ee390f49ed00f238c9e90/thumbnail/654ee390f49ed00f238c9e90_0_1699669588723.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿀잼 영화가 좋다 - [조현아의 플레이리스트] 내 남자친구의 결혼식 / [1+1] 하이쿠키 + 원라인]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023190256-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023190256-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Wed, 08 Nov 2023 10:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[208회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/11/08/654b5afeb0e4c3ee806542ae/thumbnail/654b5afeb0e4c3ee806542ae_0_1699437695787.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
