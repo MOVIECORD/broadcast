@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 10:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 11:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,6 +160,14 @@
             <enclosure url="https://img.imbc.com/adams/Content/202312/133461274482621121.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[도도한 영화] 옆집 사람 / [1+1] 스위치 + 유체이탈자 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023222011-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023222011-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 20 Dec 2023 11:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/12/20/6582bc2005aa90acd30b1735/thumbnail/6582bc2005aa90acd30b1735_0_1703067103010.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[요주의 픽] 아쿠아맨과 로스트 킹덤 / [조현아의 플레이리스트] 용감한 시민 / [소문의 시작] 노량: 죽음의 바다 / [아찔한 인터뷰] 시민덕희 / [1+1] 이재, 곧 죽습니다 + 일곱 가지 유혹 / [한국인이 사랑한 우리 영화 50선] 건축학개론 (영화가 좋다 ─ 다시보기)]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023212610-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023212610-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
@@ -222,14 +230,6 @@
             <pubDate>Wed, 22 Nov 2023 10:17:04 GMT</pubDate>
             <content:encoded><![CDATA[210회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/11/22/655dd02758f015299d72bb9e/thumbnail/655dd02758f015299d72bb9e_0_1700647373223.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 비밀 / [조현아의 플레이리스트] 아줌마 / [소문의 시작] 서울의 봄 / [도도한 영화] 정신병동에도 아침이 와요 / [1+1] 운수 오진 날 + 베케이션 / [한국인이 사랑한 우리 영화 50선] 엽기적인 그녀 (영화가 좋다 ─ 다시보기)]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023200612-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023200612-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 18 Nov 2023 03:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[878회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/11/18/6558200683c5b4d5192c1d29/thumbnail/6558200683c5b4d5192c1d29_0_1700274841719.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
