@@ -4,9 +4,33 @@
         <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 02:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 03:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[죽고 싶은데 죽지도 못하고 귀신 까지 보는 사람... | 헬로우 고스트, MBC 231224 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101294100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101294100000</guid>
+            <pubDate>Tue, 26 Dec 2023 03:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[2023-12-24]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202312/133480266729253572.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남들과는 많이 다른... 에드워드의 사랑 이야기 | 가위손, MBC 231224 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101293100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101293100000</guid>
+            <pubDate>Tue, 26 Dec 2023 03:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[2023-12-24]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202312/133480266178459014.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["당신들은 다 괴물이야!" 목숨 건 생존 게임의 시작 | 헝거게임: 노래하는 새와 뱀의 발라드, MBC 231224 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101292100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101292100000</guid>
+            <pubDate>Tue, 26 Dec 2023 03:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[2023-12-24]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202312/133480247856878086.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스위스의 봄! 독재자에 맞서는 맑은 눈의 광인 하이디 | 매드 하이디, MBC 231217 방송]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827101290100000</link>
@@ -54,30 +78,6 @@
             <pubDate>Mon, 11 Dec 2023 07:15:58 GMT</pubDate>
             <content:encoded><![CDATA[2023-12-10]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/202312/133467318928154195.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폭망 직전의 시골 농장을 최초의 카바레로 만들어라! | 컨트리 카바레, MBC 231210 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101283100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101283100000</guid>
-            <pubDate>Mon, 11 Dec 2023 07:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023-12-10]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202312/133467312327799837.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의문의 마피아 게임 시작, 살기 위해 친구를 죽여야 한다고..? | 밤이 되었습니다, MBC 231210 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101282100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101282100000</guid>
-            <pubDate>Mon, 11 Dec 2023 07:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023-12-10]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202312/133467311916071453.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사업 대박 난 구남친이 제 썸남이랑 셋이서 같이 살자는데 어떡하죠? 음악으로 지독하게 얽힌 삼각관계! | 사운드트랙 #2, MBC 231203 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101280100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101280100000</guid>
-            <pubDate>Mon, 04 Dec 2023 06:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023-12-03]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202312/133461274482621121.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
