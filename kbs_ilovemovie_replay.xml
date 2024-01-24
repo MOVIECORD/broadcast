@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 10:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 11:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[존박의 플레이리스트] 인셉션 / [1+1] 탑건: 매버릭 + 도굴]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024004258-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024004258-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 24 Jan 2024 11:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/01/24/65b0e3c6526fbd3381cf8054/thumbnail/65b0e3c6526fbd3381cf8054_upload_1706092039565.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[소문의 시작] 외계+인 2부 / [1+1] 블러드샷+남자사용설명서]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024004256-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -112,14 +120,6 @@
             <pubDate>Sat, 23 Dec 2023 03:15:00 GMT</pubDate>
             <content:encoded><![CDATA[883회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/12/23/658644fa2dcd69a8d50e5f79/thumbnail/658644fa2dcd69a8d50e5f79_0_1703299078011.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[도도한 영화] 옆집 사람 / [1+1] 스위치 + 유체이탈자]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023222011-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2023222011-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Wed, 20 Dec 2023 11:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[214회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/12/20/6582bc2005aa90acd30b1735/thumbnail/6582bc2005aa90acd30b1735_0_1703067103010.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
