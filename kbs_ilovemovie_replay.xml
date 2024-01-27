@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jan 2024 02:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 03:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[조현아의 플레이리스트] 소풍 / [요주의 픽] 아가일 / [소문의 시작] 살인자ㅇ난감 / [1+1] 선산 + 퍼리 벤전스 / [아찔한 인터뷰] 파묘 / [한국인이 사랑한 우리 영화 50선] 미녀는 괴로워]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024007893-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024007893-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 27 Jan 2024 03:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/01/27/65b4692d7944862ff778fd58/thumbnail/65b4692d7944862ff778fd58_0_1706322895988.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[존박의 플레이리스트] 인셉션 / [1+1] 탑건: 매버릭 + 도굴]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024004258-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -112,14 +120,6 @@
             <pubDate>Wed, 27 Dec 2023 10:16:43 GMT</pubDate>
             <content:encoded><![CDATA[215회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/12/27/658bf69805aa90acd30bad60/thumbnail/658bf69805aa90acd30bad60_upload_1703672353346.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 윙카 / [크리스마스 특집] 연말 추천 플레이리스트 / [조현아의 플레이리스트] 싱글 인 서울 / [도도한 영화] 퀵샌드 / [1+1] 무빙+드림 / [한국인이 사랑한 우리 영화 50선] 히말라야]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023226313-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023226313-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 23 Dec 2023 03:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[883회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2023/12/23/658644fa2dcd69a8d50e5f79/thumbnail/658644fa2dcd69a8d50e5f79_0_1703299078011.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
