@@ -4,9 +4,33 @@
         <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 05:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 06:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우연히 살인을 시작하게 된 남자와 그를 미친 듯이 쫓는 형사의 추격전ㅣ살인자O난감, MBC 240128 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101329100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101329100000</guid>
+            <pubDate>Mon, 05 Feb 2024 06:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[2024-02-04]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20242/133515835157090077.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꼬일 대로 꼬여버린 29살 여자, 다시 사랑에 빠질 수 있을까?ㅣ미나씨, 또 프사가 바뀌었네요?, MBC 240128 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101328100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101328100000</guid>
+            <pubDate>Mon, 05 Feb 2024 06:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[2024-02-04]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20242/133515834754578715.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[살기 위해 1000억에 이름 팔았다가 죽은 사람이 된 남자의 이야기ㅣ데드맨, MBC 240128 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101327100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101327100000</guid>
+            <pubDate>Mon, 05 Feb 2024 06:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[2024-02-04]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20242/133515834342231767.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스릴 넘치는 액션 작품으로 돌아온 ‘이동욱×김혜준’의 출비 단독 인터뷰♥ | 킬러들의 쇼핑몰, MBC 240128 방송]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827101325100000</link>
@@ -54,30 +78,6 @@
             <pubDate>Mon, 29 Jan 2024 06:19:48 GMT</pubDate>
             <content:encoded><![CDATA[2024-01-28]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/20241/133509659505991164.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["우리한테도 좋은 시절이 오겠죠?" 한소희×박서준, 괴물과 맞서는 그들의 이야기 | 경성크리처, MBC 240121 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101318100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101318100000</guid>
-            <pubDate>Mon, 22 Jan 2024 06:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[2024-01-21]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20241/133503613477713114.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌어먹을 남편 때문에 ‘행방불명’ 된 로또 찾아 헤매는 그녀... | 아네모네, MBC 240121 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101317100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101317100000</guid>
-            <pubDate>Mon, 22 Jan 2024 06:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[2024-01-21]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20241/133503612432207087.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천재 감독 드니 빌뇌브의 ‘듄’이 돌아온다! | 듄: 파트2, MBC 240121 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101316100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101316100000</guid>
-            <pubDate>Mon, 22 Jan 2024 06:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[2024-01-21]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20241/133503611752792873.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
