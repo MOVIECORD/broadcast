@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 23:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 01:01:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,7 +88,7 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg=="/>
         </item>
         <item>
-            <title><![CDATA[우연히 살인을 시작하게 된 남자와 그를 미친 듯이 쫓는 형사의 추격전ㅣ살인자O난감, MBC 240128 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <title><![CDATA[우연히 살인을 시작하게 된 남자와 그를 미친 듯이 쫓는 형사의 추격전ㅣ살인자O난감, MBC 240204 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827101329100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827101329100000</guid>
             <pubDate>Mon, 05 Feb 2024 06:19:03 GMT</pubDate>
@@ -96,7 +96,7 @@
             <enclosure url="https://img.imbc.com/adams/Content/20242/133515835157090077.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[꼬일 대로 꼬여버린 29살 여자, 다시 사랑에 빠질 수 있을까?ㅣ미나씨, 또 프사가 바뀌었네요?, MBC 240128 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <title><![CDATA[꼬일 대로 꼬여버린 29살 여자, 다시 사랑에 빠질 수 있을까?ㅣ미나씨, 또 프사가 바뀌었네요?, MBC 240204 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827101328100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827101328100000</guid>
             <pubDate>Mon, 05 Feb 2024 06:19:03 GMT</pubDate>
@@ -104,7 +104,7 @@
             <enclosure url="https://img.imbc.com/adams/Content/20242/133515834754578715.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[살기 위해 1000억에 이름 팔았다가 죽은 사람이 된 남자의 이야기ㅣ데드맨, MBC 240128 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <title><![CDATA[살기 위해 1000억에 이름 팔았다가 죽은 사람이 된 남자의 이야기ㅣ데드맨, MBC 240204 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827101327100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827101327100000</guid>
             <pubDate>Mon, 05 Feb 2024 06:19:03 GMT</pubDate>
@@ -164,7 +164,7 @@
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024007894-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024007894-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
             <pubDate>Sat, 03 Feb 2024 03:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전 방송]]></content:encoded>
+            <content:encoded><![CDATA[3일 전 방송]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/02/03/65bda567526fbd3381d05b64/thumbnail/65bda567526fbd3381d05b64_0_1706928218465.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -172,7 +172,7 @@
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024005631-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024005631-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
             <pubDate>Wed, 31 Jan 2024 10:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전 방송]]></content:encoded>
+            <content:encoded><![CDATA[6일 전 방송]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/01/31/65ba18471d156b4680f2457f/thumbnail/65ba18471d156b4680f2457f_0_1706695183592.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
