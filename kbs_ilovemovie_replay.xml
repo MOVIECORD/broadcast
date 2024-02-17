@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Feb 2024 01:52:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Feb 2024 03:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[요주의 픽] 건국전쟁 / [소문의 시작] 왓츠 러브 / [조현아의 플레이리스트] 서울의 봄 / [도도한 영화] 노 엑시트 / [1+1] 외계+인 2부 + 살인자ㅇ난감 / [한국인이 사랑한 우리 영화 50선] 해바라기]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024016629-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024016629-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 17 Feb 2024 03:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/02/17/65d018bd1d156b4680f39d98/thumbnail/65d018bd1d156b4680f39d98_0_1708139148912.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소문의 시작] 데드맨 / [1+1] 도그데이즈 + 미스터 주 : 사라진 VIP]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024021564-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 17 Jan 2024 10:16:31 GMT</pubDate>
             <content:encoded><![CDATA[218회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/01/17/65a7a3ea1d156b4680f106a9/thumbnail/65a7a3ea1d156b4680f106a9_0_1705485935944.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 넥스트 골 윈즈 / [특집 기획] 고려 거란 전쟁 / [소문의 시작] 시민덕희 / [도도한 영화] 경성크리처 파트 2 / [1+1] LTNS + 쿠폰의 여왕 / [한국인이 사랑한 우리 영화 50선] 1987]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023238770-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2023238770-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 13 Jan 2024 03:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[886회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/01/13/65a1f48cb4da36205002c717/thumbnail/65a1f48cb4da36205002c717_0_1705113521472.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
