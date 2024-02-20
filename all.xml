@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 08:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 10:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,6 +160,14 @@
             <enclosure url="https://img.imbc.com/adams/Content/20242/133522599765694613.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[도도한 영화] 쁘떼드 / [1+1] 미친 능력 + 여배우는 오늘도 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024021566-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024021566-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Tue, 20 Feb 2024 10:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/02/20/65d4785e1d156b4680f3ddc9/thumbnail/65d4785e1d156b4680f3ddc9_0_1708423741282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[요주의 픽] 건국전쟁 / [소문의 시작] 왓츠 러브 / [조현아의 플레이리스트] 서울의 봄 / [도도한 영화] 노 엑시트 / [1+1] 외계+인 2부 + 살인자ㅇ난감 / [한국인이 사랑한 우리 영화 50선] 해바라기 (영화가 좋다 ─ 다시보기)]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024016629-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024016629-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
@@ -222,14 +230,6 @@
             <pubDate>Wed, 24 Jan 2024 11:15:37 GMT</pubDate>
             <content:encoded><![CDATA[219회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/01/24/65b0e3c6526fbd3381cf8054/thumbnail/65b0e3c6526fbd3381cf8054_upload_1706092039565.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소문의 시작] 외계+인 2부 / [1+1] 블러드샷+남자사용설명서 (영화가 좋다 ─ 다시보기)]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024004256-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024004256-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Wed, 17 Jan 2024 10:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[218회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/01/17/65a7a3ea1d156b4680f106a9/thumbnail/65a7a3ea1d156b4680f106a9_0_1705485935944.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
