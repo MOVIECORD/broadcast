@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Apr 2024 02:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Apr 2024 03:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[요주의 픽] 스턴트맨 / [조현아의 플레이리스트] 비키퍼 / [소문의 시작] 골드핑거 / [1+1] 목스박 + 은밀하게 위대하게 / [아찔한 인터뷰] 기생수: 더 그레이 / [한국인이 사랑한 우리 영화 50선] 타짜]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024046485-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024046485-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 06 Apr 2024 03:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/04/06/6610b65b8f29fa5f9a32e7ff/thumbnail/6610b65b8f29fa5f9a32e7ff_0_1712372131395.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[존박의 플레이리스트] 영웅본색 / [1+1] 엑시트 + 샷건 웨딩]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024049611-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 09 Mar 2024 04:16:10 GMT</pubDate>
             <content:encoded><![CDATA[894회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/03/09/65ebc81a526fbd3381d33a52/thumbnail/65ebc81a526fbd3381d33a52_0_1709951716842.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[도도한 영화] 프렉처드 / [1+1] 파이프라인 vs 킬러들의보디가드]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024032921-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024032921-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Wed, 06 Mar 2024 10:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[225회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/03/06/65e83cccb4da362050073827/thumbnail/65e83cccb4da362050073827_upload_1709719023862.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
