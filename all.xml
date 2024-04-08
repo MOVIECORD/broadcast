@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 06:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 09:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,54 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg=="/>
         </item>
         <item>
+            <title><![CDATA[김명민×오달수×김지원, 다섯 번째 살인 막을 수 있을까? | 조선명탐정: 흡혈괴마의 비밀, MBC 240407 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101390100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101390100000</guid>
+            <pubDate>Mon, 08 Apr 2024 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024-04-07]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20244/133570128983813617.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배달 앱 리뷰왕 경비원 할아버지의 미친 글솜씨 | 리뷰왕 장봉기, MBC 240407 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101389100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101389100000</guid>
+            <pubDate>Mon, 08 Apr 2024 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024-04-07]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20244/133570128114587349.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[걷잡을 수 없이 커진 산불에서 탈출하기 | 브레이브 온 파이어, MBC 240407 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101388100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101388100000</guid>
+            <pubDate>Mon, 08 Apr 2024 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024-04-07]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20244/133570127370347168.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["네가 왜 거기서 나와~" 철인 경기 700킬로 미터를 따라온 유기견! | 아서, MBC 240407 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101387100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101387100000</guid>
+            <pubDate>Mon, 08 Apr 2024 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024-04-07]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20244/133570126695811303.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라이언 고슬링이 찍은 액션 영화의 감독이 전 여자친구라고? | 스턴트맨, MBC 240407 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101386100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101386100000</guid>
+            <pubDate>Mon, 08 Apr 2024 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024-04-07]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20244/133570126030952950.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄철 등산객 주의사항! 영화로 알아보는 등산 가이드┃<만남의 광장>, <127시간>, <여배우는 오늘도> (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101391100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101391100000</guid>
+            <pubDate>Mon, 08 Apr 2024 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024-04-06]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20244/133570130171958266.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여름이 이렇게 추워도 돼? 유령 퇴치 작전에 정신없는 멤버들 | 고스트버스터즈: 오싹한 뉴욕, MBC 240331 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827101384100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827101384100000</guid>
@@ -110,54 +158,6 @@
             <pubDate>Tue, 02 Apr 2024 03:18:33 GMT</pubDate>
             <content:encoded><![CDATA[2024-03-31]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/20244/133564929768374766.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[직장도 모자라서 연애까지? ‘필’ 인생에 끼어든 여자의 정체 | 하이, 젝시, MBC 240331 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101381100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101381100000</guid>
-            <pubDate>Tue, 02 Apr 2024 03:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024-03-31]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20244/133564927923460862.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독기 품은 박해일×류승룡의 짜릿한 ‘활’의 전쟁 | 최종병기 활, MBC 240331 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101380100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101380100000</guid>
-            <pubDate>Tue, 02 Apr 2024 03:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024-03-31]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20244/133564925509495889.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘인공 배양육’ 세상을 변화시킬 혁신일까 위협의 존재일까 | 지배종, MBC 240331 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101379100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101379100000</guid>
-            <pubDate>Tue, 02 Apr 2024 03:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024-03-31]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20244/133564922969124840.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<무간도> 주역! 양조위 X 유덕화의 살벌한 재회 | 골드핑거, MBC 240331 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101378100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101378100000</guid>
-            <pubDate>Tue, 02 Apr 2024 03:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024-03-31]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20244/133564921851770014.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오 게임 세상에서 진짜 히어로가 되기로 작정한 남자 | 프리 가이, MBC 240324 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101376100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101376100000</guid>
-            <pubDate>Mon, 25 Mar 2024 06:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[2024-03-24]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20243/133558150604248631.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닭강정으로 변한 김유정, 되돌리기 위해 고군분투하는 류승룡과 안재홍 | 닭강정, MBC 240324 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101375100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101375100000</guid>
-            <pubDate>Mon, 25 Mar 2024 06:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[2024-03-24]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20243/133558039541107614.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[요주의 픽] 스턴트맨 / [조현아의 플레이리스트] 비키퍼 / [소문의 시작] 골드핑거 / [1+1] 목스박 + 은밀하게 위대하게 / [아찔한 인터뷰] 기생수: 더 그레이 / [한국인이 사랑한 우리 영화 50선] 타짜 (영화가 좋다 ─ 다시보기)]]></title>
