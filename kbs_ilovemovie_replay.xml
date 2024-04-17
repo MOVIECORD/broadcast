@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Apr 2024 07:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 12:28:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[존박의 플레이리스트] 사바하 / [1+1] 은밀하게 위대하게 + 목스박]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024064833-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024064833-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 17 Apr 2024 12:28:11 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/04/17/661f9f128b4a560a2211b92c/thumbnail/661f9f128b4a560a2211b92c_upload_1713350153130.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[요주의 픽] 스턴트맨 / [조현아의 플레이리스트] 비키퍼 / [소문의 시작] 골드핑거 / [1+1] 목스박 + 은밀하게 위대하게 / [아찔한 인터뷰] 기생수: 더 그레이 / [한국인이 사랑한 우리 영화 50선] 타짜]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024046485-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 13 Mar 2024 10:16:30 GMT</pubDate>
             <content:encoded><![CDATA[226회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/03/13/65f177cab4da36205007d332/thumbnail/65f177cab4da36205007d332_0_1710324238749.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 고질라X콩: 뉴 엠파이어 / [조현아의 플레이리스트] 패스트 라이브즈 / [소문의 시작] 은하수 / [1+1] 야한(夜限) 사진관 VS 대무가 / [도도한 영화] 이재, 곧 죽습니다 파트 2 / [한국인이 사랑한 우리 영화 50선] 지구를 지켜라]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024039081-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024039081-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Mon, 15 Apr 2024 03:49:43 GMT</pubDate>
-            <content:encoded><![CDATA[894회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/03/09/65ebc81a526fbd3381d33a52/thumbnail/65ebc81a526fbd3381d33a52_0_1709951716842.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
