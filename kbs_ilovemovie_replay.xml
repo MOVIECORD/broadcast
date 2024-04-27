@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Apr 2024 01:05:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Apr 2024 04:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[요주의 픽] 애비게일 / [소문의 시작] 그녀가 죽었다 / [조현아의 플레이리스트] 30일 / [도도한 영화] 고속도로 가족 / [1+1] 파묘+명당 / [한국인이 사랑한 우리 영화 50선] 공조]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024069142-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024069142-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 27 Apr 2024 04:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/04/27/662c5f975aae0ccb4c32dd93/thumbnail/662c5f975aae0ccb4c32dd93_0_1714184686078.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소문의 시작] 범죄도시4 / [1+1] 검은 사제들+사바하]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024064834-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Mar 2024 10:15:50 GMT</pubDate>
             <content:encoded><![CDATA[228회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/03/27/6603edde8dcdbf9a42f53340/thumbnail/6603edde8dcdbf9a42f53340_0_1711533934750.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 쿵푸팬더4 / [조현아의 플레이리스트] 마더스 / [소문의 시작] 기생수: 더 그레이 / [1+1] 닭강정+돌연변이 / [도도한 영화] 어게인 1997 / [한국인이 사랑한 우리 영화 50선] 와이키키 브라더스]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024039083-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024039083-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 23 Mar 2024 03:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[896회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/03/23/65fe3a58526fbd3381d47ffd/thumbnail/65fe3a58526fbd3381d47ffd_0_1711160630350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
