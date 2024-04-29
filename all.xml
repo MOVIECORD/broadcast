@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 06:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 08:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <enclosure url="https://img.imbc.com/adams/Content/20244/133588303662546869.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[상큼 발랄한 ‘카메론 디아즈’의 모든 것을 담은 영화! | 메리에겐 뭔가 특별한 것이 있다, MBC 240428 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101411100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101411100000</guid>
+            <pubDate>Mon, 29 Apr 2024 08:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024-04-28]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20244/133588376820001909.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[어느 날 시작된 그들의 침략, 싸울 것인가, 먹힐 것인가! | 기생수 파트 1, 2, MBC 240428 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827101410100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827101410100000</guid>
@@ -150,14 +158,6 @@
             <pubDate>Mon, 22 Apr 2024 06:21:48 GMT</pubDate>
             <content:encoded><![CDATA[2024-04-21]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/20244/133582233198278447.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 변종이라고...?’ 기생생물과 공생하게 된 인간의 생존기 | 기생수: 더 그레이, MBC 240421 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101401100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101401100000</guid>
-            <pubDate>Mon, 22 Apr 2024 06:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[2024-04-21]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20244/133582231575753259.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[요주의 픽] 애비게일 / [소문의 시작] 그녀가 죽었다 / [조현아의 플레이리스트] 30일 / [도도한 영화] 고속도로 가족 / [1+1] 파묘+명당 / [한국인이 사랑한 우리 영화 50선] 공조 (영화가 좋다 ─ 다시보기)]]></title>
