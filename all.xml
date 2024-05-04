@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 May 2024 02:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 May 2024 04:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,6 +160,14 @@
             <enclosure url="https://img.imbc.com/adams/Content/20244/133582233198278447.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[요주의 픽] 이프, 가필드 더 무비, 혹성탈출: 새로운 시대 / [소문의 시작] 삼식이 삼촌 / [조현아의 플레이리스트] 4등 / [도도한 영화] 리뷰왕 장봉기 / [1+1] 어게인 1997+동감 / [한국인이 사랑한 우리 영화 50선] 명량 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024069144-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024069144-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 04 May 2024 04:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/05/04/66359c74895093f234cf660d/thumbnail/66359c74895093f234cf660d_0_1714790132535.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[도도한 영화] 소풍 / [1+1] 컴백트레일+해치지않아 (영화가 좋다 ─ 다시보기)]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024075681-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024075681-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
@@ -222,14 +230,6 @@
             <pubDate>Wed, 03 Apr 2024 10:16:14 GMT</pubDate>
             <content:encoded><![CDATA[229회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/04/03/660d28f88dcdbf9a42f5d67d/thumbnail/660d28f88dcdbf9a42f5d67d_upload_1712138686594.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 고스트버스터즈: 오싹한 뉴욕 / [소문의 시작] 지배종 / [조현아의 플레이리스트] 올 더 네임즈 오브 갓 / [아찔한 인터뷰] 댓글부대 / [1+1] 리뷰왕 장봉기 + 연애 빠진 로맨스 / [한국인이 사랑한 우리 영화 50선] 라이터를 켜라 (영화가 좋다 ─ 다시보기)]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024046484-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024046484-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 30 Mar 2024 03:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[897회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/03/30/660775038f29fa5f9a3249b3/thumbnail/660775038f29fa5f9a3249b3_0_1711765453451.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
