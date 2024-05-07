@@ -4,9 +4,33 @@
         <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 May 2024 23:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 01:05:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["살리고 죽이고 다 됩니다" 한 치 앞을 예상할 수 없는 이야기!ㅣ삼식이 삼촌, MBC 240428 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101415100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101415100000</guid>
+            <pubDate>Tue, 07 May 2024 01:05:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024-05-05]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20245/133595150862969254.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그녀와의 약속을 지키기 위해 일본으로 떠난 스윗남...♥ㅣ청춘 18X2 너에게로 이어지는 길, MBC 240428 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101414100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101414100000</guid>
+            <pubDate>Tue, 07 May 2024 01:05:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024-05-05]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20245/133595149757485054.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사고사로 살인을 조작하는 설계자? 그의 계획이 어긋나기 시작했다...ㅣ설계자, MBC 240428 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101413100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101413100000</guid>
+            <pubDate>Tue, 07 May 2024 01:05:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024-05-05]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20245/133595148784502087.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘내가 죽인 거 아니라고...’ 유명 인플루언서 죽음에 엮인 남자의 최후 | 그녀가 죽었다, MBC 240428 방송]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827101406100000</link>
@@ -54,30 +78,6 @@
             <pubDate>Mon, 29 Apr 2024 06:23:57 GMT</pubDate>
             <content:encoded><![CDATA[2024-04-28]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/20244/133588304336770227.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연쇄살인마 잡으려 건달과 손잡은 강력계 형사 김무열 | 악인전, MBC 240421 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101404100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101404100000</guid>
-            <pubDate>Mon, 22 Apr 2024 06:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[2024-04-21]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20244/133582234959542095.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[입맛이 살아나고 식욕이 피었나봄~🌸 영화 속 먹방 명장면 | <아메리칸 셰프>, <3일의 휴가>, MBC 240421 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101403100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101403100000</guid>
-            <pubDate>Mon, 22 Apr 2024 06:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[2024-04-21]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20244/133582234068286009.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도로에 지나가는 차들은 무슨 죄야... 돈에 미쳐서 못까지 박는 부부 | 카센타, MBC 240421 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101402100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101402100000</guid>
-            <pubDate>Mon, 22 Apr 2024 06:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[2024-04-21]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20244/133582233198278447.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
