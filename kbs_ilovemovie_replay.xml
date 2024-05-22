@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 10:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 11:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[도도한 영화] 해어화 / [1+1] 팜스프링스 + 플랜맨]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024085384-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024085384-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 22 May 2024 11:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/05/22/664dc83069dff89c43ddbde7/thumbnail/664dc83069dff89c43ddbde7_0_1716374807840.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[요주의 픽] 드라이브 / [기획: 조지 밀러 독점 인터뷰] 리오사: 매드맥스 사가 / [소문의 시작] 다우렌의 결혼/ [1+1] 나는 대놓고 신데렐라를 꿈꾼다+20세기 소녀 / [아찔한 인터뷰] 삼식이 삼촌 / [한국인이 사랑한 우리 영화 50선] 번지점프를 하다]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024083572-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 20 Apr 2024 03:16:58 GMT</pubDate>
             <content:encoded><![CDATA[900회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/04/20/662327c186efc5e62f920b19/thumbnail/662327c186efc5e62f920b19_0_1713580620833.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[존박의 플레이리스트] 사바하 / [1+1] 은밀하게 위대하게 + 목스박]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024064833-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024064833-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Wed, 17 Apr 2024 12:28:11 GMT</pubDate>
-            <content:encoded><![CDATA[230회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/04/17/661f9f128b4a560a2211b92c/thumbnail/661f9f128b4a560a2211b92c_upload_1713350153130.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
