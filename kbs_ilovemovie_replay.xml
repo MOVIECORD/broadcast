@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 May 2024 02:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 May 2024 03:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[요주의 픽] 콰이어트 플레이스: 첫째 날 / [소문의 시작] 설계자 / [도도한 영화] 유포자들 / [신들이 좋아] 영화 속 굿, 퇴마 명장면 / [1+1] The 8 Show+미스터 주부퀴즈왕 / [한국인이 사랑한 우리 영화 50선] 형]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024085412-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024085412-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 25 May 2024 03:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/05/25/66514be062a702f69d47a675/thumbnail/66514be062a702f69d47a675_0_1716604881816.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[도도한 영화] 해어화 / [1+1] 팜스프링스 + 플랜맨]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024085384-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Apr 2024 11:13:54 GMT</pubDate>
             <content:encoded><![CDATA[231회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/04/24/6628d730326a7e01f8b2a417/thumbnail/6628d730326a7e01f8b2a417_0_1713952955216.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 위대한 히트 / [조현아의 플레이리스트] 생일 / [소문의 시작] 종말의 바보 / [1+1] 가여운 것들 + 기묘한 가족 / [도도한 영화] 빈센트: 살인유발자 / [한국인이 사랑한 우리 영화 50선] 봄날은 간다]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024059326-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024059326-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 20 Apr 2024 03:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[900회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/04/20/662327c186efc5e62f920b19/thumbnail/662327c186efc5e62f920b19_0_1713580620833.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
