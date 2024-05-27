@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 May 2024 02:30:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 06:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,54 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg=="/>
         </item>
         <item>
+            <title><![CDATA[조각 같은 얼굴을 가진 엠마 왓슨의 인생작! | 미녀와 야수, MBC 240526 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101438100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101438100000</guid>
+            <pubDate>Mon, 27 May 2024 06:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024-05-26]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20245/133612463063786839.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비밀 요원과 썸 타다 글로벌 범죄에 휘말린 여자... | 나잇 앤 데이, MBC 240526 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101437100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101437100000</guid>
+            <pubDate>Mon, 27 May 2024 06:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024-05-26]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20245/133612462314390068.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고등학생 몸에 빙의된 그가 복수를 결심한 이유 | 조폭인 내가 고등학생이 되었습니다, MBC 240526 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101436100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101436100000</guid>
+            <pubDate>Mon, 27 May 2024 06:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024-05-26]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20245/133612461540471389.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소리에 반응하는 괴생명체?! 종말은 시작됐다! | 콰이어트 플레이스: 첫째 날, MBC 240526 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101435100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101435100000</guid>
+            <pubDate>Mon, 27 May 2024 06:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024-05-26]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20245/133612460737965905.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘나혼산’ 이주승, 카자흐스탄에서 가짜 결혼?┃다우렌의 결혼, MBC 240526 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101434100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101434100000</guid>
+            <pubDate>Mon, 27 May 2024 06:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024-05-26]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20245/133612459974354606.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[살인을 사고로 위장하는 살인 설계자?! 과몰입 유발, 예측 불가 범죄 스릴러! | 설계자, MBC 240526 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101433100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101433100000</guid>
+            <pubDate>Mon, 27 May 2024 06:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024-05-26]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20245/133612459438725933.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박보검이 건치로 수지한테 플러팅 하는 인터뷰 (AI 아님 진짜임) | 원더랜드, MBC 240519 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827101431100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827101431100000</guid>
@@ -110,54 +158,6 @@
             <pubDate>Mon, 20 May 2024 06:22:21 GMT</pubDate>
             <content:encoded><![CDATA[2024-05-19]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/20245/133606457086060925.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대기업 언론 전담팀이 존재한다? 여론을 움직이는 거대 조직의 실체! | 댓글부대, MBC 240519 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101428100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101428100000</guid>
-            <pubDate>Mon, 20 May 2024 06:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024-05-19]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20245/133606454933977172.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자극적일수록 돈이 된다! 비극적인 사고 현장에 카메라 들이미는 남자 | 나이트 크롤러, MBC 240519 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101427100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101427100000</guid>
-            <pubDate>Mon, 20 May 2024 06:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024-05-19]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20245/133606454319264464.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[댄스에 미친 열두 살 모범생의 반란! | 오늘부터 댄싱퀸, MBC 240519 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101426100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101426100000</guid>
-            <pubDate>Mon, 20 May 2024 06:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024-05-19]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20245/133606453667228763.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매드맥스 감독 조지 밀러가 한국을 제일 먼저 찾은 이유는? 전설의 귀환! | 퓨리오사: 매드맥스, MBC 240519 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101425100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101425100000</guid>
-            <pubDate>Mon, 20 May 2024 06:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024-05-19]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20245/133606452127651422.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은둔 생활을 멈추고 시끌벅적한 LA로 나온 남자의 사연은?! | 할리우드 살인사건, MBC 240512 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101423100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101423100000</guid>
-            <pubDate>Mon, 13 May 2024 12:30:19 GMT</pubDate>
-            <content:encoded><![CDATA[2024-05-12]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20245/133600383377655007.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1인 2역을 완벽하게 해내고 싶어 한 발레리나의 최후 | 블랙 스완, MBC 240512 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101422100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101422100000</guid>
-            <pubDate>Mon, 13 May 2024 12:30:19 GMT</pubDate>
-            <content:encoded><![CDATA[2024-05-12]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20245/133600380982123145.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[요주의 픽] 콰이어트 플레이스: 첫째 날 / [소문의 시작] 설계자 / [도도한 영화] 유포자들 / [신들이 좋아] 영화 속 굿, 퇴마 명장면 / [1+1] The 8 Show+미스터 주부퀴즈왕 / [한국인이 사랑한 우리 영화 50선] 형 (영화가 좋다 ─ 다시보기)]]></title>
