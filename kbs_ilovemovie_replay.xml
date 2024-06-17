@@ -4,17 +4,9 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jun 2024 04:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 08:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[요주의 픽] 카브리올레 / 도도한 영화] 하이라키 / [소문의 시작] 하이재킹 / [[1+1] 핸섬가이즈+웬수같은 내 로봇 / [한국인이 사랑한 우리 영화 50선] 터널 / [기획] 더 퍼스트 슬램덩크]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024095965-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024095965-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 15 Jun 2024 05:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전 방송]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/06/15/666cfc8dfbf49a8e6866b5b7/thumbnail/666cfc8dfbf49a8e6866b5b7_0_1718419265829.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[도도한 영화] 더 문 / [1+1] 반창꼬+기적]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024093942-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -78,6 +70,14 @@
             <pubDate>Sat, 18 May 2024 04:17:49 GMT</pubDate>
             <content:encoded><![CDATA[904회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/05/18/6648109b9c8ad389ffbd1289/thumbnail/6648109b9c8ad389ffbd1289_0_1715999711107.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[요주의 픽] 드림 시나리오 / [소문의 시작] The 8 Show / [조현아의 플레이리스트] 댓글부대 / [아찔한 인터] 그녀가 죽었다/ [1+1] 크래시+마스터 / [한국인이 사랑한 우리 영화 50선] 검사외전]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024069145-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024069145-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Mon, 17 Jun 2024 08:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[903회]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/05/11/663ed434ff7b5307b90b5254/thumbnail/663ed434ff7b5307b90b5254_0_1715394261014.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
