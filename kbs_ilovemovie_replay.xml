@@ -1,8 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/list.html?smenu=c2cc5a</id>
-    <title>영화가 좋다 ─ 다시보기</title>
-    <updated>2024-06-22T04:18:18.649Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>영화가 좋다 ─ 다시보기</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 22 Jun 2024 05:16:26 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[요주의 픽] 대치동 스캔들 / [소문의 시작] 돌풍 / [도도한 영화] 더 납작 엎드릴게요 / [신들이 좋다] 너 내가 누군지 아니? 범죄도시 마스코트야! / [1+1] 탈주+설계자 / [한국인이 사랑한 우리 영화 50선] 내 머리 속의 지우개]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024095966-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024095966-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 22 Jun 2024 05:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/06/22/6676368a543b7cf4d2c7a804/thumbnail/6676368a543b7cf4d2c7a804_0_1719023997742.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[조현아의 플레이리스트] 타로 / [1+1] 대외비+아부의 왕]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024103809-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024103809-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 22 Jun 2024 05:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/06/20/6672ae119945aa3b5d17449f/thumbnail/6672ae119945aa3b5d17449f_upload_1718908914046.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[요주의 픽] 카브리올레 / 도도한 영화] 하이라키 / [소문의 시작] 하이재킹 / [[1+1] 핸섬가이즈+웬수같은 내 로봇 / [한국인이 사랑한 우리 영화 50선] 터널 / [기획] 더 퍼스트 슬램덩크]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024095965-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024095965-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 22 Jun 2024 05:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[7일 전 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/06/18/667176839945aa3b5d172d3d/thumbnail/667176839945aa3b5d172d3d_0_1718712504856.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[도도한 영화] 더 문 / [1+1] 반창꼬+기적]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024093942-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024093942-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 22 Jun 2024 05:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[237회]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/06/12/666971cfb468ed338730be2b/thumbnail/666971cfb468ed338730be2b_upload_1718187403166.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[요주의 픽] 몽키맨 / [소문의 시작] 비긴즈유스 / [도도한 영화] 양치기 / [신들이 좋다] 영화 팬들의 마음을 설계하는 배우 강동원 명장면 총동원 / [1+1] 야차+비공식작전 / [한국인이 사랑한 우리 영화 50선] 용의자]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024095964-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024095964-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 22 Jun 2024 05:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[907회]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/06/08/6663c14d1cb89e3b12e9b8c8/thumbnail/6663c14d1cb89e3b12e9b8c8_0_1717814264690.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[지금 이 영화] 소년시절의 너 / [1+1] 난 지구 반대편 나라로 가 버릴 테야+정직한 후보2]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024093941-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024093941-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 22 Jun 2024 05:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[236회]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/06/05/66604402ffe29196409e1bda/thumbnail/66604402ffe29196409e1bda_0_1717585332063.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[요주의 픽] 나쁜 녀석들 / [조현아의 플레이리스트] 타로 / [소문의 시작] 원더랜드 / [1+1] 드라이브+셀러브리티 / [아찔한 터뷰] 하이재킹 / [한국인이 사랑한 우리 영화 50선] 기담]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024085413-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024085413-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 22 Jun 2024 05:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[906회]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/06/01/665a8d600136de4d3cfe632d/thumbnail/665a8d600136de4d3cfe632d_0_1717211162780.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[친절한 기리씨] 마이 스파이 / [1+1] 동감 + 어게인 1997]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024086511-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024086511-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 22 Jun 2024 05:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[235회]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/05/29/6656fc161cb89e3b12e8e033/thumbnail/6656fc161cb89e3b12e8e033_upload_1716977544839.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[요주의 픽] 콰이어트 플레이스: 첫째 날 / [소문의 시작] 설계자 / [도도한 영화] 유포자들 / [신들이 좋아] 영화 속 굿, 퇴마 명장면 / [1+1] The 8 Show+미스터 주부퀴즈왕 / [한국인이 사랑한 우리 영화 50선] 형]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024085412-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024085412-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 22 Jun 2024 05:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[905회]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/05/25/66514be062a702f69d47a675/thumbnail/66514be062a702f69d47a675_0_1716604881816.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
