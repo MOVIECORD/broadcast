@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jul 2024 10:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 11:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,6 +160,14 @@
             <enclosure url="https://img.imbc.com/adams/Content/20247/133642723755807450.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[도도한 영화] 롱디 / [1+1] 탈주+설계자 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024112448-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024112448-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 10 Jul 2024 11:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/07/10/668e5e3875bc520a63557c58/thumbnail/668e5e3875bc520a63557c58_0_1720606689897.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[요주의 픽] 내 아내가 숨기고 있는 것 / [한국인이 사랑한 우리 영화] 은밀하게 위대하게 / [소문의 시작] 탈출: 프로젝트 사일런스 / [도도한 영화] 엄마의 왕국 /  [1+1] 돌풍+후궁 : 제왕의 첩 / [신들이 좋다] 만화 찢고 나온 비주얼! 만찌남 만찢녀 (영화가 좋다 ─ 다시보기)]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024112541-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024112541-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
@@ -222,14 +230,6 @@
             <pubDate>Sat, 22 Jun 2024 05:16:25 GMT</pubDate>
             <content:encoded><![CDATA[237회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/06/12/666971cfb468ed338730be2b/thumbnail/666971cfb468ed338730be2b_upload_1718187403166.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 몽키맨 / [소문의 시작] 비긴즈유스 / [도도한 영화] 양치기 / [신들이 좋다] 영화 팬들의 마음을 설계하는 배우 강동원 명장면 총동원 / [1+1] 야차+비공식작전 / [한국인이 사랑한 우리 영화 50선] 용의자 (영화가 좋다 ─ 다시보기)]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024095964-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024095964-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 22 Jun 2024 05:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[907회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/06/08/6663c14d1cb89e3b12e9b8c8/thumbnail/6663c14d1cb89e3b12e9b8c8_0_1717814264690.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
