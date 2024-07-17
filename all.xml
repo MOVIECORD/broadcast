@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jul 2024 09:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jul 2024 10:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,6 +160,14 @@
             <enclosure url="https://img.imbc.com/adams/Content/20247/133648737227484467.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[도도한 영화] - 히든페이스 / [1+1] 30일+나의사랑나의신부 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024120877-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024120877-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 17 Jul 2024 10:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/07/17/6697979423081272831919f9/thumbnail/6697979423081272831919f9_0_1721211228327.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[요주의 픽] 데드풀과 울버린 / [도도한 영화] 조폭인 내가 고등학생이 되었습니다 / [기획] 올 여름 흥행 정조준! 이종필 감독 Pick "탈주" 흥행 POINT 3 / [소문의 시작] 스위트홈 시즌 3 / [1+1] 그녀가 죽었다+이웃사촌 / [아찔한 인터뷰] 빅토리 (영화가 좋다 ─ 다시보기)]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024112542-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024112542-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
@@ -222,14 +230,6 @@
             <pubDate>Sat, 22 Jun 2024 05:16:25 GMT</pubDate>
             <content:encoded><![CDATA[238회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/06/20/6672ae119945aa3b5d17449f/thumbnail/6672ae119945aa3b5d17449f_upload_1718908914046.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 카브리올레 / 도도한 영화] 하이라키 / [소문의 시작] 하이재킹 / [[1+1] 핸섬가이즈+웬수같은 내 로봇 / [한국인이 사랑한 우리 영화 50선] 터널 / [기획] 더 퍼스트 슬램덩크 (영화가 좋다 ─ 다시보기)]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024095965-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024095965-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 22 Jun 2024 05:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[908회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/06/18/667176839945aa3b5d172d3d/thumbnail/667176839945aa3b5d172d3d_0_1718712504856.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
