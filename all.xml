@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jul 2024 05:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 06:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,54 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg=="/>
         </item>
         <item>
+            <title><![CDATA[실종된 절친의 남편을 탐낸 대가는?ㅣ부탁 하나만 들어줘, MBC 240721 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101492100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101492100000</guid>
+            <pubDate>Mon, 22 Jul 2024 06:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[2024-07-21]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20247/133660886509715301.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아저씨는 왜 나만 보면 웃어요? ㅣ 8월의 크리스마스, MBC 240721 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101491100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101491100000</guid>
+            <pubDate>Mon, 22 Jul 2024 06:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[2024-07-21]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20247/133660885415889094.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[출소한 그는 200억짜리 흉악범?! ㅣ 노 웨이 아웃 : 더 룰렛, MBC 240721 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101490100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101490100000</guid>
+            <pubDate>Mon, 22 Jul 2024 06:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[2024-07-21]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20247/133660884672270873.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호랑이와 망망대해에 고립됐다!?ㅣ라이프 오브 파이, MBC 240721 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101489100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101489100000</guid>
+            <pubDate>Mon, 22 Jul 2024 06:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[2024-07-21]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20247/133660883466110515.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[납치 돼 트렁크에서 라이브 방송하는 그녀?ㅣ드라이브, MBC 240721 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101488100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101488100000</guid>
+            <pubDate>Mon, 22 Jul 2024 06:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[2024-07-21]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20247/133660882683599416.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하나의 목적을 위해 질주하는 전도연!┃리볼버, MBC 240721 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101487100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101487100000</guid>
+            <pubDate>Mon, 22 Jul 2024 06:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[2024-07-21]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20247/133660881557335157.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[신혼여행에 신랑 친구가 따라왔다? 마피아까지 소환된 막장 신혼여행! | 최악의 허니문, MBC 240714 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827101485100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827101485100000</guid>
@@ -110,54 +158,6 @@
             <pubDate>Mon, 15 Jul 2024 07:15:52 GMT</pubDate>
             <content:encoded><![CDATA[2024-07-14]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/20247/133654815745526353.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["여행 연애 바이블"의 귀환! 하루 만에 사랑에 빠진 청춘 남녀의 엔딩은? | 비포 선라이즈, MBC 240714 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101482100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101482100000</guid>
-            <pubDate>Mon, 15 Jul 2024 07:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024-07-14]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20247/133654810950056203.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세젤못 강아지 때문에 울버린이 데드풀 질투한 썰푼다 | 데드풀과 울버린, MBC 240714 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101481100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101481100000</guid>
-            <pubDate>Mon, 15 Jul 2024 07:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024-07-14]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20247/133654809723974847.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버스 속도가 80Km보다 느리면 폭탄이 터진다. 젊었던 키아누 리브스의 액션 그 자체 | 스피드, MBC 240707 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101479100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101479100000</guid>
-            <pubDate>Mon, 08 Jul 2024 07:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024-07-07]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20247/133648739012933128.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현실에서 조용한 아내가 넷상에선 네임드 키보드워리어?! | 내 아내가 숨기고 있는 것, MBC 240707 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101478100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101478100000</guid>
-            <pubDate>Mon, 08 Jul 2024 07:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024-07-07]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20247/133648738441185230.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바다를 누비는 해녀들의 속고 속이는 밀수 한 판! | 밀수, MBC 240707 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101477100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101477100000</guid>
-            <pubDate>Mon, 08 Jul 2024 07:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024-07-07]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20247/133648737794941427.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멈추면 터진다! 이정재의 초특급 무한 액션 | 빅매치, MBC 240707 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101476100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101476100000</guid>
-            <pubDate>Mon, 08 Jul 2024 07:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024-07-07]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20247/133648737227484467.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[요주의 픽] 행복의 나라 / [소문의 시작] 노 웨이 아웃 : 더 룰렛 / [도도한 영화] 타로: 일곱 장의 이야기 / [신들이 좋다] 운명의 더블샷 / [1+1] 킹덤 시즌 1+부산행 / [한국인이 사랑한 우리 영화 50선] 세븐 데이즈 (영화가 좋다 ─ 다시보기)]]></title>
