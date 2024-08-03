@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Aug 2024 01:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Aug 2024 04:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,6 +160,14 @@
             <enclosure url="https://img.imbc.com/adams/Content/20247/133660884672270873.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[요주의 픽] 트위스터스 / [소문의 시작] 행복의 나라 / [소문의 시작2] 유어 아너 / [도도한 영화] 필사의 추격 / [아찔한 인터뷰] 노 웨이 아웃 : 더 룰렛 / [1+1] 하이재킹+연가시 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024126013-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024126013-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 03 Aug 2024 04:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/08/03/66adab0e1fa9d6cc14f322fc/thumbnail/66adab0e1fa9d6cc14f322fc_0_1722658255701.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[요주의픽 <여인과 바다> 
 * 요아킴 뢰닝 감독 / 데이지 리들리, 틸다 코브햄-허비 외
 * 여성 최초로 영국 해협을 수영으로 횡단하는데 성공한 ‘트루디 에덜리’의 실화를 그린 이야기
@@ -267,14 +275,6 @@
             <pubDate>Wed, 03 Jul 2024 10:19:15 GMT</pubDate>
             <content:encoded><![CDATA[240회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/07/03/668523402d103ee650713818/thumbnail/668523402d103ee650713818_0_1720001737981.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 플라이 미 투 더 문 / [기획:여름특집] 핸섬가이 / [소문의 시작] 화인가 스캔들 / [아찔한 인터뷰] 파일럿 / [1+1] 이프: 상상의 친구+소년시대 / [도도한 영화] 원더랜드 (영화가 좋다 ─ 다시보기)]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024107387-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024107387-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Tue, 02 Jul 2024 12:30:24 GMT</pubDate>
-            <content:encoded><![CDATA[910회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/07/02/668408df1b98bb108d388b90/thumbnail/668408df1b98bb108d388b90_upload_1719929103104.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
