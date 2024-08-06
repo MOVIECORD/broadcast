@@ -4,7 +4,7 @@
         <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Aug 2024 07:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 08:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Tue, 06 Aug 2024 07:16:49 GMT</pubDate>
             <content:encoded><![CDATA[2024-08-04]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/20248/133673982079703789.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진주 귀걸이를 한 그녀는 화가의 시녀?! ㅣ 진주귀걸이를 한 소녀, MBC 240804 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101505100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101505100000</guid>
+            <pubDate>Tue, 06 Aug 2024 08:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024-08-04]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20248/133673981404081492.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그날, 반드시 살리고 싶은 사람이 있었다  ㅣ 행복의 나라, MBC 240804 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101504100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101504100000</guid>
+            <pubDate>Tue, 06 Aug 2024 08:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024-08-04]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20248/133673975636595827.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울행 비행기가 이북행 비행기가 됐다?!  ㅣ 하이재킹, MBC 240804 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101503100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101503100000</guid>
+            <pubDate>Tue, 06 Aug 2024 08:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024-08-04]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20248/133673974752467918.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[희대의 사기꾼이 된 박성웅?! ㅣ 필사의 추격, MBC 240804 방송]]></title>
@@ -54,30 +78,6 @@
             <pubDate>Mon, 29 Jul 2024 06:23:34 GMT</pubDate>
             <content:encoded><![CDATA[2024-07-28]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/20247/133666913092310590.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비리를 뒤집어 쓴 경찰...그런데 출소 후 약속했던 보상이 사라졌다?!ㅣ리볼버, MBC 240728 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101496100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101496100000</guid>
-            <pubDate>Mon, 29 Jul 2024 06:23:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024-07-28]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20247/133666896337807395.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영원한 몽상가! 공드리의 귀환! 세상에 없던 창작 노트가 공개된다ㅣ공드리의 솔루션북, MBC 240728 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101495100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101495100000</guid>
-            <pubDate>Mon, 29 Jul 2024 06:23:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024-07-28]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20247/133666895516585575.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세기말 감성 가요탑텐 쓸어버리는 덕선이의 귀환?ㅣ빅토리, MBC 240728 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101494100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101494100000</guid>
-            <pubDate>Mon, 29 Jul 2024 06:23:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024-07-28]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20247/133666887392360332.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
