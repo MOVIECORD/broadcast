@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Aug 2024 10:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Aug 2024 11:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[존박의 플레이리스트] - 위어드 / [1+1] 드림+퍼펙트 게임]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024139780-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024139780-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 21 Aug 2024 11:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/08/21/66c5c329fcd644f1a2bc0792/thumbnail/66c5c329fcd644f1a2bc0792_0_1724237131154.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[요주의 픽] 비틀쥬스 비틀쥬스 / [소문의 시작] 아무도 없는 숲속에서 / [도도한 영화] 스트레인저스: 챕터1 / [한국인이 사랑한 우리 영화] 헬로우 고스트 / [1+1] 아스테릭스: 더 미들 킹덤+핸섬가이즈 / [신들이 좋다] 휴가 끝! 슬기로운 직장 생활 시작!]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024136194-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -115,14 +123,6 @@
             <pubDate>Wed, 17 Jul 2024 10:19:08 GMT</pubDate>
             <content:encoded><![CDATA[242회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/07/17/6697979423081272831919f9/thumbnail/6697979423081272831919f9_0_1721211228327.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 데드풀과 울버린 / [도도한 영화] 조폭인 내가 고등학생이 되었습니다 / [기획] 올 여름 흥행 정조준! 이종필 감독 Pick "탈주" 흥행 POINT 3 / [소문의 시작] 스위트홈 시즌 3 / [1+1] 그녀가 죽었다+이웃사촌 / [아찔한 인터뷰] 빅토리]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024112542-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024112542-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 13 Jul 2024 02:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[912회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/07/13/6691e43f4ea0628133d996a6/thumbnail/6691e43f4ea0628133d996a6_0_1720838007845.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
