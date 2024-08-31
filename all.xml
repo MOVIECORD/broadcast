@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Aug 2024 03:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Aug 2024 04:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,6 +160,14 @@
             <enclosure url="https://img.imbc.com/adams/Content/20248/133685049779164282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[요주의 픽] 스픽 노 이블 / [소문의 시작] 원맨 / [도도한 영화] 우씨왕후 / [한국인이 사랑한 우리 영화] 정직한 후보 / [1+1] 강매강+탈주 / [아찔한 인터뷰] 아무도 없는 숲속에서 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024144048-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024144048-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 31 Aug 2024 04:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/08/31/66d294c8fcd644f1a2bcdf41/thumbnail/66d294c8fcd644f1a2bcdf41_0_1725077492654.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[소문의 시작] - 행복의 나라 / [1+1] 하이재킹+연가시 (영화가 좋다 ─ 다시보기)]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024143911-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024143911-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
@@ -267,14 +275,6 @@
             <pubDate>Wed, 31 Jul 2024 12:32:31 GMT</pubDate>
             <content:encoded><![CDATA[914회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/07/31/66aa1bc9ec7d4dae93b1c9a0/thumbnail/66aa1bc9ec7d4dae93b1c9a0_0_1722424737009.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소문의 시작] - 탈출 프로젝트 사일런스 / [1+1] 47미터+김씨 표류기 (영화가 좋다 ─ 다시보기)]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024120878-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024120878-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Wed, 24 Jul 2024 11:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[243회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/07/24/66a0de0f0c212f7d7e9c6804/thumbnail/66a0de0f0c212f7d7e9c6804_0_1721819237093.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
