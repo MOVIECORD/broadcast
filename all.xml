@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Sep 2024 05:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 07:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,54 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg=="/>
         </item>
         <item>
+            <title><![CDATA[엄마 친구 아들 알고리즘이 이끌고 온 아빠 친딸 정소민!ㅣ아빠는 딸, MBC 240908 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101540100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101540100000</guid>
+            <pubDate>Mon, 09 Sep 2024 07:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024-09-09]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20249/133703210977882533.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최애 콘서트 갔는데 아빠가 연쇄살인마로 수배된 썰푼다ㅣ트랩, MBC 240908 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101536100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101536100000</guid>
+            <pubDate>Mon, 09 Sep 2024 07:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024-09-09]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20249/133703200593516347.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배터리 떨어지면 쫓아간다?! 전자발찌 관리하는 김우빈!ㅣ무도실무관, MBC 240908 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101541100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101541100000</guid>
+            <pubDate>Mon, 09 Sep 2024 07:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024-09-08]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20249/133703213747328948.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[단풍보다 진~한 붉은빛 브로맨스 명작들!┃<탈주>, <천문: 하늘에 묻는다>, MBC 240908 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101539100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101539100000</guid>
+            <pubDate>Mon, 09 Sep 2024 07:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024-09-08]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20249/133703209947830269.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["내 인생 너한테 저당잡혔어" 어느 날 장애인을 키우는 엄마가 됐다! ㅣ그녀에게, MBC 240908 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101538100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101538100000</guid>
+            <pubDate>Mon, 09 Sep 2024 07:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024-09-08]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20249/133703208374198657.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피로 물든 지상낙원! 인간 사냥의 타깃이 된 난민들ㅣ헌티드, MBC 240908 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101537100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101537100000</guid>
+            <pubDate>Mon, 09 Sep 2024 07:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024-09-08]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20249/133703207200246313.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[폐쇄된 한강에서 잡혀간 딸을 찾아라!ㅣ괴물, MBC 240901 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827101534100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827101534100000</guid>
@@ -110,54 +158,6 @@
             <pubDate>Mon, 02 Sep 2024 06:25:27 GMT</pubDate>
             <content:encoded><![CDATA[2024-09-01]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/20249/133697185452609918.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8천억짜리 한탕을 위한 플랜 B가 시작된다!ㅣ 캐시아웃, MBC 240901 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101531100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101531100000</guid>
-            <pubDate>Mon, 02 Sep 2024 06:25:27 GMT</pubDate>
-            <content:encoded><![CDATA[2024-09-01]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20249/133697172026722249.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<출비 동물농장> 천재견 '래시'가 돌아왔다!┃래시: 뉴 어드벤처, MBC 240901 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101530100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101530100000</guid>
-            <pubDate>Mon, 02 Sep 2024 06:25:27 GMT</pubDate>
-            <content:encoded><![CDATA[2024-09-01]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20249/133697170073860020.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난 누구 여린 어디..?! 살아남고 싶은 자들의 처절한 몸부림 ㅣ 서바이벌 패밀리, 룸 이스케이프, 오징어 게임, MBC 240825 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101528100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101528100000</guid>
-            <pubDate>Mon, 26 Aug 2024 06:26:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024-08-25]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20248/133691088893361792.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김국호 죽이면 200억 준다? 죽이려는 자 VS 살려는 자의 대결 ㅣ 노 웨이 아웃:더 룰렛, MBC 240825 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101527100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101527100000</guid>
-            <pubDate>Mon, 26 Aug 2024 06:26:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024-08-25]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20248/133691088156690593.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행복한 전원생활 꿈꿨는데 납치범으로 오해받은 두 사람?! ㅣ 핸섬가이즈, MBC 240825 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101526100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101526100000</guid>
-            <pubDate>Mon, 26 Aug 2024 06:26:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024-08-25]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20248/133691087412123041.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왕위를 차지하기 위한 24시간의 치열한 추격전 ㅣ 우씨왕후, MBC 240825 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101525100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101525100000</guid>
-            <pubDate>Mon, 26 Aug 2024 06:26:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024-08-25]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20248/133691086787703530.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[한국인이 사랑한 영화] 방가? 방가! / [요주의 픽] 대도시의 사랑법 / [기획] 폭군 / [소문의 시작] 베테랑2 / [1+1] 무도실무관+발레리나 / [도도한 영화] 약한영웅 CLASS 1 (영화가 좋다 ─ 다시보기)]]></title>
