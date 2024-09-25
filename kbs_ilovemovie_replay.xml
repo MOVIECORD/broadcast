@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Sep 2024 09:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Sep 2024 12:36:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소문의 시작] - 아메리칸 카니지 / [1+1] 올빼미+청년경찰]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024168643-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024168643-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Wed, 25 Sep 2024 12:36:48 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/09/25/66f3deec2b74827b24e2f2d0/thumbnail/66f3deec2b74827b24e2f2d0_0_1727258845689.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영화 읽어드립니다] 필사의 추격 / [기획] 행복의 나라 / [요주의 픽] 미키 17, 조커: 폴리 아 되 / [소문의 시작] 경성크리처 시즌2 / [1+1] 아무도 없는 숲속에서+쇼미더고스트 / [한국인이 사랑한 영화] 럭키]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024160611-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 24 Aug 2024 04:19:33 GMT</pubDate>
             <content:encoded><![CDATA[918회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/08/24/66c95b33ec7d4dae93b3f685/thumbnail/66c95b33ec7d4dae93b3f685_0_1724473025181.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[존박의 플레이리스트] - 위어드 / [1+1] 드림+퍼펙트 게임]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024139780-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024139780-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Wed, 21 Aug 2024 11:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[245회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/08/21/66c5c329fcd644f1a2bc0792/thumbnail/66c5c329fcd644f1a2bc0792_0_1724237131154.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
