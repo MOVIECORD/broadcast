@@ -4,9 +4,17 @@
         <title>영화가 좋다 ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Sep 2024 03:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Sep 2024 04:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[요주의 픽] 아마존 활명수 / [소문의 시작] 대도시의 사랑법 / [소문의 시작2] 보통의 가족 / [도도한 영화] 6시간 후 너는 죽는다 / [1+1] 사랑 후에 오는 것들+너의 결혼식 / [신들이 좋다] 영화 속 용감한 형사·시민들]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024164998-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024164998-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 28 Sep 2024 04:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/09/28/66f77fcbec7d4dae93b6d40c/thumbnail/66f77fcbec7d4dae93b6d40c_0_1727496874365.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소문의 시작] - 아메리칸 카니지 / [1+1] 올빼미+청년경찰]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2020-0267&amp;program_id=PS-2024168643-01-001&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 28 Aug 2024 11:14:34 GMT</pubDate>
             <content:encoded><![CDATA[246회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/08/28/66cef7e81fa9d6cc14f554cb/thumbnail/66cef7e81fa9d6cc14f554cb_0_1724840753740.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 베테랑2, 아파트 이웃들이 수상해 시즌4 / [소문의 시작] 새벽 2시의 신데렐라 / [도도한 영화] 인사이드 아웃 2 / [1+1] 노 웨이 아웃:더 룰렛+육사오(6/45) / [기획] 빅토리 / [한국인이 사랑한 우리 영화] 위대한 소원]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024144047-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024144047-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 24 Aug 2024 04:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[918회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/08/24/66c95b33ec7d4dae93b3f685/thumbnail/66c95b33ec7d4dae93b3f685_0_1724473025181.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
