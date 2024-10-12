@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Oct 2024 03:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Oct 2024 04:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,6 +160,14 @@
             <enclosure url="https://img.imbc.com/adams/Content/20249/133721328064479626.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2024-10-12 (영화가 좋다 ─ 다시보기)]]></title>
+            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024174678-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
+            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024174678-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
+            <pubDate>Sat, 12 Oct 2024 04:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 방송]]></content:encoded>
+            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/10/12/6709f3862b74827b24e45ce9/thumbnail/6709f3862b74827b24e45ce9_0_1728706513648.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[영화 읽어드립니다] 데드풀과 울버린 / [달콤 살벌한 강희씨네 (Cine)] 비긴 어게인 / [새로고침] 베놈: 라스트 댄스, 전, 란 / [1+1] 더러운 돈에 손대지 마라+7호실 / [한국인이 사랑한 영화] 달콤, 살벌한 연인 (영화가 좋다 ─ 다시보기)]]></title>
             <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024166585-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
             <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024166585-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
@@ -222,14 +230,6 @@
             <pubDate>Wed, 04 Sep 2024 10:19:42 GMT</pubDate>
             <content:encoded><![CDATA[247회]]></content:encoded>
             <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/09/04/66d83187ec7d4dae93b4dfe5/thumbnail/66d83187ec7d4dae93b4dfe5_0_1725444960566.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요주의 픽] 스픽 노 이블 / [소문의 시작] 원맨 / [도도한 영화] 우씨왕후 / [한국인이 사랑한 우리 영화] 정직한 후보 / [1+1] 강매강+탈주 / [아찔한 인터뷰] 아무도 없는 숲속에서 (영화가 좋다 ─ 다시보기)]]></title>
-            <link>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024144048-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</link>
-            <guid>https://program.kbs.co.kr/2tv/enter/ilovemovie/pc/index.html?source=episode&amp;sname=vod&amp;stype=vod&amp;program_code=T2006-0995&amp;program_id=PS-2024144048-01-000&amp;broadcast_complete_yn=N&amp;local_station_code=00&amp;section_code=04&amp;section_sub_code=02</guid>
-            <pubDate>Sat, 31 Aug 2024 04:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[919회]]></content:encoded>
-            <enclosure url="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/mediafactory.play.kbs.co.kr/vod/2024/08/31/66d294c8fcd644f1a2bcdf41/thumbnail/66d294c8fcd644f1a2bcdf41_0_1725077492654.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
