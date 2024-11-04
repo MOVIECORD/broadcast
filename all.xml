@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Nov 2024 05:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Nov 2024 06:30:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,46 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg=="/>
         </item>
         <item>
+            <title><![CDATA[개교기념일에 귀신과 숨바꼭질을 하면 수능 만점을 받을 수 있다?ㅣ아메바 소녀들과 학교괴담: 개교기념일, MBC 241103 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101595100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101595100000</guid>
+            <pubDate>Mon, 04 Nov 2024 06:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[2024-11-03]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202411/133751591518524635.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[결혼식장에 나타나 신부를 납치해가는 마성의 유혹자ㅣMr. 플랑크톤, MBC 241103 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101594100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101594100000</guid>
+            <pubDate>Mon, 04 Nov 2024 06:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[2024-11-03]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202411/133751590347534393.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소설을 써라~!해서 썼는데 대박난 사람들┃<러브픽션>, <북 오브 러브>, <장르만 로맨스>, MBC 241103 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101593100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101593100000</guid>
+            <pubDate>Mon, 04 Nov 2024 06:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[2024-11-03]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202411/133751589000377794.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인간과 외계생명체의 기괴한 결합! 레전드 시리즈 <에이리언>의 일곱 번째 이야기ㅣ에이리언: 로물루스, MBC 241103 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101591100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101591100000</guid>
+            <pubDate>Mon, 04 Nov 2024 06:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[2024-11-03]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202411/133751588241399274.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[역대급 초록마녀의 등장? 슈렉 헐크 그리고 위키드!ㅣ사흘, MBC 241103 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101590100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101590100000</guid>
+            <pubDate>Mon, 04 Nov 2024 06:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[2024-11-03]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202411/133751578711433359.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이토록 기다렸던 한석규, 채원빈 출비 출격!ㅣ이토록 친밀한 배신자, MBC 241027 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827101587100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827101587100000</guid>
@@ -118,46 +158,6 @@
             <pubDate>Mon, 28 Oct 2024 06:27:56 GMT</pubDate>
             <content:encoded><![CDATA[2024-10-27]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/202410/133745645611569665.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주사위를 굴리는 순간, 황당한 저주가 시작된다!ㅣ갤롭: 저주의 보드게임, MBC 241020 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101582100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101582100000</guid>
-            <pubDate>Mon, 21 Oct 2024 06:28:39 GMT</pubDate>
-            <content:encoded><![CDATA[2024-10-21]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202410/133739591397522255.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설마~ 아마존 원주민들한테 양궁 가르치고 금메달 따오라는 그런 얘기 아니지? ㅇㅇ 그거 맞음. ㅣ아마존 활명수, MBC 241020 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101581100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101581100000</guid>
-            <pubDate>Mon, 21 Oct 2024 06:28:39 GMT</pubDate>
-            <content:encoded><![CDATA[2024-10-21]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202410/133739590046078867.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 꿈을 응원해주는 진정한 넘버 투 '박세완'ㅣ빅토리, MBC 241020 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101580100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101580100000</guid>
-            <pubDate>Mon, 21 Oct 2024 06:28:39 GMT</pubDate>
-            <content:encoded><![CDATA[2024-10-20]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202410/133739514555094953.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노비 강동원만 기다려온 박정민 도련님의 사정?ㅣ전,란, MBC 241020 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101579100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101579100000</guid>
-            <pubDate>Mon, 21 Oct 2024 06:28:39 GMT</pubDate>
-            <content:encoded><![CDATA[2024-10-20]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202410/133739513726850598.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결혼을 앞두고 ‘현실 재난’과 마주한다면?ㅣ결혼, 하겠나?, MBC 241020 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101578100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101578100000</guid>
-            <pubDate>Mon, 21 Oct 2024 06:28:39 GMT</pubDate>
-            <content:encoded><![CDATA[2024-10-20]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202410/133739498508116448.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
