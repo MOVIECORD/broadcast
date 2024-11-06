@@ -4,7 +4,7 @@
         <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 05:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 09:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 04 Nov 2024 06:30:15 GMT</pubDate>
             <content:encoded><![CDATA[2024-11-03]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/202411/133751589000377794.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["눈빛으로 말하는 사랑" 들리지 않아도, 말하지 않아도 알 수 있는 그들의 청춘, 그 시절!ㅣ청설, MBC 241103 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101592100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101592100000</guid>
+            <pubDate>Wed, 06 Nov 2024 09:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024-11-03]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202411/133751587826230597.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인간과 외계생명체의 기괴한 결합! 레전드 시리즈 <에이리언>의 일곱 번째 이야기ㅣ에이리언: 로물루스, MBC 241103 방송]]></title>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 28 Oct 2024 06:27:56 GMT</pubDate>
             <content:encoded><![CDATA[2024-10-27]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/202410/133745646655244975.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 남자는 왜 스스로 용의자가 되었는가?┃강남 비-사이드, MBC 241027 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101584100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101584100000</guid>
-            <pubDate>Mon, 28 Oct 2024 06:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[2024-10-27]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202410/133745645611569665.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
