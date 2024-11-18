@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Nov 2024 05:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Nov 2024 06:27:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,46 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg=="/>
         </item>
         <item>
+            <title><![CDATA[미스터리 작가가 살해당하고 미스터리가 시작됐다, MBC 241117 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101609100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101609100000</guid>
+            <pubDate>Mon, 18 Nov 2024 06:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024-11-17]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202411/133763689157823180.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고화질로 말아왔다! 어떻게 모아도 속이 후련한 레전드의 귀환, MBC 241117 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101608100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101608100000</guid>
+            <pubDate>Mon, 18 Nov 2024 06:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024-11-17]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202411/133763687681302249.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아파트에선 무슨 일이?┃<룸 쉐어링>, <목격자>, MBC 241117 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101607100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101607100000</guid>
+            <pubDate>Mon, 18 Nov 2024 06:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024-11-17]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202411/133763686461003854.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["자립할 준비가 되었습니까?" 보호기간이 종료된 보육원을 나와 독립을 결심한 스무살 하늘의 내 집 찾기 프로젝트!, MBC 241117 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101606100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101606100000</guid>
+            <pubDate>Mon, 18 Nov 2024 06:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024-11-17]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202411/133763684556898627.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스케일 무엇? 새로운 항해에 나선 모아나 2, MBC 241117 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101605100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101605100000</guid>
+            <pubDate>Mon, 18 Nov 2024 06:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024-11-17]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202411/133763678920436527.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[죽인 사람만 7명? ㄷㄷ.. 죄를 짓고도 떳떳한 연쇄살인마ㅣ암수살인,MBC 241110 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827101603100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827101603100000</guid>
@@ -118,46 +158,6 @@
             <pubDate>Mon, 11 Nov 2024 06:26:29 GMT</pubDate>
             <content:encoded><![CDATA[2024-11-10]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/202411/133757657964936626.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼 히어로에서 슈퍼 파파까지, ‘휴 잭맨’ 못 하는 게 뭐야?ㅣ리얼 스틸, MBC 241110 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101599100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101599100000</guid>
-            <pubDate>Mon, 11 Nov 2024 06:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024-11-10]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202411/133757657650212905.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘곡성’ 씬 스틸러 김환희, 9남매에게서 방을 사수하라!ㅣ 자기만의 방, MBC 241110 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101598100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101598100000</guid>
-            <pubDate>Mon, 11 Nov 2024 06:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024-11-10]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202411/133757657357691669.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개교기념일에 귀신과 숨바꼭질을 하면 수능 만점을 받을 수 있다?ㅣ아메바 소녀들과 학교괴담: 개교기념일, MBC 241103 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101595100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101595100000</guid>
-            <pubDate>Mon, 04 Nov 2024 06:30:15 GMT</pubDate>
-            <content:encoded><![CDATA[2024-11-03]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202411/133751591518524635.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결혼식장에 나타나 신부를 납치해가는 마성의 유혹자ㅣMr. 플랑크톤, MBC 241103 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101594100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101594100000</guid>
-            <pubDate>Mon, 04 Nov 2024 06:30:15 GMT</pubDate>
-            <content:encoded><![CDATA[2024-11-03]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202411/133751590347534393.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소설을 써라~!해서 썼는데 대박난 사람들┃<러브픽션>, <북 오브 러브>, <장르만 로맨스>, MBC 241103 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101593100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101593100000</guid>
-            <pubDate>Mon, 04 Nov 2024 06:30:15 GMT</pubDate>
-            <content:encoded><![CDATA[2024-11-03]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202411/133751589000377794.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
