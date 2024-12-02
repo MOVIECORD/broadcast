@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Dec 2024 04:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 06:28:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,46 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg=="/>
         </item>
         <item>
+            <title><![CDATA[주사 한 방이면 젊고 아름다워질 수 있다? (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101624100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101624100000</guid>
+            <pubDate>Mon, 02 Dec 2024 06:28:26 GMT</pubDate>
+            <content:encoded><![CDATA[2024-12-01]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202412/133775787466374373.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자본주의의 노예로 살기 VS 자본주의가 낳은 괴물로 살기! 당신의 선택은?┃<더 에이트 쇼>, <쿠폰의 여왕>, <7호실> (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101623100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101623100000</guid>
+            <pubDate>Mon, 02 Dec 2024 06:28:26 GMT</pubDate>
+            <content:encoded><![CDATA[2024-12-01]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202412/133775786150620098.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[층간소음 빌런을 향한 소심한 복수! 그날 이후 지옥으로 변해버린 빌라?! (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101622100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101622100000</guid>
+            <pubDate>Mon, 02 Dec 2024 06:28:26 GMT</pubDate>
+            <content:encoded><![CDATA[2024-12-01]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202412/133775784743739134.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["내가 지면 저 사람은 죽는다" 2001년 그날 새벽, 홍제동에서 벌어진 화재 참사! (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101621100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101621100000</guid>
+            <pubDate>Mon, 02 Dec 2024 06:28:26 GMT</pubDate>
+            <content:encoded><![CDATA[2024-12-01]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202412/133775783159478182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라이온 킹 최대 빌런 스카가 원래 순혈 왕족? 30년 만에 밝혀진 무파사 출생의 비밀! (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101620100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101620100000</guid>
+            <pubDate>Mon, 02 Dec 2024 06:28:26 GMT</pubDate>
+            <content:encoded><![CDATA[2024-12-01]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202412/133775781685149929.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[좀비로 떼돈 벌려다 떼거지로 쫓기게 된 김남길 ㅣ기묘한 가족 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827101617100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827101617100000</guid>
@@ -118,46 +158,6 @@
             <pubDate>Mon, 25 Nov 2024 06:27:47 GMT</pubDate>
             <content:encoded><![CDATA[2024-11-24]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/202411/133769743264472433.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니퍼 로렌스의 불꽃 튀는 액션 판타지ㅣ헝거게임: 캣칭 파이어 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101613100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101613100000</guid>
-            <pubDate>Mon, 25 Nov 2024 06:27:47 GMT</pubDate>
-            <content:encoded><![CDATA[2024-11-24]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202411/133769742452210649.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역대급 배구단 등장! 1승 하면 상금 20억?ㅣ 1승 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101612100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101612100000</guid>
-            <pubDate>Mon, 25 Nov 2024 06:27:47 GMT</pubDate>
-            <content:encoded><![CDATA[2024-11-24]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202411/133769741240440853.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공유, 서현진의 다섯 번째 남편이 됐다!┃트렁크 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101611100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101611100000</guid>
-            <pubDate>Mon, 25 Nov 2024 06:27:47 GMT</pubDate>
-            <content:encoded><![CDATA[2024-11-24]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202411/133769740709290092.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미스터리 작가가 살해당하고 미스터리가 시작됐다, MBC 241117 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101609100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101609100000</guid>
-            <pubDate>Mon, 18 Nov 2024 06:27:48 GMT</pubDate>
-            <content:encoded><![CDATA[2024-11-17]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202411/133763689157823180.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고화질로 말아왔다! 어떻게 모아도 속이 후련한 레전드의 귀환, MBC 241117 방송 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101608100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101608100000</guid>
-            <pubDate>Mon, 18 Nov 2024 06:27:48 GMT</pubDate>
-            <content:encoded><![CDATA[2024-11-17]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202411/133763687681302249.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
