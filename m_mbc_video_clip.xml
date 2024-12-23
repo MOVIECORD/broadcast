@@ -4,9 +4,17 @@
         <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 06:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 07:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IMF 외환 위기를 피해 도착한 그 곳, 보고타┃보고타: 마지막 기회의 땅]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101643100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101643100000</guid>
+            <pubDate>Mon, 23 Dec 2024 07:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024-12-22]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/202412/133794077858712188.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전 세계가 열광한 ‘그’ 게임, 다시 돌아왔다! ㅣ오징어 게임]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827101642100000</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 16 Dec 2024 04:23:45 GMT</pubDate>
             <content:encoded><![CDATA[2024-12-15]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/202412/133787863160686175.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령을 시해한 국무총리?! 얼룩진 세상을 청소할 거센 돌풍]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101633100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101633100000</guid>
-            <pubDate>Mon, 16 Dec 2024 04:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[2024-12-15]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/202412/133787862238910068.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
