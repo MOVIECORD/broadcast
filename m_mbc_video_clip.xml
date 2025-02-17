@@ -4,9 +4,33 @@
         <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Feb 2025 03:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 04:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네, 저는 참을 인 대신 살인을 택하겠습니다! ┃스위트피, MBC 20250216 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101689100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101689100000</guid>
+            <pubDate>Mon, 17 Feb 2025 04:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-16]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20252/133842325495138647.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세상에서 제일 깐깐한 오지랖퍼? 만능 해결사? 어쨌든...등장!┃백수아파트, MBC 20250216 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101688100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101688100000</guid>
+            <pubDate>Mon, 17 Feb 2025 04:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-16]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20252/133842324792965860.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[죽어서 지옥 왔는데 귀인 대접 해준다고? 완전 럭키자홍이잖앙!ㅣ신과함께 - 죄와 벌 & 인과 연, MBC 20250216 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101687100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101687100000</guid>
+            <pubDate>Mon, 17 Feb 2025 04:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-16]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20252/133842323957602346.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동계 아시안 게임 응원하며 보기 좋은 겨울왕국의 주역들! ┃<국가대표2>, <독수리 에디>]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827101686100000</link>
@@ -54,30 +78,6 @@
             <pubDate>Mon, 03 Feb 2025 11:17:11 GMT</pubDate>
             <content:encoded><![CDATA[2025-02-02]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/20252/133832045484334432.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 돌아온 캡틴과, 더 강력해진 레드 헐크까지!!ㅣ캡틴 아메리카: 브레이브 뉴 월드]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101678100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101678100000</guid>
-            <pubDate>Mon, 03 Feb 2025 11:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[2025-02-02]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20252/133832044988334791.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 동생의 죽음이 베스트셀러 소설에 예견되었다...?!ㅣ브로큰]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101677100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101677100000</guid>
-            <pubDate>Mon, 03 Feb 2025 11:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[2025-02-02]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20252/133832044658454294.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[복 들어오는 영화! 다 드루와 드루와~ㅣ<매직 티팟>, <과속스캔들>, <위시업>, MBC 20250126 방송]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101675100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101675100000</guid>
-            <pubDate>Mon, 27 Jan 2025 04:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[2025-01-26]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20251/133824185976044031.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
