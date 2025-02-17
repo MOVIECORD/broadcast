@@ -4,9 +4,17 @@
         <title>출발! 비디오 여행 모바일 ─ 스페셜영상</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Feb 2025 06:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 07:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이게 영화로 나온다고?? 레전드 게임 원작 컴백!ㅣ보더랜드, MBC 20250216 방송]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101690100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101690100000</guid>
+            <pubDate>Mon, 17 Feb 2025 07:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-16]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20252/133842326189299791.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네, 저는 참을 인 대신 살인을 택하겠습니다! ┃스위트피, MBC 20250216 방송]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827101689100000</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 10 Feb 2025 02:49:44 GMT</pubDate>
             <content:encoded><![CDATA[2025-02-09]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/20252/133836239772138554.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아들, 집에서 뭐 하는데 수도 요금이 120만원이 나오니?┃범죄의 여왕]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101679100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101679100000</guid>
-            <pubDate>Mon, 03 Feb 2025 11:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[2025-02-02]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20252/133832045484334432.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
