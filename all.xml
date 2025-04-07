@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 05:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 06:28:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,54 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg=="/>
         </item>
         <item>
+            <title><![CDATA[내 마음에 블라썸! 첫사랑 영화들┃<카페 벨에포크>, <너의 결혼식>, <너의 췌장을 먹고 싶어> (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101735100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101735100000</guid>
+            <pubDate>Mon, 07 Apr 2025 06:28:44 GMT</pubDate>
+            <content:encoded><![CDATA[2025-04-06]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20254/133884748803263646.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[핸드폰이 없다고? 죽어도 연락처 안 알려주는 썸녀의 비밀은? (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101734100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101734100000</guid>
+            <pubDate>Mon, 07 Apr 2025 06:28:44 GMT</pubDate>
+            <content:encoded><![CDATA[2025-04-06]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20254/133884747980815528.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양배추 달아요~ 얘넨 더 달아요! 유채꽃처럼 싱그러웠던 애순&관식 연애담 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101733100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101733100000</guid>
+            <pubDate>Mon, 07 Apr 2025 06:28:44 GMT</pubDate>
+            <content:encoded><![CDATA[2025-04-06]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20254/133884746806114751.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원귀가 떠도는 집에 이사 온 대가족의 최후 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101732100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101732100000</guid>
+            <pubDate>Mon, 07 Apr 2025 06:28:44 GMT</pubDate>
+            <content:encoded><![CDATA[2025-04-06]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20254/133884746246728592.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["무엇이 ‘진짜 아픔’일까" 극과 극 두 사촌의 예측불허 여행 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101731100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101731100000</guid>
+            <pubDate>Mon, 07 Apr 2025 06:28:44 GMT</pubDate>
+            <content:encoded><![CDATA[2025-04-06]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20254/133884745693693717.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[악마 때려잡는 마동석 VS 아내 죽인 빌런 때려잡는 CIA (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
+            <link>https://m.imbc.com/Vod/SketchView/1000827101730100000</link>
+            <guid>https://m.imbc.com/Vod/SketchView/1000827101730100000</guid>
+            <pubDate>Mon, 07 Apr 2025 06:28:44 GMT</pubDate>
+            <content:encoded><![CDATA[2025-04-06]]></content:encoded>
+            <enclosure url="https://img.imbc.com/adams/Content/20254/133884744903818033.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미모 美친 4명의 오빠들이 나 좋다고 하는 판타지 로맨스 드라마!ㅣ바니와 오빠들 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
             <link>https://m.imbc.com/Vod/SketchView/1000827101728100000</link>
             <guid>https://m.imbc.com/Vod/SketchView/1000827101728100000</guid>
@@ -110,54 +158,6 @@
             <pubDate>Mon, 31 Mar 2025 06:28:58 GMT</pubDate>
             <content:encoded><![CDATA[2025-03-30]]></content:encoded>
             <enclosure url="https://img.imbc.com/adams/Content/20253/133878721054157104.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리얼 침팬지로 표현한 영국 슈퍼스타의 정체는?┃베러맨 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101725100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101725100000</guid>
-            <pubDate>Mon, 31 Mar 2025 06:28:58 GMT</pubDate>
-            <content:encoded><![CDATA[2025-03-30]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20253/133878720056933919.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보험사기극은 어쩌다 암매장 사건이 됐을까!ㅣ악연 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101724100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101724100000</guid>
-            <pubDate>Mon, 31 Mar 2025 06:28:58 GMT</pubDate>
-            <content:encoded><![CDATA[2025-03-30]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Program/20214/132621615079065101.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하늘에서 정의가 빗발치는 영화!┃<청년경찰>, <존 윅> (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101722100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101722100000</guid>
-            <pubDate>Mon, 24 Mar 2025 08:29:08 GMT</pubDate>
-            <content:encoded><![CDATA[2025-03-23]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20253/133872649685649936.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수업 땡땡이 한번 치려다 재즈에 빠진 소녀들! (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101721100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101721100000</guid>
-            <pubDate>Mon, 24 Mar 2025 08:29:08 GMT</pubDate>
-            <content:encoded><![CDATA[2025-03-23]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20253/133872648131837065.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[접대 골프의 핵심은 알까기~! 로비하려다 골프 재능 발견한 하정우 (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101720100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101720100000</guid>
-            <pubDate>Mon, 24 Mar 2025 08:29:08 GMT</pubDate>
-            <content:encoded><![CDATA[2025-03-23]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20253/133872646842634289.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['믿음'에 대한 광기의 수수께끼! (출발! 비디오 여행 모바일 ─ 스페셜영상)]]></title>
-            <link>https://m.imbc.com/Vod/SketchView/1000827101719100000</link>
-            <guid>https://m.imbc.com/Vod/SketchView/1000827101719100000</guid>
-            <pubDate>Mon, 24 Mar 2025 08:29:08 GMT</pubDate>
-            <content:encoded><![CDATA[2025-03-23]]></content:encoded>
-            <enclosure url="https://img.imbc.com/adams/Content/20253/133872645622784004.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
